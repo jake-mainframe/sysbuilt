@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdecNumber32.a  CMakeFiles/decNumber32.dir/decnumber_version.c.o CMakeFiles/decNumber32.dir/source/decContext.c.o CMakeFiles/decNumber32.dir/source/decDouble.c.o CMakeFiles/decNumber32.dir/source/decNumber.c.o CMakeFiles/decNumber32.dir/source/decPacked.c.o CMakeFiles/decNumber32.dir/source/decQuad.c.o CMakeFiles/decNumber32.dir/source/decSingle.c.o CMakeFiles/decNumber32.dir/source/decimal128.c.o CMakeFiles/decNumber32.dir/source/decimal32.c.o CMakeFiles/decNumber32.dir/source/decimal64.c.o
+/usr/bin/ranlib libdecNumber32.a

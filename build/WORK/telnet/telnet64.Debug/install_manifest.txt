@@ -1,0 +1,5 @@
+/home/jake/sysgen/build/hercpkgs/lib/libtelnet64d.a
+/home/jake/sysgen/build/hercpkgs/include/telnet.h
+/home/jake/sysgen/build/hercpkgs/include/telnet_version.h
+/home/jake/sysgen/build/hercpkgs/./telnet.LICENSE.txt
+/home/jake/sysgen/build/hercpkgs/./telnet.README.txt

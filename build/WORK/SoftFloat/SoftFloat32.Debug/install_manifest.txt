@@ -1,0 +1,10 @@
+/home/jake/sysgen/build/hercpkgs/lib/libSoftFloat32d.a
+/home/jake/sysgen/build/hercpkgs/include/softfloat_version.h
+/home/jake/sysgen/build/hercpkgs/include/softfloat.h
+/home/jake/sysgen/build/hercpkgs/include/softfloat_types.h
+/home/jake/sysgen/build/hercpkgs/./softfloat.LICENSE.txt
+/home/jake/sysgen/build/hercpkgs/./softfloat.README.txt
+/home/jake/sysgen/build/hercpkgs/./softfloat.README.html
+/home/jake/sysgen/build/hercpkgs/doc/SoftFloat.html
+/home/jake/sysgen/build/hercpkgs/doc/SoftFloat-source.html
+/home/jake/sysgen/build/hercpkgs/doc/SoftFloat-history.html

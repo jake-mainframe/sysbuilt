@@ -1,0 +1,271 @@
+14:57:03 HHC00109E set_thread_priority( 5 ) failed: Operation not permitted
+14:57:03 HHC00007I Previous message from function 'impl' at impl.c(989)
+14:57:03 HHC00110W Defaulting all threads to priority 0
+14:57:03 HHC00007I Previous message from function 'impl' at impl.c(992)
+14:57:03 HHC00100I Thread id 00007f49a090c540, prio 0, name 'impl_thread' started
+14:57:03 HHC90020W 'hthread_setschedparam()' failed at loc=impl.c:1011: rc=22: Invalid argument
+14:57:03 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:57:03 HHC00100I Thread id 00007f49a0809700, prio 0, name 'logger_thread' started
+14:57:03 HHC01413I Hercules version 4.4.9999.0-SDL-g7bcdc7e6 (4.4.9999.0)
+14:57:03 HHC01414I (C) Copyright 1999-2021 by Roger Bowler, Jan Jaeger, and others
+14:57:03 HHC01417I ** The SoftDevLabs version of Hercules **
+14:57:03 HHC01415I Build date: Aug  4 2021 at 07:58:16
+14:57:03 HHC01417I Built with: GCC 9.3.0
+14:57:03 HHC01417I Build type: GNU/Linux x86_64 host architecture build
+14:57:03 HHC01417I Modes: S/370 ESA/390 z/Arch
+14:57:03 HHC01417I Max CPU Engines: 128
+14:57:03 HHC01417I Using   shared libraries
+14:57:03 HHC01417I Using   setresuid() for setting privileges
+14:57:03 HHC01417I Using   POSIX threads Threading Model
+14:57:03 HHC01417I Using   Error-Checking Mutex Locking Model
+14:57:03 HHC01417I With    Shared Devices support
+14:57:03 HHC01417I With    Dynamic loading support
+14:57:03 HHC01417I With    External GUI support
+14:57:03 HHC01417I With    IPV6 support
+14:57:03 HHC01417I With    HTTP Server support
+14:57:03 HHC01417I With    sqrtl support
+14:57:03 HHC01417I With    Signal handling
+14:57:03 HHC01417I With    Watchdog monitoring
+14:57:03 HHC01417I With    CCKD BZIP2 support
+14:57:03 HHC01417I With    HET BZIP2 support
+14:57:03 HHC01417I With    ZLIB support
+14:57:03 HHC01417I With    Regular Expressions support
+14:57:03 HHC01417I Without Object REXX support
+14:57:03 HHC01417I With    Regina REXX support
+14:57:03 HHC01417I With    Automatic Operator support
+14:57:03 HHC01417I Without National Language Support
+14:57:03 HHC01417I With    CCKD64 Support
+14:57:03 HHC01417I With    Transactional-Execution Facility support
+14:57:03 HHC01417I With    "Optimized" instructions
+14:57:03 HHC01417I With    OPTION_USE_SKAIP_AS_LOCK
+14:57:03 HHC01417I With    OPTION_SIE2BK_FLD_COPY
+14:57:03 HHC01417I Machine dependent assists: cmpxchg1 cmpxchg4 cmpxchg8 cmpxchg16 hatomics=C11
+14:57:03 HHC01417I Running on: jake-ThinkPad-T14-Gen-1 (Linux-5.8.0-63-generic x86_64) MP=16
+14:57:03 HHC01417I Built with crypto external package version 1.0.0.49-g837705e
+14:57:03 HHC01417I Built with decNumber external package version 3.68.0.99-gda66509
+14:57:03 HHC01417I Built with SoftFloat external package version 3.5.0.102-g42f2f99
+14:57:03 HHC01417I Built with telnet external package version 1.0.0.59-g2aca101
+14:57:03 HHC00018W Hercules is NOT running in elevated mode
+14:57:03 HHC00007I Previous message from function 'impl' at impl.c(1046)
+14:57:03 HHC00150I Crypto module loaded (C) Copyright 2003-2016 by Bernard van der Helm
+14:57:03 HHC00151I Activated facility: Message Security Assist
+14:57:03 HHC00151I Activated facility: Message Security Assist Extension 1, 2, 3 and 4
+14:57:03 HHC17528I REXX(Regina) VERSION: REXX-Regina_3.6(MT) 5.00 31 Dec 2011
+14:57:03 HHC17529I REXX(Regina) SOURCE:  UNIX
+14:57:03 HHC17525I REXX(Regina) Rexx has been started/enabled
+14:57:03 HHC17500I REXX(Regina) Mode            : Command
+14:57:03 HHC17500I REXX(Regina) MsgLevel        : Off
+14:57:03 HHC17500I REXX(Regina) MsgPrefix       : Off
+14:57:03 HHC17500I REXX(Regina) ErrPrefix       : Off
+14:57:03 HHC17500I REXX(Regina) Resolver        : On
+14:57:03 HHC17500I REXX(Regina) SysPath    ( 9) : On
+14:57:03 HHC17500I REXX(Regina) RexxPath   ( 0) :
+14:57:03 HHC17500I REXX(Regina) Extensions ( 8) : .REXX:.rexx:.REX:.rex:.CMD:.cmd:.RX:.rx
+14:57:03 HHC90020W 'hthread_setschedparam()' failed at loc=impl.c:432: rc=22: Invalid argument
+14:57:03 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:57:03 HHC00111I Thread CPU Time IS available (_POSIX_THREAD_CPUTIME=0)
+14:57:03 HHC90020W 'hthread_setschedparam()' failed at loc=cpu.c:2335: rc=22: Invalid argument
+14:57:03 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:57:03 HHC90020W 'hthread_setschedparam()' failed at loc=timer.c:193: rc=22: Invalid argument
+14:57:03 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:57:03 HHC00100I Thread id 00007f499bfff700, prio 0, name 'Processor CP00' started
+14:57:03 HHC00100I Thread id 00007f499befe700, prio 0, name 'timer_thread' started
+14:57:03 HHC00811I Processor CP00: architecture mode z/Arch
+14:57:03 HHC00811I Processor CP00: architecture mode S/370
+14:57:03 HHC02204I ARCHLVL        set to S/370
+14:57:03 HHC02204I LPARNUM        set to BASIC
+14:57:03 HHC02204I CPUSERIAL      set to 134001
+14:57:03 HHC02204I CPUMODEL       set to 0148
+14:57:03 HHC17003I MAIN     storage is 8M (mainsize); storage is not locked
+14:57:03 HHC17003I EXPANDED storage is 0 (xpndsize); storage is not locked
+14:57:03 HHC90020W 'hthread_setschedparam()' failed at loc=cpu.c:2335: rc=22: Invalid argument
+14:57:03 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:57:03 HHC00100I Thread id 00007f49a02a8700, prio 0, name 'Processor CP01' started
+14:57:03 HHC00811I Processor CP01: architecture mode S/370
+14:57:03 HHC02204I NUMCPU         set to 2
+14:57:03 HHC02204I LOADPARM       set to ........
+14:57:03 HHC02256W Command 'PANRATE' is deprecated; use PANOPT RATE=xxx instead
+14:57:03 HHC00007I Previous message from function 'panrate_cmd' at hsccmd.c(4254)
+14:57:03 HHC02204I PANRATE        set to 250
+14:57:03 HHC02204I SHCMDOPT       set to ENABLE  NODIAG8
+14:57:03 HHC02204I DIAG8CMD       set to ENABLE  NOECHO
+14:57:03 HHC02204I PANOPT         set to FULLPATH RATE=250 MSGCOLOR=DARK TITLE=(default)
+14:57:03 HHC01042I 0:000C COMM: device bound to socket localhost:3505
+14:57:03 HHC90020W 'hthread_setschedparam()' failed at loc=sockdev.c:407: rc=22: Invalid argument
+14:57:03 HHC01042I 0:001A COMM: device bound to socket localhost:3506
+14:57:03 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:57:03 HHC00100I Thread id 00007f49a01a7700, prio 0, name 'socket_thread' started
+14:57:03 HHC00414I 0:0150 CKD file dasd/mvsres.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:57:03 HHC00414I 0:0151 CKD file dasd/mvs000.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:57:03 HHC00414I 0:0152 CKD file dasd/page00.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:57:03 HHC00414I 0:0153 CKD file dasd/spool1.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:57:03 HHC00414I 0:0180 CKD file dasd/pub000.3380: model 3380 cyls 886 heads 15 tracks 13290 trklen 47616
+14:57:03 HHC00414I 0:0190 CKD file dasd/pub001.3390: model 3390 cyls 1114 heads 15 tracks 16710 trklen 56832
+14:57:03 HHC00414I 0:0220 CKD file dasd/sortw1.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+14:57:03 HHC00414I 0:0221 CKD file dasd/sortw2.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+14:57:03 HHC00414I 0:0222 CKD file dasd/sortw3.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+14:57:03 HHC00414I 0:0223 CKD file dasd/sortw4.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+14:57:03 HHC00414I 0:0224 CKD file dasd/sortw5.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+14:57:03 HHC00414I 0:0225 CKD file dasd/sortw6.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+14:57:03 HHC00414I 0:0250 CKD file dasd/smp000.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:57:04 HHC00414I 0:0251 CKD file dasd/work00.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:57:04 HHC00414I 0:0252 CKD file dasd/work01.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:57:04 HHC00414I 0:0253 CKD file dasd/syscpk.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:57:04 HHC90020W 'hthread_setschedparam()' failed at loc=console.c:3395: rc=22: Invalid argument
+14:57:04 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:57:04 HHC00100I Thread id 00007f499adf8700, prio 0, name 'console_connect' started
+14:57:04 HHC01024I Waiting for console connections on port 3270
+14:57:04 HHCTN002I 0602:TCPNJE - networking thread 00007f499acf7700 started for link SYSA - SYSB
+14:57:04 HHC02260I Script 1: begin processing file autostart.rc
+14:57:04 HHC01603I exec ../automate.rexx autostart.txt hercules.log -d &&
+14:57:04 HHC01603I facility enable HERC_TCPIP_EXTENSION
+14:57:04 HHC00898W Facility( HERC_TCPIP_EXTENSION ) *Enabled for S/370
+14:57:04 HHC00007I Previous message from function 'facility_enable_disable' at facility.c(3896)
+14:57:04 HHC01603I facility enable HERC_TCPIP_PROB_STATE
+14:57:04 HHC00898W Facility( HERC_TCPIP_PROB_STATE ) *Enabled for S/370
+14:57:04 HHC00007I Previous message from function 'facility_enable_disable' at facility.c(3896)
+14:57:04 HHC01603I facility enable herc_370_extension
+14:57:04 HHC00898W Facility( HERC_370_EXTENSION ) *Enabled for S/370
+14:57:04 HHC00007I Previous message from function 'facility_enable_disable' at facility.c(3896)
+14:57:04 HHC01603I ipl 150
+14:57:04 HHC01603I sh touch failure
+14:57:04 HHC17540I Commands file: /home/jake/sysgen/sysgen/autostart.txt
+14:57:04 HHC17540I Log file: /home/jake/sysgen/sysgen/hercules.log
+14:57:04 HHC17540I [AUTOMATE DEBUG] Debug enabled
+14:57:04 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC00010A Enter input for console 0...
+14:57:04 HHC17540I [AUTOMATE DEBUG] Response: /
+14:57:04 HHC02264I Script 1: file autostart.rc processing ended
+14:57:04 HHC00107I Starting thread cckd_ra(), active=0, started=0, max=2
+14:57:04 HHC00100I Thread id 00007f499a9f4700, prio 0, name 'cckd_ra thread 1' started
+14:57:04 HHC00107I Starting thread cckd_ra() from cckd_ra(), active=1, started=1, max=2
+14:57:04 HHC00100I Thread id 00007f499a8f3700, prio 0, name 'cckd_ra thread 2' started
+14:57:05 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP01, PARM 00000000: CC 0
+14:57:05 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP02, PARM 00000000: CC 3
+14:57:05 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP03, PARM 00000000: CC 3
+14:57:05 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP04, PARM 00000000: CC 3
+14:57:05 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP05, PARM 00000000: CC 3
+14:57:05 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP06, PARM 00000000: CC 3
+14:57:05 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP07, PARM 00000000: CC 3
+14:57:05 /IEA101A SPECIFY SYSTEM PARAMETERS FOR RELEASE 03.8 .VS2
+14:57:05 HHC00010A Enter input for console 0:0009
+14:57:10 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /
+14:57:11 /
+14:57:11 HHC17540I [AUTOMATE DEBUG] Waiting for: IFB010D ENTER 'IPL REASON,SUBSYSTEM ID' O...
+14:57:11 HHC17540I [AUTOMATE DEBUG] Response: /r 0,u
+14:57:11 HHC00107I Starting thread cckd_writer(), active=0, started=0, max=2
+14:57:11 HHC90020W 'hthread_setschedparam()' failed at loc=cckddasd.c:1775: rc=22: Invalid argument
+14:57:11 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:57:11 HHC00100I Thread id 00007f499a7f2700, prio 0, name 'cckd_writer thread 1' started
+14:57:11 /IEA940I THE FOLLOWING PAGE DATA SETS ARE IN USE
+14:57:11 HHC00107I Starting thread cckd_gcol(), active=0, started=0, max=1
+14:57:11 HHC00100I Thread id 00007f499a6f1700, prio 0, name 'cckd_gcol' started
+14:57:11 / PLPA ... SYS1.PAGELPA
+14:57:11 / COMMON . SYS1.PAGECSA
+14:57:11 / LOCAL .. SYS1.PAGEL00
+14:57:13 HHC01603I exit
+14:57:13 HHC01420I Begin Hercules shutdown
+14:57:13 HHC01423I Calling termination routines
+14:57:13 HHC01423I Calling termination routines
+14:57:13 HHC00101I Thread id 00007f49a01a7700, prio 0, name 'socket_thread' ended
+14:57:13 HHC00101I Thread id 00007f499bfff700, prio 0, name 'Processor CP00' ended
+14:57:13 HHC00101I Thread id 00007f49a02a8700, prio 0, name 'Processor CP01' ended
+14:57:13 HHC00333I 0:0150   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00334I 0:0150                                                      readaheads   misses
+14:57:13 HHC00335I 0:0150 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0150 [*] 32 00012902470 008% 0009    0000117 0000000 0000012 0000209  0000268
+14:57:13 HHC00337I 0:0150                                                         0000066  0000004
+14:57:13 HHC00338I 0:0150 dasd/mvsres.3350
+14:57:13 HHC00339I 0:0150 [0] 32 00012902470 008% 0009 rw 0000117 0000000 0000012
+14:57:13 HHC00333I 0:0151   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00335I 0:0151 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0151 [*] 32 00003091380 025% 0006    0000004 0000000 0000003 0000000  0000004
+14:57:13 HHC00338I 0:0151 dasd/mvs000.3350
+14:57:13 HHC00339I 0:0151 [0] 32 00003091380 025% 0006 rw 0000004 0000000 0000003
+14:57:13 HHC00107I Starting thread cckd_writer() from cckd_writer(), active=1, started=1, max=2
+14:57:13 HHC90020W 'hthread_setschedparam()' failed at loc=cckddasd.c:1775: rc=22: Invalid argument
+14:57:13 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:57:13 HHC00100I Thread id 00007f49a02a8700, prio 0, name 'cckd_writer thread 2' started
+14:57:13 HHC00333I 0:0152   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00334I 0:0152                                                      readaheads   misses
+14:57:13 HHC00335I 0:0152 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0152 [*] 32 00016585591 007% 0215    0000141 0001618 0000052 0000079  0000158
+14:57:13 HHC00337I 0:0152                                                         0000062  0000014
+14:57:13 HHC00338I 0:0152 dasd/page00.3350
+14:57:13 HHC00339I 0:0152 [0] 32 00016585591 007% 0215 rw 0000141 0001618 0000052
+14:57:13 HHC00333I 0:0153   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00335I 0:0153 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0153 [*] 32 00002330962 000% 0016    0000001 0000000 0000001 0000000  0000001
+14:57:13 HHC00338I 0:0153 dasd/spool1.3350
+14:57:13 HHC00339I 0:0153 [0] 32 00002330962 000% 0016 rw 0000001 0000000 0000001
+14:57:13 HHC00333I 0:0180   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00335I 0:0180 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0180 [*] 32 00000195571 000% 0000    0000001 0000000 0000001 0000000  0000001
+14:57:13 HHC00338I 0:0180 dasd/pub000.3380
+14:57:13 HHC00339I 0:0180 [0] 32 00000195571 000% 0000 rw 0000001 0000000 0000001
+14:57:13 HHC00333I 0:0190   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00335I 0:0190 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0190 [*] 32 00008416959 000% 0000    0000001 0000000 0000001 0000000  0000001
+14:57:13 HHC00338I 0:0190 dasd/pub001.3390
+14:57:13 HHC00339I 0:0190 [0] 32 00008416959 000% 0000 rw 0000001 0000000 0000001
+14:57:13 HHC00333I 0:0220   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00335I 0:0220 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0220 [*] 32 00000440360 000% 0000    0000001 0000000 0000001 0000000  0000001
+14:57:13 HHC00338I 0:0220 dasd/sortw1.2314
+14:57:13 HHC00339I 0:0220 [0] 32 00000440360 000% 0000 rw 0000001 0000000 0000001
+14:57:13 HHC00333I 0:0221   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00335I 0:0221 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0221 [*] 32 00000054680 000% 0000    0000001 0000000 0000001 0000000  0000001
+14:57:13 HHC00338I 0:0221 dasd/sortw2.2314
+14:57:13 HHC00339I 0:0221 [0] 32 00000054680 000% 0000 rw 0000001 0000000 0000001
+14:57:13 HHC00333I 0:0222   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00335I 0:0222 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0222 [*] 32 00000614107 000% 0000    0000001 0000000 0000001 0000000  0000001
+14:57:13 HHC00338I 0:0222 dasd/sortw3.2314
+14:57:13 HHC00339I 0:0222 [0] 32 00000614107 000% 0000 rw 0000001 0000000 0000001
+14:57:13 HHC00333I 0:0223   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00335I 0:0223 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0223 [*] 32 00000648092 000% 0000    0000001 0000000 0000001 0000000  0000001
+14:57:13 HHC00338I 0:0223 dasd/sortw4.2314
+14:57:13 HHC00339I 0:0223 [0] 32 00000648092 000% 0000 rw 0000001 0000000 0000001
+14:57:13 HHC00333I 0:0224   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00335I 0:0224 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0224 [*] 32 00000210963 000% 0000    0000001 0000000 0000001 0000000  0000001
+14:57:13 HHC00338I 0:0224 dasd/sortw5.2314
+14:57:13 HHC00339I 0:0224 [0] 32 00000210963 000% 0000 rw 0000001 0000000 0000001
+14:57:13 HHC00333I 0:0225   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00335I 0:0225 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0225 [*] 32 00000038047 000% 0000    0000001 0000000 0000001 0000000  0000001
+14:57:13 HHC00338I 0:0225 dasd/sortw6.2314
+14:57:13 HHC00339I 0:0225 [0] 32 00000038047 000% 0000 rw 0000001 0000000 0000001
+14:57:13 HHC00333I 0:0250   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00335I 0:0250 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0250 [*] 32 00051160418 035% 0152    0000001 0000000 0000001 0000000  0000001
+14:57:13 HHC00338I 0:0250 dasd/smp000.3350
+14:57:13 HHC00339I 0:0250 [0] 32 00051160418 035% 0152 rw 0000001 0000000 0000001
+14:57:13 HHC00333I 0:0251   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00335I 0:0251 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0251 [*] 32 00002618557 000% 0000    0000001 0000000 0000001 0000000  0000001
+14:57:13 HHC00338I 0:0251 dasd/work00.3350
+14:57:13 HHC00339I 0:0251 [0] 32 00002618557 000% 0000 rw 0000001 0000000 0000001
+14:57:13 HHC00333I 0:0252   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00335I 0:0252 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0252 [*] 32 00015146487 000% 0000    0000001 0000000 0000001 0000000  0000001
+14:57:13 HHC00338I 0:0252 dasd/work01.3350
+14:57:13 HHC00339I 0:0252 [0] 32 00015146487 000% 0000 rw 0000001 0000000 0000001
+14:57:13 HHC00333I 0:0253   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:57:13 HHC00335I 0:0253 ------------------------------------------------------------------------
+14:57:13 HHC00336I 0:0253 [*] 32 00026916354 003% 0001    0000001 0000000 0000001 0000000  0000001
+14:57:13 HHC00338I 0:0253 dasd/syscpk.3350
+14:57:13 HHC00339I 0:0253 [0] 32 00026916354 003% 0001 rw 0000001 0000000 0000001
+14:57:13 HHC00101I Thread id 00007f499a9f4700, prio 0, name 'cckd_ra thread 1' ended
+14:57:13 HHC00101I Thread id 00007f499a8f3700, prio 0, name 'cckd_ra thread 2' ended
+14:57:13 HHC00101I Thread id 00007f499a6f1700, prio 0, name 'cckd_gcol' ended
+14:57:13 HHC00101I Thread id 00007f49a02a8700, prio 0, name 'cckd_writer thread 2' ended
+14:57:13 HHC00101I Thread id 00007f499a7f2700, prio 0, name 'cckd_writer thread 1' ended
+14:57:13 HHC00101I Thread id 00007f499adf8700, prio 0, name 'console_connect' ended
+14:57:13 HHCTN009I 0602:TCPNJE - networking thread terminated
+14:57:13 HHC01427I Main storage released
+14:57:13 HHC01427I Expanded storage released
+14:57:13 HHC01422I Configuration released
+14:57:13 HHC00101I Thread id 00007f499befe700, prio 0, name 'timer_thread' ended
+14:57:13 HHC00101I Thread id 00007f49a090c540, prio 0, name 'panel_display' ended

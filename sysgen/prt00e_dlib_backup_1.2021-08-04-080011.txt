@@ -1,0 +1,1079 @@
+                                        IIIIIIIIII   NN        NN   IIIIIIIIII   TTTTTTTTTTTT
+                                        IIIIIIIIII   NNN       NN   IIIIIIIIII   TTTTTTTTTTTT
+                                            II       NNNN      NN       II            TT
+                                            II       NN NN     NN       II            TT
+                                            II       NN  NN    NN       II            TT
+                                            II       NN   NN   NN       II            TT
+                                            II       NN    NN  NN       II            TT
+                                            II       NN     NN NN       II            TT
+                                            II       NN      NNNN       II            TT
+                                            II       NN       NNN       II            TT
+                                        IIIIIIIIII   NN        NN   IIIIIIIIII        TT
+                                        IIIIIIIIII   NN         N   IIIIIIIIII        TT
+
+
+
+                   SSSSSSSSSS    3333333333                                                            AAAAAAAAAA
+                  SSSSSSSSSSSS  333333333333                                                          AAAAAAAAAAAA
+                  SS        SS  33        33                                                          AA        AA
+                  SS                      33                                                          AA        AA
+                  SSS                     33                                                          AA        AA
+                   SSSSSSSSS           3333                                                           AAAAAAAAAAAA
+                    SSSSSSSSS          3333                                                           AAAAAAAAAAAA
+                           SSS            33                                                          AA        AA
+                            SS            33                                                          AA        AA
+                  SS        SS  33        33                                                          AA        AA
+                  SSSSSSSSSSSS  333333333333                                                          AA        AA
+                   SSSSSSSSSS    3333333333                                                           AA        AA
+
+
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+****A  START  STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3  START  A****
+                                                J E S 2   J O B   L O G
+
+
+07.00.32 STC    3  $HASP373 INIT     STARTED
+07.00.39 STC    3  $HASP395 INIT     ENDED
+
+
+
+------ JES2 JOB STATISTICS ------
+
+
+
+         2 CARDS READ
+
+
+
+         6 SYSOUT PRINT RECORDS
+
+
+
+         0 SYSOUT PUNCH RECORDS
+
+
+
+      0.11 MINUTES EXECUTION TIME
+    1     //INIT     JOB MSGLEVEL=1                                               STC    3
+    2     //INIT     EXEC INIT
+    3     XXIEFPROC   EXEC   PGM=IEFIIC,DPRTY=12                                  40000002
+IEF142I INIT INIT - STEP WAS EXECUTED - COND CODE 0000
+                                        IIIIIIIIII   NN        NN   IIIIIIIIII   TTTTTTTTTTTT
+                                        IIIIIIIIII   NNN       NN   IIIIIIIIII   TTTTTTTTTTTT
+                                            II       NNNN      NN       II            TT
+                                            II       NN NN     NN       II            TT
+                                            II       NN  NN    NN       II            TT
+                                            II       NN   NN   NN       II            TT
+                                            II       NN    NN  NN       II            TT
+                                            II       NN     NN NN       II            TT
+                                            II       NN      NNNN       II            TT
+                                            II       NN       NNN       II            TT
+                                        IIIIIIIIII   NN        NN   IIIIIIIIII        TT
+                                        IIIIIIIIII   NN         N   IIIIIIIIII        TT
+
+
+
+                   SSSSSSSSSS    3333333333                                                            AAAAAAAAAA
+                  SSSSSSSSSSSS  333333333333                                                          AAAAAAAAAAAA
+                  SS        SS  33        33                                                          AA        AA
+                  SS                      33                                                          AA        AA
+                  SSS                     33                                                          AA        AA
+                   SSSSSSSSS           3333                                                           AAAAAAAAAAAA
+                    SSSSSSSSS          3333                                                           AAAAAAAAAAAA
+                           SSS            33                                                          AA        AA
+                            SS            33                                                          AA        AA
+                  SS        SS  33        33                                                          AA        AA
+                  SSSSSSSSSSSS  333333333333                                                          AA        AA
+                   SSSSSSSSSS    3333333333                                                           AA        AA
+
+
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+****A   END   STC    3  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    3   END   A****
+                                        IIIIIIIIII   NN        NN   IIIIIIIIII   TTTTTTTTTTTT
+                                        IIIIIIIIII   NNN       NN   IIIIIIIIII   TTTTTTTTTTTT
+                                            II       NNNN      NN       II            TT
+                                            II       NN NN     NN       II            TT
+                                            II       NN  NN    NN       II            TT
+                                            II       NN   NN   NN       II            TT
+                                            II       NN    NN  NN       II            TT
+                                            II       NN     NN NN       II            TT
+                                            II       NN      NNNN       II            TT
+                                            II       NN       NNN       II            TT
+                                        IIIIIIIIII   NN        NN   IIIIIIIIII        TT
+                                        IIIIIIIIII   NN         N   IIIIIIIIII        TT
+
+
+
+                   SSSSSSSSSS         444                                                              AAAAAAAAAA
+                  SSSSSSSSSSSS       4444                                                             AAAAAAAAAAAA
+                  SS        SS      44 44                                                             AA        AA
+                  SS               44  44                                                             AA        AA
+                  SSS             44   44                                                             AA        AA
+                   SSSSSSSSS     44444444444                                                          AAAAAAAAAAAA
+                    SSSSSSSSS   444444444444                                                          AAAAAAAAAAAA
+                           SSS         44                                                             AA        AA
+                            SS         44                                                             AA        AA
+                  SS        SS         44                                                             AA        AA
+                  SSSSSSSSSSSS         44                                                             AA        AA
+                   SSSSSSSSSS          44                                                             AA        AA
+
+
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+****A  START  STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4  START  A****
+                                                J E S 2   J O B   L O G
+
+
+07.00.32 STC    4  $HASP373 INIT     STARTED
+07.00.39 STC    4  $HASP395 INIT     ENDED
+
+
+
+------ JES2 JOB STATISTICS ------
+
+
+
+         2 CARDS READ
+
+
+
+         6 SYSOUT PRINT RECORDS
+
+
+
+         0 SYSOUT PUNCH RECORDS
+
+
+
+      0.11 MINUTES EXECUTION TIME
+    1     //INIT     JOB MSGLEVEL=1                                               STC    4
+    2     //INIT     EXEC INIT
+    3     XXIEFPROC   EXEC   PGM=IEFIIC,DPRTY=12                                  40000002
+IEF142I INIT INIT - STEP WAS EXECUTED - COND CODE 0000
+                                        IIIIIIIIII   NN        NN   IIIIIIIIII   TTTTTTTTTTTT
+                                        IIIIIIIIII   NNN       NN   IIIIIIIIII   TTTTTTTTTTTT
+                                            II       NNNN      NN       II            TT
+                                            II       NN NN     NN       II            TT
+                                            II       NN  NN    NN       II            TT
+                                            II       NN   NN   NN       II            TT
+                                            II       NN    NN  NN       II            TT
+                                            II       NN     NN NN       II            TT
+                                            II       NN      NNNN       II            TT
+                                            II       NN       NNN       II            TT
+                                        IIIIIIIIII   NN        NN   IIIIIIIIII        TT
+                                        IIIIIIIIII   NN         N   IIIIIIIIII        TT
+
+
+
+                   SSSSSSSSSS         444                                                              AAAAAAAAAA
+                  SSSSSSSSSSSS       4444                                                             AAAAAAAAAAAA
+                  SS        SS      44 44                                                             AA        AA
+                  SS               44  44                                                             AA        AA
+                  SSS             44   44                                                             AA        AA
+                   SSSSSSSSS     44444444444                                                          AAAAAAAAAAAA
+                    SSSSSSSSS   444444444444                                                          AAAAAAAAAAAA
+                           SSS         44                                                             AA        AA
+                            SS         44                                                             AA        AA
+                  SS        SS         44                                                             AA        AA
+                  SSSSSSSSSSSS         44                                                             AA        AA
+                   SSSSSSSSSS          44                                                             AA        AA
+
+
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+****A   END   STC    4  INIT                            ROOM        7.00.39 AM  4 AUG 21  PRINTER1  SYS H158  STC    4   END   A****
+                   SSSSSSSSSS   MM        MM  PPPPPPPPPPP         444     PPPPPPPPPPP         444           444
+                  SSSSSSSSSSSS  MMM      MMM  PPPPPPPPPPPP       4444     PPPPPPPPPPPP       4444          4444
+                  SS        SS  MMMM    MMMM  PP        PP      44 44     PP        PP      44 44         44 44
+                  SS            MM MM  MM MM  PP        PP     44  44     PP        PP     44  44        44  44
+                  SSS           MM  MMMM  MM  PP        PP    44   44     PP        PP    44   44       44   44
+                   SSSSSSSSS    MM   MM   MM  PPPPPPPPPPPP   44444444444  PPPPPPPPPPPP   44444444444   44444444444
+                    SSSSSSSSS   MM        MM  PPPPPPPPPPP   444444444444  PPPPPPPPPPP   444444444444  444444444444
+                           SSS  MM        MM  PP                   44     PP                   44            44
+                            SS  MM        MM  PP                   44     PP                   44            44
+                  SS        SS  MM        MM  PP                   44     PP                   44            44
+                  SSSSSSSSSSSS  MM        MM  PP                   44     PP                   44            44
+                   SSSSSSSSSS   MM        MM  PP                   44     PP                   44            44
+
+
+
+                    JJJJJJJJJJ       11                                                                AAAAAAAAAA
+                    JJJJJJJJJJ      111                                                               AAAAAAAAAAAA
+                        JJ         1111                                                               AA        AA
+                        JJ           11                                                               AA        AA
+                        JJ           11                                                               AA        AA
+                        JJ           11                                                               AAAAAAAAAAAA
+                        JJ           11                                                               AAAAAAAAAAAA
+                        JJ           11                                                               AA        AA
+                  JJ    JJ           11                                                               AA        AA
+                  JJ    JJ           11                                                               AA        AA
+                  JJJJJJJJ       1111111111                                                           AA        AA
+                   JJJJJJ        1111111111                                                           AA        AA
+
+
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+****A  START  JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1  START  A****
+                                                J E S 2   J O B   L O G
+
+
+07.00.52 JOB    1  $HASP373 SMP4P44  STARTED - INIT  1 - CLASS A - SYS H158
+07.00.52 JOB    1  IEF244I SMP4P44 S1 - UNABLE TO ALLOCATE 1 UNIT(S)
+                           AT LEAST 1 OFFLINE UNIT(S) NEEDED.
+07.00.52 JOB    1  IEF489I SMP4P44 - 1 UNIT(S) NEEDED FOR I1
+07.00.52 JOB    1  IEF247I SMP4P44 - 182,183,184,170,171 OFFLINE
+07.00.52 JOB    1  IEF247I SMP4P44 - 282,283,284,382,383,384,482,483,484,582 NOT ACCESSIBLE
+07.00.52 JOB    1  IEF247I SMP4P44 - 583,584,682,683,684,270,271,370,371,470 NOT ACCESSIBLE
+07.00.52 JOB    1  IEF247I SMP4P44 - 471,570,571,670,671 NOT ACCESSIBLE
+07.00.52 JOB    1 *02 IEF238D SMP4P44 - REPLY DEVICE NAME OR 'CANCEL'.
+ 7.01.02 JOB    1  R 02,170
+07.01.03 JOB    1  IEC502E K 170,MVS38J,SL,SMP4P44,S2
+07.01.03 JOB    1 *IEC501A M 170,T74172,SL,6250 BPI,
+                   IEC501A SMP4P44,S2
+07.01.10 JOB    1 *IEC507D E 150,START1,SMP4P44,S2,
+                   IEC507D SYS1.PROCLIB
+07.01.10 JOB    1 *03 IEC507D REPLY 'U'-USE OR 'M'-UNLOAD
+ 7.01.15 JOB    1  R 03,U
+07.01.16 JOB    1  IEF234E K 170,T74172,PVT,SMP4P44,S2
+07.01.16 JOB    1 *IEC507D E 150,START1,SMP4P44,LK,
+                   IEC507D SYS1.LINKLIB
+07.01.16 JOB    1 *04 IEC507D REPLY 'U'-USE OR 'M'-UNLOAD
+ 7.01.21 JOB    1  R 04,U
+07.01.22 JOB    1 *IEC507D E 150,START1,SMP4P44,S4,
+                   IEC507D SYS1.PROCLIB
+07.01.22 JOB    1 *05 IEC507D REPLY 'U'-USE OR 'M'-UNLOAD
+ 7.01.25 JOB    1  R 05,U
+07.01.25 JOB    1 *06 IEH841D 148    CONFIRM REQUEST TO INITIALIZE
+ 7.01.29 JOB    1  R 06,U
+07.01.29 JOB    1 *07 IEH841D 149    CONFIRM REQUEST TO INITIALIZE
+ 7.01.32 JOB    1  R 07,U
+07.01.32 JOB    1 *08 IEH841D 14A    CONFIRM REQUEST TO INITIALIZE
+ 7.01.36 JOB    1  R 08,U
+07.02.01 JOB    1  IEH809I N 148,SMP000,SMP4P44 ,S5
+07.02.02 JOB    1  IEH809I N 149,WORK00,SMP4P44 ,S5
+07.02.02 JOB    1  IEH809I N 14A,WORK01,SMP4P44 ,S5
+07.02.02 JOB    1  IEF471E FOLLOWING RETAINED VOLUMES NO LONGER NEEDED BY SMP4P44
+                           MVS38J.
+07.02.02 JOB    1  $HASP395 SMP4P44  ENDED
+
+
+
+------ JES2 JOB STATISTICS ------
+
+
+
+       176 CARDS READ
+
+
+
+       629 SYSOUT PRINT RECORDS
+
+
+
+         0 SYSOUT PUNCH RECORDS
+      1.16 MINUTES EXECUTION TIME
+    1     //SMP4P44  JOB (SYSGEN),'SMP 4.44 FROM MVS38J',                         JOB    1
+          //             CLASS=A,
+          //             MSGCLASS=A,MSGLEVEL=(1,1)
+          ***
+          ***********************************************************************
+          ***
+          ***                       MVS 3.8 SYSGEN
+          ***                       ==============
+          ***
+          *** FUNC: 1. INSTALL SMP 4.44 LOAD MODULES INTO SYS1.LINKLIB FROM THE
+          ***          MVS 3.8J DLIB TAPE (VOL=SER=MVS38J; FILE: ZDLIB1.HET).
+          ***       2. INSTALL SMP 4 JCL PROCEDURES INTO SYS1.PROCLIB FROM THE
+          ***          MVS 3.8J DTR TAPE (VOL=SER=T74172; FILE: SMP4B.HET).
+          ***       3. INSTALL A MODIFIED SMP 4 JCL PROCEDURE INTO SYS1.PROCLIB.
+          ***          THIS PROCEDURE, BASED UPON THOSE CONTAINED ON THE DTR TAPE
+          ***          CORRECT SOME ERRORS AND INCLUDE CHANGES THAT MAKE THE
+          ***          INSTALLATION PROCESS EASIER.
+          ***       4. INITIALIZE WORK00, WORK01, AND SMP000 VOLUMES
+          ***
+          *** NOTE: 1. THE LEVEL OF THE SMP 4 LOAD MODULES SUPPLIED ON THE
+          ***          MVS 3.8J DTR TAPE (4.22) IS LOWER THAN THE LEVEL REQUIRED
+          ***          FOR THE INSTALLATION OF MVS 3.8J (4.24).  THIS JOB BUILDS
+          ***          SMP 4 LOAD MODULES AT A HIGHER LEVEL (4.44) FROM:
+          ***          (A) LINKAGE EDITOR CONTROL STATEMENTS EXTRACTED FROM THE
+          ***              LAST OF THREE JOBS CONTAINED WITHIN THE JCLIN FOR
+          ***              FUNCTION ESY1400 CONTAINED WITHIN THE SMPMCS DATA SET
+          ***              ON THE MVS 3.8J DLIB TAPE.
+          ***          (B) MODULES EXTRACTED FROM THE ESY1400.F1 DATA SET ON THE
+          ***              MVS 3.8J DLIB TAPE.
+          ***       2. AN IPL IS REQUIRED TO ACTIVATE THE NEW LOAD MODULES.
+          ***
+          *** HIST: 2002.01.25: CREATED BY PETER STOCKDILL.
+          ***       2014.12.05: MODIFIED BY JAY MOSELEY
+          ***
+          ***********************************************************************
+          ***
+          ***MESSAGE  ************************************************************
+          ***MESSAGE  * AN IPL IS REQUIRED AFTER THIS JOB HAS COMPLETED          *
+          ***MESSAGE  ************************************************************
+          ***--------------------------------------------------------------------
+    2     //S1       EXEC PGM=IDCAMS,REGION=1024K
+    3     //SYSIN    DD  *
+    4     //I1       DD  DSN=SMPMCS,DISP=OLD,
+          //             UNIT=(TAPE,,DEFER),VOL=(,RETAIN,SER=MVS38J),LABEL=(1,SL)
+    5     //O1       DD  DISP=(NEW,PASS),
+          //             UNIT=SYSDA,SPACE=(TRK,(1,1)),
+          //             DCB=(RECFM=FB,LRECL=80,BLKSIZE=3120)
+    6     //SYSPRINT DD  SYSOUT=*
+          ***--------------------------------------------------------------------
+    7     //S2       EXEC PGM=IEBCOPY,REGION=1024K
+    8     //SYSIN    DD  *
+    9     //I1       DD  DSN=ESY1400.F1,DISP=OLD,
+          //             VOL=REF=*.S1.I1,LABEL=(4,SL)
+   10     //I2       DD  DSN=SMPMVS,DISP=OLD,
+          //             UNIT=AFF=I1,VOL=SER=T74172,LABEL=(1,SL)
+   11     //O1       DD  DISP=(NEW,PASS),
+          //             UNIT=SYSDA,SPACE=(TRK,(50,20,30))
+   12     //O2       DD  DSN=SYS1.PROCLIB,DISP=SHR
+   13     //SYSPRINT DD  SYSOUT=*
+          ***--------------------------------------------------------------------
+   14     //S3       EXEC LINKS,          //             PARM='LIST,NCAL,SIZE=(512K,100K)',CLASS='*',
+          //             OBJ=,UNIT=,SER=,N=' ',NAME=,P1=,MOD=,P2=
+   15     XXLINKS  PROC                                                           09000000
+   16     XXLK EXEC PGM=IEWL,REGION=512K,COND=(8,LT)                      VS30148 18000003
+   17     XXSYSUT1 DD DISP=(NEW,DELETE),DSNAME=&&SYSUT1,SPACE=(1700,(400,50)),   X27000000
+          XX      UNIT=SYSDA                                                      36000000
+   18     XXSYSPRINT DD SPACE=(121,(850,50),RLSE),                               X45000000
+          XX    DCB=(RECFM=FB,LRECL=121,BLKSIZE=1210),SYSOUT=&CLASS               54000000
+   19     //SYSPUNCH DD  DUMMY
+          X/SYSPUNCH DD DISP=SHR,VOLUME=(,RETAIN),DSNAME=SYS1.&OBJ                63000000
+   20     //SYSLMOD  DD  DSN=SYS1.LINKLIB,DISP=SHR
+          X/SYSLMOD DD DISP=OLD,UNIT=&UNIT,VOL=SER=&SER,                         X72000000
+          XX    DSNAME=&N..&NAME&P1&MOD&P2                                        81000000
+   21     //SYSLIN   DD  DSN=*.S1.O1,DISP=(OLD,DELETE)
+   22     //AOS12    DD  DSN=*.S2.O1,DISP=(OLD,DELETE)
+          ***--------------------------------------------------------------------
+   23     //S4       EXEC PGM=IEBUPDTE,REGION=1024K,PARM=NEW
+   24     //SYSUT2    DD DISP=MOD,DSN=SYS1.PROCLIB
+   25     //SYSPRINT  DD SYSOUT=*
+   26     //SYSIN     DD DATA,DLM='><'
+          ***
+   27     //S5       EXEC  PGM=IEHDASDR,REGION=1024K
+   28     //SYSPRINT DD  SYSOUT=A
+   29     //SYSIN    DD  *
+          //
+ STMT NO. MESSAGE
+-
+   18     IEF653I SUBSTITUTION JCL - DCB=(RECFM=FB,LRECL=121,BLKSIZE=1210),SYSOUT=*
+   19     IEF653I SUBSTITUTION JCL - DISP=SHR,VOLUME=(,RETAIN),DSNAME=SYS1.
+   20     IEF653I SUBSTITUTION JCL - DISP=OLD,UNIT=,VOL=SER=,
+   20     IEF653I SUBSTITUTION JCL - DSNAME= .
+IEF236I ALLOC. FOR SMP4P44 S1
+IEF237I JES ALLOCATED TO SYSIN
+IEF237I 170 ALLOCATED TO I1
+IEF237I VIO ALLOCATED TO O1
+IEF237I JES ALLOCATED TO SYSPRINT
+IEF142I SMP4P44 S1 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   JES2.JOB00001.SI0101                         SYSIN
+IEF285I   SMPMCS                                       KEPT
+IEF285I   VOL SER NOS= MVS38J.
+IEF285I   SYS21216.T070052.RA000.SMP4P44.R0000001      PASSED
+IEF285I   JES2.JOB00001.SO0105                         SYSOUT
+IEF373I STEP /S1      / START 21216.0700
+IEF374I STEP /S1      / STOP  21216.0701 CPU    0MIN 00.06SEC SRB    0MIN 00.01SEC VIRT   228K SYS   228K
+IEF236I ALLOC. FOR SMP4P44 S2
+IEF237I JES ALLOCATED TO SYSIN
+IEF237I 170 ALLOCATED TO I1
+IEF237I 170 ALLOCATED TO I2
+IEF237I VIO ALLOCATED TO O1
+IEF237I 150 ALLOCATED TO O2
+IEF237I JES ALLOCATED TO SYSPRINT
+IEF142I SMP4P44 S2 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   JES2.JOB00001.SI0102                         SYSIN
+IEF285I   ESY1400.F1                                   KEPT
+IEF285I   VOL SER NOS= MVS38J.
+IEF285I   SMPMVS                                       KEPT
+IEF285I   VOL SER NOS= T74172.
+IEF285I   SYS21216.T070052.RA000.SMP4P44.R0000002      PASSED
+IEF285I   SYS1.PROCLIB                                 KEPT
+IEF285I   VOL SER NOS= START1.
+IEF285I   JES2.JOB00001.SO0106                         SYSOUT
+IEF373I STEP /S2      / START 21216.0701
+IEF374I STEP /S2      / STOP  21216.0701 CPU    0MIN 00.15SEC SRB    0MIN 00.03SEC VIRT  1024K SYS   252K
+IEF236I ALLOC. FOR SMP4P44 LK S3
+IEF237I VIO ALLOCATED TO SYSUT1
+IEF237I JES ALLOCATED TO SYSPRINT
+IEF237I DMY ALLOCATED TO SYSPUNCH
+IEF237I 150 ALLOCATED TO SYSLMOD
+IEF237I VIO ALLOCATED TO SYSLIN
+IEF237I VIO ALLOCATED TO AOS12
+IEF142I SMP4P44 LK S3 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   SYS21216.T070052.RA000.SMP4P44.SYSUT1        DELETED
+IEF285I   JES2.JOB00001.SO0107                         SYSOUT
+IEF285I   SYS1.LINKLIB                                 KEPT
+IEF285I   VOL SER NOS= START1.
+IEF285I   SYS21216.T070052.RA000.SMP4P44.R0000001      DELETED
+IEF285I   SYS21216.T070052.RA000.SMP4P44.R0000002      DELETED
+IEF373I STEP /LK      / START 21216.0701
+IEF374I STEP /LK      / STOP  21216.0701 CPU    0MIN 00.27SEC SRB    0MIN 00.04SEC VIRT   516K SYS   284K
+IEF236I ALLOC. FOR SMP4P44 S4
+IEF237I 150 ALLOCATED TO SYSUT2
+IEF237I JES ALLOCATED TO SYSPRINT
+IEF237I JES ALLOCATED TO SYSIN
+IEF142I SMP4P44 S4 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   SYS1.PROCLIB                                 KEPT
+IEF285I   VOL SER NOS= START1.IEF285I   JES2.JOB00001.SO0108                         SYSOUT
+IEF285I   JES2.JOB00001.SI0103                         SYSIN
+IEF373I STEP /S4      / START 21216.0701
+IEF374I STEP /S4      / STOP  21216.0701 CPU    0MIN 00.02SEC SRB    0MIN 00.00SEC VIRT    44K SYS   220K
+IEF236I ALLOC. FOR SMP4P44 S5
+IEF237I JES ALLOCATED TO SYSPRINT
+IEF237I JES ALLOCATED TO SYSIN
+IEH809I N 148,SMP000,SMP4P44 ,S5
+IEH809I N 149,WORK00,SMP4P44 ,S5
+IEH809I N 14A,WORK01,SMP4P44 ,S5
+IEF142I SMP4P44 S5 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   JES2.JOB00001.SO0109                         SYSOUT
+IEF285I   JES2.JOB00001.SI0104                         SYSIN
+IEF373I STEP /S5      / START 21216.0701
+IEF374I STEP /S5      / STOP  21216.0702 CPU    0MIN 10.87SEC SRB    0MIN 03.87SEC VIRT   476K SYS  1216K
+IEF375I  JOB /SMP4P44 / START 21216.0700
+IEF376I  JOB /SMP4P44 / STOP  21216.0702 CPU    0MIN 11.37SEC SRB    0MIN 03.95SEC
+IDCAMS  SYSTEM SERVICES                                           TIME: 07:01:02        08/04/21     PAGE   1
+
+
+ REPRO INFILE(I1) OUTFILE(O1) SKIP(1607) COUNT(161)
+
+IDC0005I NUMBER OF RECORDS PROCESSED WAS 161
+
+IDC0001I FUNCTION COMPLETED, HIGHEST CONDITION CODE WAS 0
+
+
+
+IDC0002I IDCAMS PROCESSING COMPLETE. MAXIMUM CONDITION CODE WAS 0                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                             COPY  OUTDD=O1,INDD=I1
+IEB167I  FOLLOWING MEMBER(S)  LOADED  FROM INPUT DATA SET REFERENCED BY I1       -
+IEB154I  HMASMAAR HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMADD HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMALC HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMARL HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMAR1 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMAR2 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMAR3 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMAR4 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMASI HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMASM HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMBDL HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMBUE HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMBUR HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMCIL HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMCMP HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMCOM HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMCPI HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMCPL HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMCPY HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMCP2 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMCRD HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMCRW HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMDC1 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMDC2 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMDLE HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMDRV HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMDR1 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMDR2 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMDSU HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMDS1 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMEFR HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMEIS HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMFPT HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMFVL HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMFXF HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMGTA HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMIDU HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMIO  HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMION HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMIO1 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMLCC HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMLCD HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMLCP HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMLC1 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMLID HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMLKD HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMLKI HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMLOG HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMMDR HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMMPA HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMMPD HAS BEEN SUCCESSFULLY  LOADED                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0002
+
+
+IEB154I  HMASMMPE HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMMPH HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMMPI HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMMPL HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMMPV HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMMSG HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMPGC HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMPIN HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMRCC HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMRCD HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMRCF HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMRCL HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMRDS HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMREC HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMREJ HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMRJD HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMSCN HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMSEC HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMSER HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMSTA HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMSUB HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMSUP HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTAD HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTAI HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTBL HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTBM HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTCL HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTCR HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTDD HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTD1 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTEC HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTID HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTL1 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTL2 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTL3 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTMD HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTMJ HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTMS HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTMW HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTM1 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTM2 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTM3 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTM4 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTPA HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTPC HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTPD HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTPL HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTPO HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTPR HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTPS HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTP2 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTRM HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMTR1 HAS BEEN SUCCESSFULLY  LOADED                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0003
+
+
+IEB154I  HMASMTSB HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMUCD HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMUC1 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMUC2 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMUC3 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMUC4 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMULI HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMULK HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMUPD HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMUPI HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMUXC HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMUXD HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMVLU HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMXRF HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  HMASMZAP HAS BEEN SUCCESSFULLY  LOADED
+IEB144I  THERE ARE 0000279 UNUSED TRACKS IN OUTPUT DATA SET REFERENCED BY O1
+IEB149I  THERE ARE 0000010  UNUSED DIRECTORY BLOCKS IN OUTPUT DIRECTORY                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0004
+
+
+                             COPY  OUTDD=O2,INDD=((I2,R))
+IEB167I  FOLLOWING MEMBER(S)  LOADED  FROM INPUT DATA SET REFERENCED BY I2       -
+IEB154I  DLBACC   HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  DLBALLOC HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  DLBDELTE HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  DLBDELT2 HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  DLBPROC  HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  DLBREC   HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  DLBREJ   HAS BEEN SUCCESSFULLY  LOADED
+IEB154I  DLBUCL   HAS BEEN SUCCESSFULLY  LOADED
+IEB144I  THERE ARE 0000016 UNUSED TRACKS IN OUTPUT DATA SET REFERENCED BY O2
+IEB149I  THERE ARE 0000006  UNUSED DIRECTORY BLOCKS IN OUTPUT DIRECTORY
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+ F64-LEVEL LINKAGE EDITOR OPTIONS SPECIFIED LIST,NCAL,SIZE=(512K,100K)
+           VARIABLE OPTIONS USED -  SIZE=(524288,102400)
+           SYSPRINT DEFAULT BLOCKING USED   1 - 1
+IEW0000     ORDER HMASMDRV           SMP DRIVER FUNCTION
+IEW0000     ORDER HMASMDSU,HMASMDC2
+IEW0000     ORDER HMASMDS1,HMASMBDL
+IEW0000     ORDER HMASMDR1,HMASMDR2
+IEW0000     ORDER HMASMIO              SMP IO RTNS
+IEW0000     ORDER HMASMION,HMASMIO1
+IEW0000     ORDER HMASMEIS,HMASMRDS
+IEW0000     ORDER HMASMALC
+IEW0000     ORDER HMASMSTA           SMP STAE RTNS
+IEW0000     ORDER HMASMSER
+IEW0000     ORDER HMASMEFR           X37 RECOVERY @IR09104
+IEW0000     ORDER HMASMREC           SMP RECEIVE RTNS
+IEW0000     ORDER HMASMRCC,HMASMRCD
+IEW0000     ORDER HMASMRCF,HMASMRCL
+IEW0000     ORDER HMASMTBL           SMP ICT BUILD RTNS
+IEW0000     ORDER HMASMTAD,HMASMTAI
+IEW0000     ORDER HMASMTBM,HMASMTCL
+IEW0000     ORDER HMASMTSB,HMASMTEC
+IEW0000     ORDER HMASMTDD
+IEW0000     ORDER HMASMTPD               ICT PTF BUILD
+IEW0000     ORDER HMASMTPA,HMASMTPR
+IEW0000     ORDER HMASMTPC,HMASMTPL
+IEW0000     ORDER HMASMTP2,HMASMTPS
+IEW0000     ORDER HMASMTD1,HMASMTPO
+IEW0000     ORDER HMASMTCR,HMASMTR1
+IEW0000     ORDER HMASMTMJ               INLINE JCLIN
+IEW0000     ORDER HMASMTMD               ICT MOD BUILD
+IEW0000     ORDER HMASMTMS,HMASMTRM
+IEW0000     ORDER HMASMTM1,HMASMTM2
+IEW0000     ORDER HMASMTM3,HMASMTM4
+IEW0000     ORDER HMASMTMW,HMASMTID
+IEW0000     ORDER HMASMTL1               ICT LMOD BUILD
+IEW0000     ORDER HMASMTL2,HMASMTL3
+IEW0000     ORDER HMASMAAR           SMP APP/ACC/RES RTN
+IEW0000     ORDER HMASMDLE               DELETE RTN
+IEW0000     ORDER HMASMCOM,HMASMCPI      COPY INTF
+IEW0000     ORDER HMASMUPI               UPDATE INTF
+IEW0000     ORDER HMASMCMP,HMASMASI      ASSEM INTF
+IEW0000     ORDER HMASMCIL,HMASMLKI      COPY/LINK INTF
+IEW0000     ORDER HMASMPIN           X37 RECOVERY @IR09104
+IEW0000     ORDER HMASMULI           X37 RECOVERY @IR09104
+IEW0000     ORDER HMASMZAP               ZAP INTF
+IEW0000     ORDER HMASMCPL               COMPLETION RTNS
+IEW0000     ORDER HMASMCP2,HMASMPGC
+IEW0000     ORDER HMASMIDU,HMASMSUP
+IEW0000     ORDER HMASMSEC,HMASMCRW
+IEW0000     ORDER HMASMREJ           SMP REJECT RTNS
+IEW0000     ORDER HMASMRJD
+IEW0000     ORDER HMASMUPD           SMP JCLIN RTNS
+IEW0000     ORDER HMASMASM,HMASMCPY
+IEW0000     ORDER HMASMLKD
+IEW0000     ORDER HMASMBUE,HMASMBUR
+IEW0000     ORDER HMASMUCD           SMP UCLIN RTNS
+IEW0000     ORDER HMASMUC1,HMASMULK        @IR08637
+IEW0000     ORDER HMASMUC2                 @IR08637
+IEW0000     ORDER HMASMUC3,HMASMUC4
+IEW0000     ORDER HMASMLID           SMP LIST RTNS
+IEW0000     ORDER HMASMLCD,HMASMLCP
+IEW0000     ORDER HMASMLCC,HMASMLOG
+IEW0000     ORDER HMASMLC1
+IEW0000     ORDER HMASMFPT,HMASMFVL
+IEW0000     ORDER HMASMXRF,HMASMFXF
+IEW0000     ORDER HMASMADD                 @IR08637
+IEW0000     ORDER HMASMARL           SMP REPORT RTNS
+IEW0000     ORDER HMASMAR1,HMASMAR2
+IEW0000     ORDER HMASMAR3,HMASMAR4
+IEW0000     ORDER HMASMMPD           SMP SYSMOD PARSE
+IEW0000     ORDER HMASMMPE,HMASMMPH
+IEW0000     ORDER HMASMMPI,HMASMMPV
+IEW0000     ORDER HMASMMPL
+IEW0000     ORDER HMASMMPA,HMASMMDR  REL 3 COMPAT PTF @IR64329
+IEW0000     ORDER HMASMMSG           SMP MESSAGE RTNS
+IEW0000     ORDER HMASMDC1
+IEW0000     ORDER HMASMSUB           SMP GENERAL RTNS
+IEW0000     ORDER HMASMCRD,HMASMSCN
+IEW0000     ORDER HMASMGTA,HMASMVLU
+IEW0000     ORDER HMASMUXC           SMP USER EXIT INTF
+IEW0000     INCLUDE AOS12(HMASMDRV)           SMP DRIVER FUNCTION
+IEW0000     INCLUDE AOS12(HMASMDSU,HMASMDC2)
+IEW0000     INCLUDE AOS12(HMASMDS1,HMASMBDL)
+IEW0000     INCLUDE AOS12(HMASMDR1,HMASMDR2)
+IEW0000     INCLUDE AOS12(HMASMIO)            SMP IO RTNS
+IEW0000     INCLUDE AOS12(HMASMION,HMASMIO1)
+IEW0000     INCLUDE AOS12(HMASMEIS,HMASMRDS)
+IEW0000     INCLUDE AOS12(HMASMALC)
+IEW0000     INCLUDE AOS12(HMASMSTA)           SMP STAE RTNS
+IEW0000     INCLUDE AOS12(HMASMSER)
+IEW0000     INCLUDE AOS12(HMASMEFR)  X37 RECOVERY     @IR09104
+IEW0000     INCLUDE AOS12(HMASMREC)           SMP RECEIVE RTNS
+IEW0000     INCLUDE AOS12(HMASMRCC,HMASMRCD)
+IEW0000     INCLUDE AOS12(HMASMRCF,HMASMRCL)
+IEW0000     INCLUDE AOS12(HMASMTBL)           SMP ICT BUILD RTNS
+IEW0000     INCLUDE AOS12(HMASMTAD,HMASMTAI)
+IEW0000     INCLUDE AOS12(HMASMTBM,HMASMTCL)
+IEW0000     INCLUDE AOS12(HMASMTSB,HMASMTEC)
+IEW0000     INCLUDE AOS12(HMASMTDD)
+IEW0000     INCLUDE AOS12(HMASMTPD)               ICT PTF BUILD
+IEW0000     INCLUDE AOS12(HMASMTPA,HMASMTPR)
+IEW0000     INCLUDE AOS12(HMASMTPC,HMASMTPL)
+IEW0000     INCLUDE AOS12(HMASMTP2,HMASMTPS)
+IEW0000     INCLUDE AOS12(HMASMTD1,HMASMTPO)
+IEW0000     INCLUDE AOS12(HMASMTCR,HMASMTR1)
+IEW0000     INCLUDE AOS12(HMASMTMJ)               INLINE JCLIN
+IEW0000     INCLUDE AOS12(HMASMTMD)               ICT MOD BUILD
+IEW0000     INCLUDE AOS12(HMASMTMS,HMASMTRM)
+IEW0000     INCLUDE AOS12(HMASMTM1,HMASMTM2)
+IEW0000     INCLUDE AOS12(HMASMTM3,HMASMTM4)
+IEW0000     INCLUDE AOS12(HMASMTMW,HMASMTID)
+IEW0000     INCLUDE AOS12(HMASMTL1)               ICT LMOD BUILD
+IEW0000     INCLUDE AOS12(HMASMTL2,HMASMTL3)
+IEW0000     INCLUDE AOS12(HMASMAAR)           SMP APP/ACC/RES RTN
+IEW0000     INCLUDE AOS12(HMASMDLE)               DELETE RTN
+IEW0000     INCLUDE AOS12(HMASMCOM,HMASMCPI)      COPY INTF
+IEW0000     INCLUDE AOS12(HMASMUPI)               UPDATE INTF
+IEW0000     INCLUDE AOS12(HMASMCMP,HMASMASI)      ASSEM INTF
+IEW0000     INCLUDE AOS12(HMASMCIL,HMASMLKI)      COPY/LINK INTF
+IEW0000     INCLUDE AOS12(HMASMPIN)  X37 RECOVERY     @IR09104
+IEW0000     INCLUDE AOS12(HMASMULI)  X37 RECOVERY     @IR09104
+IEW0000     INCLUDE AOS12(HMASMZAP)               ZAP INTF
+IEW0000     INCLUDE AOS12(HMASMCPL)               COMPLETION RTNS
+IEW0000     INCLUDE AOS12(HMASMCP2,HMASMPGC)
+IEW0000     INCLUDE AOS12(HMASMIDU,HMASMSUP)
+IEW0000     INCLUDE AOS12(HMASMSEC,HMASMCRW)
+IEW0000     INCLUDE AOS12(HMASMREJ)           SMP REJECT RTNS
+IEW0000     INCLUDE AOS12(HMASMRJD)
+IEW0000     INCLUDE AOS12(HMASMUPD)           SMP JCLIN RTNS
+IEW0000     INCLUDE AOS12(HMASMASM,HMASMCPY)
+IEW0000     INCLUDE AOS12(HMASMLKD)
+IEW0000     INCLUDE AOS12(HMASMBUE,HMASMBUR)
+IEW0000     INCLUDE AOS12(HMASMUCD)           SMP UCLIN RTNS
+IEW0000     INCLUDE AOS12(HMASMUC1,HMASMULK)        @IR08637
+IEW0000     INCLUDE AOS12(HMASMUC2)                 @IR08637
+IEW0000     INCLUDE AOS12(HMASMUC3,HMASMUC4)
+IEW0000     INCLUDE AOS12(HMASMLID)           SMP LIST RTNS
+IEW0000     INCLUDE AOS12(HMASMLCD,HMASMLCP)
+IEW0000     INCLUDE AOS12(HMASMLCC,HMASMLOG)
+IEW0000     INCLUDE AOS12(HMASMLC1)
+IEW0000     INCLUDE AOS12(HMASMFPT,HMASMFVL)
+IEW0000     INCLUDE AOS12(HMASMXRF,HMASMFXF)
+IEW0000     INCLUDE AOS12(HMASMADD)                 @IR08637
+IEW0000     INCLUDE AOS12(HMASMARL)           SMP REPORT RTNS
+IEW0000     INCLUDE AOS12(HMASMAR1,HMASMAR2)
+IEW0000     INCLUDE AOS12(HMASMAR3,HMASMAR4)
+IEW0000     INCLUDE AOS12(HMASMMPD)           SMP SYSMOD PARSE
+IEW0000     INCLUDE AOS12(HMASMMPE,HMASMMPH)
+IEW0000     INCLUDE AOS12(HMASMMPI,HMASMMPV)
+IEW0000     INCLUDE AOS12(HMASMMPL)
+IEW0000     INCLUDE AOS12(HMASMMPA,HMASMMDR)  SMP COMPAT PTF @IR64329
+IEW0000     INCLUDE AOS12(HMASMMSG)           SMP MESSAGE RTNS
+IEW0000     INCLUDE AOS12(HMASMDC1)
+IEW0000     INCLUDE AOS12(HMASMSUB)           SMP GENERAL RTNS
+IEW0000     INCLUDE AOS12(HMASMCRD,HMASMSCN)
+IEW0000     INCLUDE AOS12(HMASMGTA,HMASMVLU)
+IEW0000     INCLUDE AOS12(HMASMUXC)           SMP USER EXIT INTF
+IEW0000     ENTRY HMASMDRV
+IEW0000     SETCODE AC(1)
+IEW0000     NAME HMASMP(R)
+****HMASMP    NOW REPLACED IN DATA SET
+AUTHORIZATION CODE IS         1.
+
+IEW0000     INCLUDE AOS12(HMASMUXD)          SMP DUMMY USER EXIT
+IEW0000     ENTRY HMASMUXD
+IEW0000     SETCODE AC(1)
+IEW0000     NAME HMASMUXD(R)
+****HMASMUXD  DOES NOT EXIST BUT HAS BEEN ADDED TO DATA SET
+AUTHORIZATION CODE IS         1.
+
+       SYSIN                            NEW MASTER                                        IEBUPDTE LOG PAGE 0001
+
+
+       ./ ADD NAME=DLBSMP,LIST=ALL
+                                        //DLBSMP  PROC TLIB=WORK01             WORK VOLUME SERIAL
+                                        //SMP     EXEC PGM=HMASMP,PARM='DATE=U',REGION=4096K,TIME=999
+                                        //*********************************************************************
+                                        //*             OS/VS2 (MVS) DLIB BUILD PROCEDURE
+                                        //*********************************************************************
+                                        //SMPLOG   DD  DUMMY                                 LOG
+                                        //SMPOUT   DD  SYSOUT=*                              SUMMARY REPORTS
+                                        //SMPTLIB  DD  UNIT=SYSDA,VOL=SER=&TLIB,DISP=OLD     RELFILE TLIBS
+                                        //SMPWRK1  DD  UNIT=SYSDA,SPACE=(CYL,(5,10,84)),     WORK-COPY/UPDTE
+                                        //             DCB=(RECFM=FB,BLKSIZE=3120,LRECL=80)
+                                        //SMPWRK2  DD  UNIT=SYSDA,SPACE=(CYL,(5,10,84)),     WORK-COPY/UPDTE
+                                        //             DCB=(RECFM=FB,BLKSIZE=3120,LRECL=80)
+                                        //SMPWRK3  DD  UNIT=SYSDA,SPACE=(CYL,(5,10,84)),     WORK-OBJECT/ZAP
+                                        //             DCB=(RECFM=FB,BLKSIZE=3120,LRECL=80)
+                                        //SMPWRK4  DD  UNIT=SYSDA,SPACE=(CYL,(1,10,84)),     WORK-EXPAND/ZAP
+                                        //             DCB=(RECFM=FB,BLKSIZE=3120,LRECL=80)
+                                        //SMPWRK5  DD  UNIT=SYSDA,SPACE=(CYL,(30,10,250))    WORK-LOAD MODS
+                                        //SYSPRINT DD  SYSOUT=*                              UTILITIES DEFAULT
+                                        //SYSUDUMP DD  SYSOUT=*                              ABEND DUMP
+                                        //SYSUT1   DD  UNIT=SYSDA,SPACE=(1700,(600,100))     WORK
+                                        //SYSUT2   DD  UNIT=SYSDA,SPACE=(1700,(600,100))     WORK
+                                        //SYSUT3   DD  UNIT=SYSDA,SPACE=(1700,(600,100))     WORK
+                                        //SYSUT4   DD  UNIT=SYSDA,SPACE=(80,(2,2))           WORK RETRY
+                                        //*********************************************************************
+                                        //ASMPRINT DD  SYSOUT=*                              ASSEMBLER
+                                        //CMPPRINT DD  SYSOUT=*                              COMPRESS
+                                        //COPPRINT DD  SYSOUT=*                              IEBCOPY
+                                        //LKDPRINT DD  SYSOUT=*                              LINK EDITOR
+                                        //E37PRINT DD  SYSOUT=*                              RETRY
+                                        //UPDPRINT DD  SYSOUT=*                              IEBUPDTE
+                                        //ZAPPRINT DD  SYSOUT=*                              AMASPZAP
+                                        //SYSLIB   DD  DSN=SYS1.AMACLIB,DISP=SHR             ASM MACROS/COPY
+                                        //         DD  DSN=SYS1.AMODGEN,DISP=SHR
+                                        //         DD  DSN=SYS1.AGENLIB,DISP=SHR
+                                        //         DD  DSN=SYS1.SMPMTS,DISP=SHR
+                                        //*********************************************************************
+                                        //SMPACDS  DD  DSN=SYS1.SMPACDS,DISP=OLD
+                                        //SMPACRQ  DD  DSN=SYS1.SMPACRQ,DISP=OLD
+                                        //SMPMTS   DD  DSN=SYS1.SMPMTS,DISP=OLD
+                                        //SMPPTS   DD  DSN=SYS1.SMPPTS,DISP=OLD
+                                        //SMPSTS   DD  DSN=SYS1.SMPSTS,DISP=OLD
+                                        //*********************************************************************
+                                        //ACMDLIB  DD  DSN=SYS1.ACMDLIB,DISP=OLD
+                                        //AGENLIB  DD  DSN=SYS1.AGENLIB,DISP=OLD
+                                        //AHELP    DD  DSN=SYS1.AHELP,DISP=OLD
+                                        //AIMAGE   DD  DSN=SYS1.AIMAGE,DISP=OLD
+                                        //ALPALIB  DD  DSN=SYS1.ALPALIB,DISP=OLD
+                                        //AMACLIB  DD  DSN=SYS1.AMACLIB,DISP=OLD
+                                        //AMODGEN  DD  DSN=SYS1.AMODGEN,DISP=OLD
+                                        //AOS00    DD  DSN=SYS1.AOS00,DISP=OLD
+                                        //AOS03    DD  DSN=SYS1.AOS03,DISP=OLD       SYSIN                            NEW MASTER                                        IEBUPDTE LOG PAGE 0002
+
+
+                                        //AOS04    DD  DSN=SYS1.AOS04,DISP=OLD
+                                        //AOS05    DD  DSN=SYS1.AOS05,DISP=OLD
+                                        //AOS06    DD  DSN=SYS1.AOS06,DISP=OLD
+                                        //AOS07    DD  DSN=SYS1.AOS07,DISP=OLD
+                                        //AOS11    DD  DSN=SYS1.AOS11,DISP=OLD
+                                        //AOS12    DD  DSN=SYS1.AOS12,DISP=OLD
+                                        //AOS20    DD  DSN=SYS1.AOS20,DISP=OLD
+                                        //AOS21    DD  DSN=SYS1.AOS21,DISP=OLD
+                                        //AOS24    DD  DSN=SYS1.AOS24,DISP=OLD
+                                        //AOS26    DD  DSN=SYS1.AOS26,DISP=OLD
+                                        //AOS29    DD  DSN=SYS1.AOS29,DISP=OLD
+                                        //AOS32    DD  DSN=SYS1.AOS32,DISP=OLD
+                                        //AOSA0    DD  DSN=SYS1.AOSA0,DISP=OLD
+                                        //AOSA1    DD  DSN=SYS1.AOSA1,DISP=OLD
+                                        //AOSB0    DD  DSN=SYS1.AOSB0,DISP=OLD
+                                        //AOSB3    DD  DSN=SYS1.AOSB3,DISP=OLD
+                                        //AOSBN    DD  DSN=SYS1.AOSBN,DISP=OLD
+                                        //AOSC2    DD  DSN=SYS1.AOSC2,DISP=OLD
+                                        //AOSC5    DD  DSN=SYS1.AOSC5,DISP=OLD
+                                        //AOSC6    DD  DSN=SYS1.AOSC6,DISP=OLD
+                                        //AOSCA    DD  DSN=SYS1.AOSCA,DISP=OLD
+                                        //AOSCD    DD  DSN=SYS1.AOSCD,DISP=OLD
+                                        //AOSCE    DD  DSN=SYS1.AOSCE,DISP=OLD
+                                        //AOSD0    DD  DSN=SYS1.AOSD0,DISP=OLD
+                                        //AOSD7    DD  DSN=SYS1.AOSD7,DISP=OLD
+                                        //AOSD8    DD  DSN=SYS1.AOSD8,DISP=OLD
+                                        //AOSG0    DD  DSN=SYS1.AOSG0,DISP=OLD
+                                        //AOSH1    DD  DSN=SYS1.AOSH1,DISP=OLD
+                                        //AOSH3    DD  DSN=SYS1.AOSH3,DISP=OLD
+                                        //AOST3    DD  DSN=SYS1.AOST3,DISP=OLD
+                                        //AOST4    DD  DSN=SYS1.AOST4,DISP=OLD
+                                        //AOSU0    DD  DSN=SYS1.AOSU0,DISP=OLD
+                                        //APARMLIB DD  DSN=SYS1.APARMLIB,DISP=OLD
+                                        //APROCLIB DD  DSN=SYS1.APROCLIB,DISP=OLD
+                                        //ASAMPLIB DD  DSN=SYS1.ASAMPLIB,DISP=OLD
+                                        //ATCAMMAC DD  DSN=SYS1.ATCAMMAC,DISP=OLD
+                                        //ATSOMAC  DD  DSN=SYS1.ATSOMAC,DISP=OLD
+                                        //AUADS    DD  DSN=SYS1.AUADS,DISP=OLD
+                                        //HASPSRC  DD  DSN=SYS1.HASPSRC,DISP=OLD
+                                        //*********************************************************************
+IEB817I MEMBER NAME (DLBSMP  ) NOT FOUND IN NM DIRECTORY.  STOWED WITH TTR.
+IEB818I HIGHEST CONDITION CODE WAS 00000000
+IEB819I END OF JOB IEBUPDTE.     08/04/21                      SYSTEM SUPPORT UTILITIES --- IEHDASDR   MVS-3.                   PAGE 001
+
+
+   ANALYZE TODD=148,VTOC=1,EXTENT=15,NEWVOLID=SMP000
+   ANALYZE TODD=149,VTOC=1,EXTENT=15,NEWVOLID=WORK00
+   ANALYZE TODD=14A,VTOC=1,EXTENT=15,NEWVOLID=WORK01
+IEH806I  ANALYZE OF DDNAME= 148     IS COMPLETE. VOLUME SERIAL NO.=SMP000
+IEH806I  ANALYZE OF DDNAME= 149     IS COMPLETE. VOLUME SERIAL NO.=WORK00
+IEH806I  ANALYZE OF DDNAME= 14A     IS COMPLETE. VOLUME SERIAL NO.=WORK01
+IEH839I  HIGHEST RETURN CODE ENCOUNTERED WAS 00                   SSSSSSSSSS   MM        MM  PPPPPPPPPPP         444     PPPPPPPPPPP         444           444
+                  SSSSSSSSSSSS  MMM      MMM  PPPPPPPPPPPP       4444     PPPPPPPPPPPP       4444          4444
+                  SS        SS  MMMM    MMMM  PP        PP      44 44     PP        PP      44 44         44 44
+                  SS            MM MM  MM MM  PP        PP     44  44     PP        PP     44  44        44  44
+                  SSS           MM  MMMM  MM  PP        PP    44   44     PP        PP    44   44       44   44
+                   SSSSSSSSS    MM   MM   MM  PPPPPPPPPPPP   44444444444  PPPPPPPPPPPP   44444444444   44444444444
+                    SSSSSSSSS   MM        MM  PPPPPPPPPPP   444444444444  PPPPPPPPPPP   444444444444  444444444444
+                           SSS  MM        MM  PP                   44     PP                   44            44
+                            SS  MM        MM  PP                   44     PP                   44            44
+                  SS        SS  MM        MM  PP                   44     PP                   44            44
+                  SSSSSSSSSSSS  MM        MM  PP                   44     PP                   44            44
+                   SSSSSSSSSS   MM        MM  PP                   44     PP                   44            44
+
+
+
+                    JJJJJJJJJJ       11                                                                AAAAAAAAAA
+                    JJJJJJJJJJ      111                                                               AAAAAAAAAAAA
+                        JJ         1111                                                               AA        AA
+                        JJ           11                                                               AA        AA
+                        JJ           11                                                               AA        AA
+                        JJ           11                                                               AAAAAAAAAAAA
+                        JJ           11                                                               AAAAAAAAAAAA
+                        JJ           11                                                               AA        AA
+                  JJ    JJ           11                                                               AA        AA
+                  JJ    JJ           11                                                               AA        AA
+                  JJJJJJJJ       1111111111                                                           AA        AA
+                   JJJJJJ        1111111111                                                           AA        AA
+
+
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+****A   END   JOB    1  SMP4P44   SMP 4.44 FROM MVS38J  ROOM        7.02.02 AM  4 AUG 21  PRINTER1  SYS H158  JOB    1   END   A****
+

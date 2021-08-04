@@ -1,0 +1,13 @@
+/home/jake/sysgen/build/hercpkgs/lib/libdecNumber32d.a
+/home/jake/sysgen/build/hercpkgs/include/decnumber_version.h
+/home/jake/sysgen/build/hercpkgs/include/decContext.h
+/home/jake/sysgen/build/hercpkgs/include/decNumber.h
+/home/jake/sysgen/build/hercpkgs/include/decPacked.h
+/home/jake/sysgen/build/hercpkgs/include/decQuad.h
+/home/jake/sysgen/build/hercpkgs/include/decimal128.h
+/home/jake/sysgen/build/hercpkgs/include/decimal32.h
+/home/jake/sysgen/build/hercpkgs/include/decimal64.h
+/home/jake/sysgen/build/hercpkgs/./decnumber.ICU-license.html
+/home/jake/sysgen/build/hercpkgs/./decnumber.pdf
+/home/jake/sysgen/build/hercpkgs/./decnumber.readme.txt
+/home/jake/sysgen/build/hercpkgs/./decnumber.ERRATA

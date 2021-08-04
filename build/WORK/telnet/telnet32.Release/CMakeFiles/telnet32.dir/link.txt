@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtelnet32.a  CMakeFiles/telnet32.dir/source/telnet.c.o CMakeFiles/telnet32.dir/telnet_version.c.o
+/usr/bin/ranlib libtelnet32.a

@@ -1,0 +1,932 @@
+14:20:56 HHC00109E set_thread_priority( 5 ) failed: Operation not permitted
+14:20:56 HHC00007I Previous message from function 'impl' at impl.c(989)
+14:20:56 HHC00110W Defaulting all threads to priority 0
+14:20:56 HHC00007I Previous message from function 'impl' at impl.c(992)
+14:20:56 HHC00100I Thread id 00007f2787176540, prio 0, name 'impl_thread' started
+14:20:56 HHC90020W 'hthread_setschedparam()' failed at loc=impl.c:1011: rc=22: Invalid argument
+14:20:56 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:20:56 HHC00100I Thread id 00007f2787073700, prio 0, name 'logger_thread' started
+14:20:56 HHC01413I Hercules version 4.4.9999.0-SDL-g7bcdc7e6 (4.4.9999.0)
+14:20:56 HHC01414I (C) Copyright 1999-2021 by Roger Bowler, Jan Jaeger, and others
+14:20:56 HHC01417I ** The SoftDevLabs version of Hercules **
+14:20:56 HHC01415I Build date: Aug  4 2021 at 07:58:16
+14:20:56 HHC01417I Built with: GCC 9.3.0
+14:20:56 HHC01417I Build type: GNU/Linux x86_64 host architecture build
+14:20:56 HHC01417I Modes: S/370 ESA/390 z/Arch
+14:20:56 HHC01417I Max CPU Engines: 128
+14:20:56 HHC01417I Using   shared libraries
+14:20:56 HHC01417I Using   setresuid() for setting privileges
+14:20:56 HHC01417I Using   POSIX threads Threading Model
+14:20:56 HHC01417I Using   Error-Checking Mutex Locking Model
+14:20:56 HHC01417I With    Shared Devices support
+14:20:56 HHC01417I With    Dynamic loading support
+14:20:56 HHC01417I With    External GUI support
+14:20:56 HHC01417I With    IPV6 support
+14:20:56 HHC01417I With    HTTP Server support
+14:20:56 HHC01417I With    sqrtl support
+14:20:56 HHC01417I With    Signal handling
+14:20:56 HHC01417I With    Watchdog monitoring
+14:20:56 HHC01417I With    CCKD BZIP2 support
+14:20:56 HHC01417I With    HET BZIP2 support
+14:20:56 HHC01417I With    ZLIB support
+14:20:56 HHC01417I With    Regular Expressions support
+14:20:56 HHC01417I Without Object REXX support
+14:20:56 HHC01417I With    Regina REXX support
+14:20:56 HHC01417I With    Automatic Operator support
+14:20:56 HHC01417I Without National Language Support
+14:20:56 HHC01417I With    CCKD64 Support
+14:20:56 HHC01417I With    Transactional-Execution Facility support
+14:20:56 HHC01417I With    "Optimized" instructions
+14:20:56 HHC01417I With    OPTION_USE_SKAIP_AS_LOCK
+14:20:56 HHC01417I With    OPTION_SIE2BK_FLD_COPY
+14:20:56 HHC01417I Machine dependent assists: cmpxchg1 cmpxchg4 cmpxchg8 cmpxchg16 hatomics=C11
+14:20:56 HHC01417I Running on: jake-ThinkPad-T14-Gen-1 (Linux-5.8.0-63-generic x86_64) MP=16
+14:20:56 HHC01417I Built with crypto external package version 1.0.0.49-g837705e
+14:20:56 HHC01417I Built with decNumber external package version 3.68.0.99-gda66509
+14:20:56 HHC01417I Built with SoftFloat external package version 3.5.0.102-g42f2f99
+14:20:56 HHC01417I Built with telnet external package version 1.0.0.59-g2aca101
+14:20:56 HHC00018W Hercules is NOT running in elevated mode
+14:20:56 HHC00007I Previous message from function 'impl' at impl.c(1046)
+14:20:56 HHC00150I Crypto module loaded (C) Copyright 2003-2016 by Bernard van der Helm
+14:20:56 HHC00151I Activated facility: Message Security Assist
+14:20:56 HHC00151I Activated facility: Message Security Assist Extension 1, 2, 3 and 4
+14:20:56 HHC17528I REXX(Regina) VERSION: REXX-Regina_3.6(MT) 5.00 31 Dec 2011
+14:20:56 HHC17529I REXX(Regina) SOURCE:  UNIX
+14:20:56 HHC17525I REXX(Regina) Rexx has been started/enabled
+14:20:56 HHC17500I REXX(Regina) Mode            : Command
+14:20:56 HHC17500I REXX(Regina) MsgLevel        : Off
+14:20:56 HHC17500I REXX(Regina) MsgPrefix       : Off
+14:20:56 HHC17500I REXX(Regina) ErrPrefix       : Off
+14:20:56 HHC17500I REXX(Regina) Resolver        : On
+14:20:56 HHC17500I REXX(Regina) SysPath    ( 9) : On
+14:20:56 HHC17500I REXX(Regina) RexxPath   ( 0) :
+14:20:56 HHC17500I REXX(Regina) Extensions ( 8) : .REXX:.rexx:.REX:.rex:.CMD:.cmd:.RX:.rx
+14:20:56 HHC90020W 'hthread_setschedparam()' failed at loc=impl.c:432: rc=22: Invalid argument
+14:20:56 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:20:56 HHC00111I Thread CPU Time IS available (_POSIX_THREAD_CPUTIME=0)
+14:20:56 HHC90020W 'hthread_setschedparam()' failed at loc=cpu.c:2335: rc=22: Invalid argument
+14:20:56 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:20:56 HHC90020W 'hthread_setschedparam()' failed at loc=timer.c:193: rc=22: Invalid argument
+14:20:56 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:20:56 HHC00100I Thread id 00007f278690f700, prio 0, name 'Processor CP00' started
+14:20:56 HHC00100I Thread id 00007f278680e700, prio 0, name 'timer_thread' started
+14:20:56 HHC00811I Processor CP00: architecture mode z/Arch
+14:20:56 HHC00811I Processor CP00: architecture mode S/370
+14:20:56 HHC02204I ARCHLVL        set to S/370
+14:20:56 HHC02204I LPARNUM        set to BASIC
+14:20:56 HHC02204I CPUSERIAL      set to 134001
+14:20:56 HHC02204I CPUMODEL       set to 0148
+14:20:56 HHC17003I MAIN     storage is 8M (mainsize); storage is not locked
+14:20:56 HHC17003I EXPANDED storage is 0 (xpndsize); storage is not locked
+14:20:56 HHC90020W 'hthread_setschedparam()' failed at loc=cpu.c:2335: rc=22: Invalid argument
+14:20:56 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:20:56 HHC00100I Thread id 00007f2786b12700, prio 0, name 'Processor CP01' started
+14:20:56 HHC00811I Processor CP01: architecture mode S/370
+14:20:56 HHC02204I NUMCPU         set to 2
+14:20:56 HHC02204I LOADPARM       set to ........
+14:20:56 HHC02256W Command 'PANRATE' is deprecated; use PANOPT RATE=xxx instead
+14:20:56 HHC00007I Previous message from function 'panrate_cmd' at hsccmd.c(4254)
+14:20:56 HHC02204I PANRATE        set to 250
+14:20:56 HHC02204I SHCMDOPT       set to ENABLE  NODIAG8
+14:20:56 HHC02204I DIAG8CMD       set to ENABLE  NOECHO
+14:20:56 HHC02204I PANOPT         set to FULLPATH RATE=250 MSGCOLOR=DARK TITLE=(default)
+14:20:56 HHC01042I 0:000C COMM: device bound to socket localhost:3505
+14:20:56 HHC01042I 0:001A COMM: device bound to socket localhost:3506
+14:20:56 HHC90020W 'hthread_setschedparam()' failed at loc=sockdev.c:407: rc=22: Invalid argument
+14:20:56 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:20:56 HHC00100I Thread id 00007f2786a11700, prio 0, name 'socket_thread' started
+14:20:56 HHC00414I 0:0150 CKD file dasd/mvsres.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:20:56 HHC00414I 0:0151 CKD file dasd/mvs000.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:20:56 HHC00414I 0:0152 CKD file dasd/page00.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:20:56 HHC00414I 0:0153 CKD file dasd/spool1.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:20:56 HHC00414I 0:0180 CKD file dasd/pub000.3380: model 3380 cyls 886 heads 15 tracks 13290 trklen 47616
+14:20:56 HHC00414I 0:0190 CKD file dasd/pub001.3390: model 3390 cyls 1114 heads 15 tracks 16710 trklen 56832
+14:20:56 HHC00414I 0:0220 CKD file dasd/sortw1.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+14:20:56 HHC00414I 0:0221 CKD file dasd/sortw2.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+14:20:56 HHC00414I 0:0222 CKD file dasd/sortw3.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+14:20:56 HHC00414I 0:0223 CKD file dasd/sortw4.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+14:20:56 HHC00414I 0:0224 CKD file dasd/sortw5.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+14:20:56 HHC00414I 0:0225 CKD file dasd/sortw6.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+14:20:56 HHC00414I 0:0250 CKD file dasd/smp000.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:20:56 HHC00414I 0:0251 CKD file dasd/work00.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:20:56 HHC00414I 0:0252 CKD file dasd/work01.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:20:56 HHC00414I 0:0253 CKD file dasd/syscpk.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+14:20:56 HHC90020W 'hthread_setschedparam()' failed at loc=console.c:3395: rc=22: Invalid argument
+14:20:56 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:20:56 HHC00100I Thread id 00007f27856cf700, prio 0, name 'console_connect' started
+14:20:56 HHC01024I Waiting for console connections on port 3270
+14:20:56 HHC02260I Script 1: begin processing file ../06_sysgen_software_install.rc
+14:20:56 HHC01603I exec ../automate.rexx ../06_sysgen_software_install.txt hercules.log -d &&
+14:20:56 HHC01603I facility enable HERC_TCPIP_EXTENSION
+14:20:56 HHC00898W Facility( HERC_TCPIP_EXTENSION ) *Enabled for S/370
+14:20:56 HHC00007I Previous message from function 'facility_enable_disable' at facility.c(3896)
+14:20:56 HHC01603I facility enable HERC_TCPIP_PROB_STATE
+14:20:56 HHC00898W Facility( HERC_TCPIP_PROB_STATE ) *Enabled for S/370
+14:20:56 HHC00007I Previous message from function 'facility_enable_disable' at facility.c(3896)
+14:20:56 HHC01603I ipl 150
+14:20:56 HHC01603I sh touch failure
+14:20:56 HHC17540I Commands file: /home/jake/sysgen/06_sysgen_software_install.txt
+14:20:56 HHC17540I Log file: /home/jake/sysgen/sysgen/hercules.log
+14:20:56 HHC17540I [AUTOMATE DEBUG] Debug enabled
+14:20:56 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC00010A Enter input for console 0...
+14:20:56 HHC17540I [AUTOMATE DEBUG] Response: /
+14:20:56 HHC02264I Script 1: file ../06_sysgen_software_install.rc processing ended
+14:20:56 HHC00107I Starting thread cckd_ra(), active=0, started=0, max=2
+14:20:56 HHC00100I Thread id 00007f27853cc700, prio 0, name 'cckd_ra thread 1' started
+14:20:56 HHC00107I Starting thread cckd_ra() from cckd_ra(), active=1, started=1, max=2
+14:20:56 HHC00100I Thread id 00007f27852cb700, prio 0, name 'cckd_ra thread 2' started
+14:20:58 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP01, PARM 00000000: CC 0
+14:20:58 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP02, PARM 00000000: CC 3
+14:20:58 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP03, PARM 00000000: CC 3
+14:20:58 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP04, PARM 00000000: CC 3
+14:20:58 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP05, PARM 00000000: CC 3
+14:20:58 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP06, PARM 00000000: CC 3
+14:20:58 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP07, PARM 00000000: CC 3
+14:20:58 /IEA101A SPECIFY SYSTEM PARAMETERS FOR RELEASE 03.8 .VS2
+14:20:58 HHC00010A Enter input for console 0:0009
+14:21:02 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /
+14:21:03 /
+14:21:03 HHC17540I [AUTOMATE DEBUG] Waiting for: IFB010D ENTER 'IPL REASON,SUBSYSTEM ID' O...
+14:21:03 HHC17540I [AUTOMATE DEBUG] Response: /r 0,u
+14:21:03 HHC00107I Starting thread cckd_writer(), active=0, started=0, max=2
+14:21:03 HHC90020W 'hthread_setschedparam()' failed at loc=cckddasd.c:1775: rc=22: Invalid argument
+14:21:03 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:21:03 HHC00100I Thread id 00007f27851ca700, prio 0, name 'cckd_writer thread 1' started
+14:21:03 /IEA940I THE FOLLOWING PAGE DATA SETS ARE IN USE
+14:21:03 HHC00107I Starting thread cckd_gcol(), active=0, started=0, max=1
+14:21:03 HHC00100I Thread id 00007f27850c9700, prio 0, name 'cckd_gcol' started
+14:21:03 / PLPA ... SYS1.PAGELPA
+14:21:03 / COMMON . SYS1.PAGECSA
+14:21:03 / LOCAL .. SYS1.PAGEL00
+14:21:08 /*00 IFB010D ENTER 'IPL REASON,SUBSYSTEM ID' OR 'U'
+14:21:09 / IEE360I SMF NOW RECORDING ON SYS1.MANX ON MVSRES TIME=08.21.09
+14:21:09 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 00,u
+14:21:09 / RAKF is based on the ESG Security System
+14:21:09 / written by Craig J. Yasuna               (Mar 1991)
+14:21:09 / adapted to MVS 3.8J: A. Philip Dickinson (Aug 2005)
+14:21:09 /                      Phil Roberts        (Apr 2011)
+14:21:09 /                      Juergen Winkelmann  (Apr 2011)
+14:21:09 / RAKF001I RAKF is now being activated
+14:21:09 / RCVT WAS PROCESSED SUCCESSFULLY
+14:21:09 / RAKF003I RAKF is now active
+14:21:09 / RAKFPROF7  RAKF PROFILES UPDATED
+14:21:09 / RAKFUIDS4  USER TABLE UPDATED
+14:21:09 / AUTO COMMANDS IN COMMND00 BEING PROCESSED CN=00
+14:21:09 / IEF677I WARNING MESSAGE(S) FOR JOB JES2     ISSUED
+14:21:10 /*01 $HASP426 SPECIFY OPTIONS - HASP-II, VERSION JES2 4.1
+14:21:10 /r 00,u
+14:21:10 HHC17540I [AUTOMATE DEBUG] Waiting for: $HASP426 SPECIFY OPTIONS - HASP-II, VERSION JES...
+14:21:10 HHC17540I [AUTOMATE DEBUG] Response: /r 01,noreq
+14:21:10 / IEE600I REPLY TO 00 IS;U
+14:21:10 / IGF992I  MIH INIT COMPLETE, PRI=000300, SEC=000015
+14:21:14 HHC00107I Starting thread cckd_writer() from cckd_writer(), active=1, started=1, max=2
+14:21:14 HHC90020W 'hthread_setschedparam()' failed at loc=cckddasd.c:1775: rc=22: Invalid argument
+14:21:14 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+14:21:14 HHC00100I Thread id 00007f2784ec7700, prio 0, name 'cckd_writer thread 2' started
+14:21:15 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 01,noreq
+14:21:16 /r 01,noreq
+14:21:16 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP099 ALL AVAILABLE FUNCTIONS COM...
+14:21:16 HHC17540I [AUTOMATE DEBUG] Response: script ../SOFTWARE/MDDIAG8/install.rc
+14:21:16 / IEE600I REPLY TO 01 IS;SUPPRESSED
+14:21:17 / $HASP493 JES2  QUICK-START IS IN PROGRESS
+14:21:17 / $HASP412 MAXIMUM OF 2   READER(S)  EXCEEDED
+14:21:17 / $HASP412 MAXIMUM OF 1   PUNCH(ES)  EXCEEDED
+14:21:17 / $HASP000 OK
+14:21:17 / $HASP000 OK
+14:21:18 / $HASP000 PRINTER1  00E INACTIVE F=STD1,OPER P=N R=LOCAL    C=6   ,STD
+14:21:18 / $HASP000                        T=0   ,STD S=Y LIM=0-* Q=A
+14:21:18 / $HASP000 PRINTER2  00F ACTIVE   F=STD1,OPER P=N R=LOCAL    C=6   ,STD
+14:21:18 / $HASP000                        T=0   ,STD S=Y LIM=0-* Q=M
+14:21:18 / $HASP000 OK
+14:21:18 / $HASP000 OK
+14:21:18 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:21:18 / $HASP160 PUNCH1   INACTIVE - CLASS=B
+14:21:18 / $HASP250 SYSLOG   IS PURGED
+14:21:18 / $HASP100 SETPFKEY ON STCINRDR
+14:21:18 / $HASP160 PRINTER2 INACTIVE - CLASS=M
+14:21:18 / $HASP100 ZTIMER   ON STCINRDR
+14:21:18 / $HASP100 INIT     ON STCINRDR
+14:21:18 / IEE041I THE SYSTEM LOG IS NOW ACTIVE
+14:21:18 / $HASP100 INIT     ON STCINRDR
+14:21:18 / IEE450I 08.21.18 UNIT STATUS 132 
+14:21:18 / UNIT TYPE STATUS  VOLSER VOLSTATE   UNIT TYPE STATUS  VOLSER VOLSTATE
+14:21:18 / 100  2400 O                  /REMOV 101  2400 O                  /REMOV
+14:21:18 / 102  2400 O                  /REMOV 103  2400 O                  /REMOV
+14:21:18 / $HASP100 INIT     ON STCINRDR
+14:21:18 / $HASP373 SETPFKEY STARTED
+14:21:18 / IEF403I SETPFKEY - STARTED - TIME=08.21.18
+14:21:18 / $HASP373 ZTIMER   STARTED
+14:21:18 / IEF403I ZTIMER - STARTED - TIME=08.21.18
+14:21:18 / SETPFKEY EXECUTING
+14:21:18 / $HASP373 INIT     STARTED
+14:21:18 / IEF403I INIT - STARTED - TIME=08.21.18
+14:21:18 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:21:18 / $HASP000 ID 99   T=10.21 I=   0 $VS,'S ZTIMER'
+14:21:18 / $HASP373 INIT     STARTED
+14:21:18 / IEF403I INIT - STARTED - TIME=08.21.18
+14:21:18 / IEF404I ZTIMER - ENDED - TIME=08.21.18
+14:21:18 / $HASP395 ZTIMER   ENDED
+14:21:18 / $HASP309    INIT  2 INACTIVE ******** C=BA
+14:21:18 / IEF404I SETPFKEY - ENDED - TIME=08.21.18
+14:21:18 / $HASP395 SETPFKEY ENDED
+14:21:18 / $HASP373 INIT     STARTED
+14:21:18 / IEF403I INIT - STARTED - TIME=08.21.18
+14:21:18 / $HASP309    INIT  3 INACTIVE ******** C=S
+14:21:18 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:21:43 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: script ../SOFTWARE/MDDIAG8/install.rc
+14:21:44 HHC01603I script ../SOFTWARE/MDDIAG8/install.rc
+14:21:44 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 MDDIAG8  ...
+14:21:44 HHC17540I [AUTOMATE DEBUG] Response: script ../SOFTWARE/REVIEW/INSTALL.RC
+14:21:44 HHC02260I Script 2: begin processing file ../SOFTWARE/MDDIAG8/install.rc
+14:21:44 HHC01603I * Installing MDDIAG8
+14:21:44 HHC01603I * Launching Automation REXX script
+14:21:44 HHC01603I exec ../automate.rexx ../SOFTWARE/MDDIAG8/install.txt hercules.log -d &&
+14:21:44 HHC02264I Script 2: file ../SOFTWARE/MDDIAG8/install.rc processing ended
+14:21:44 HHC01603I sh touch failure
+14:21:44 HHC17540I Commands file: /home/jake/sysgen/SOFTWARE/MDDIAG8/install.txt
+14:21:44 HHC17540I Log file: /home/jake/sysgen/sysgen/hercules.log
+14:21:44 HHC17540I [AUTOMATE DEBUG] Debug enabled
+14:21:44 HHC17540I [AUTOMATE DEBUG] Command on its own: sh ./submit.sh ../SOFTWARE/MDDIAG8/01_install_mddiag8.jcl
+14:21:45 HHC01603I sh ./submit.sh ../SOFTWARE/MDDIAG8/01_install_mddiag8.jcl
+14:21:45 This script submits JCL from a text file to an MVS socket reader.
+14:21:45 Sending ../SOFTWARE/MDDIAG8/01_install_mddiag8.jcl
+14:21:46 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:21:46 HHC01603I sh rm -f failure
+14:21:46 / $HASP100 MDDIAG8  ON READER1     Install SYS2 MACLIB
+14:21:46 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:21:46 / IEF677I WARNING MESSAGE(S) FOR JOB MDDIAG8  ISSUED
+14:21:46 / $HASP373 MDDIAG8  STARTED - INIT  1 - CLASS A - SYS HMVS
+14:21:46 / IEF403I MDDIAG8 - STARTED - TIME=08.21.46
+14:21:46 / IEFACTRT DELETE  /IDCAMS  /00:00:00.08/00:00:00.24/00000/MDDIAG8
+14:21:47 / IEFACTRT ASM     /IFOX00  /00:00:00.43/00:00:01.37/00000/MDDIAG8
+14:21:48 / IEFACTRT LKED    /IEWL    /00:00:00.06/00:00:00.44/00000/MDDIAG8
+14:21:48 MDDIAG8 is installed
+14:21:48 / MDDIAG8:sh echo "MDDIAG8 is installed" 
+14:21:48 / IEFACTRT TESTCODE/MDDIAG8 /00:00:00.02/00:00:00.05/00000/MDDIAG8
+14:21:48 / IEFACTRT INSTALLC/PDSLOAD /00:00:00.03/00:00:00.25/00000/MDDIAG8
+14:21:48 / IEFACTRT STEP2   /IEBGENER/00:00:00.04/00:00:00.10/00000/MDDIAG8
+14:21:48 / IEF404I MDDIAG8 - ENDED - TIME=08.21.48
+14:21:48 / $HASP395 MDDIAG8  ENDED
+14:21:48 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:21:48 / $HASP150 MDDIAG8  ON PRINTER1       634 LINES
+14:21:48 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:21:48 / $HASP250 MDDIAG8  IS PURGED
+14:21:48 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:22:01 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: script ../SOFTWARE/REVIEW/INSTALL.RC
+14:22:02 HHC01603I script ../SOFTWARE/REVIEW/INSTALL.RC
+14:22:02 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 ZTIMER   ...
+14:22:02 HHC17540I [AUTOMATE DEBUG] Response: script ../SOFTWARE/BREXX/INSTALL.RC
+14:22:02 HHC02260I Script 3: begin processing file ../SOFTWARE/REVIEW/INSTALL.RC
+14:22:02 HHC01603I * Installing REVIEW
+14:22:02 HHC01603I * Launching Automation REXX script
+14:22:02 HHC01603I sh bash ../SOFTWARE/REVIEW/update_review.sh
+14:22:02 Getting newest RECV370
+14:22:02 --2021-08-04 14:22:02--  http://www.prycroft6.com.au/REVIEW/download/revhelp.zip
+14:22:02 Resolving www.prycroft6.com.au (www.prycroft6.com.au)... 203.210.102.79
+14:22:03 Connecting to www.prycroft6.com.au (www.prycroft6.com.au)|203.210.102.79|:80... connected.
+14:22:03 HTTP request sent, awaiting response... 200 OK
+14:22:03 Length: 117172 (114K) [application/zip]
+14:22:03 Saving to: ‘revhelp.zip’
+14:22:03 
+14:22:03      0K .......... .......... .......... .......... .......... 43% 63.5K 1s
+14:22:04     50K .......... .......... .......... .......... .......... 87%  122K 0s
+14:22:05    100K .......... ....                                       100%  144M=1.2s
+14:22:05 
+14:22:05 2021-08-04 14:22:05 (95.6 KB/s) - ‘revhelp.zip’ saved [117172/117172]
+14:22:05 
+14:22:05 --2021-08-04 14:22:05--  http://www.prycroft6.com.au/REVIEW/download/rev370ld.zip
+14:22:05 Resolving www.prycroft6.com.au (www.prycroft6.com.au)... 203.210.102.79
+14:22:05 Connecting to www.prycroft6.com.au (www.prycroft6.com.au)|203.210.102.79|:80... connected.
+14:22:05 HTTP request sent, awaiting response... 200 OK
+14:22:05 Length: 178179 (174K) [application/zip]
+14:22:05 Saving to: ‘rev370ld.zip’
+14:22:05 
+14:22:05      0K .......... .......... .......... .......... .......... 28% 61.0K 2s
+14:22:06     50K .......... .......... .......... .......... .......... 57%  122K 1s
+14:22:07    100K .......... .......... .......... .......... .......... 86%  192M 0s
+14:22:07    150K .......... .......... ....                            100% 35.9M=1.2s
+14:22:07 
+14:22:07 2021-08-04 14:22:07 (141 KB/s) - ‘rev370ld.zip’ saved [178179/178179]
+14:22:07 
+14:22:07 --2021-08-04 14:22:07--  http://www.prycroft6.com.au/REVIEW/download/revclist.zip
+14:22:07 Resolving www.prycroft6.com.au (www.prycroft6.com.au)... 203.210.102.79
+14:22:07 Connecting to www.prycroft6.com.au (www.prycroft6.com.au)|203.210.102.79|:80... connected.
+14:22:07 HTTP request sent, awaiting response... 200 OK
+14:22:07 Length: 4574 (4.5K) [application/zip]
+14:22:07 Saving to: ‘revclist.zip’
+14:22:07 
+14:22:07      0K ....                                                  100%  209M=0s
+14:22:07 
+14:22:07 2021-08-04 14:22:07 (209 MB/s) - ‘revclist.zip’ saved [4574/4574]
+14:22:07 
+14:22:07 --2021-08-04 14:22:07--  http://www.prycroft6.com.au/REVIEW/download/revasm.zip
+14:22:07 Resolving www.prycroft6.com.au (www.prycroft6.com.au)... 203.210.102.79
+14:22:07 Connecting to www.prycroft6.com.au (www.prycroft6.com.au)|203.210.102.79|:80... connected.
+14:22:08 HTTP request sent, awaiting response... 200 OK
+14:22:08 Length: 1226224 (1.2M) [application/zip]
+14:22:08 Saving to: ‘revasm.zip’
+14:22:08 
+14:22:08      0K .......... .......... .......... .......... ..........  4% 67.3K 17s
+14:22:09     50K .......... .......... .......... .......... ..........  8%  162K 12s
+14:22:09    100K .......... .......... .......... .......... .......... 12%  171M 7s
+14:22:09    150K .......... .......... .......... .......... .......... 16%  164K 7s
+14:22:09    200K .......... .......... .......... .......... .......... 20% 55.2M 5s
+14:22:09    250K .......... .......... .......... .......... .......... 25% 36.1M 4s
+14:22:09    300K .......... .......... .......... .......... .......... 29%  135K 4s
+14:22:10    350K .......... .......... .......... .......... .......... 33% 26.6M 3s
+14:22:10    400K .......... .......... .......... .......... .......... 37% 30.1M 3s
+14:22:10    450K .......... .......... .......... .......... .......... 41%  164M 2s
+14:22:10    500K .......... .......... .......... .......... .......... 45% 43.0M 2s
+14:22:10    550K .......... .......... .......... .......... .......... 50% 47.7M 2s
+14:22:10    600K .......... .......... .......... .......... .......... 54%  148K 2s
+14:22:10    650K .......... .......... .......... .......... .......... 58%  134M 1s
+14:22:10    700K .......... .......... .......... .......... .......... 62% 22.4M 1s
+14:22:10    750K .......... .......... .......... .......... .......... 66% 79.4M 1s
+14:22:10    800K .......... .......... .......... .......... .......... 70% 76.9M 1s
+14:22:10    850K .......... .......... .......... .......... .......... 75% 83.7M 1s
+14:22:10    900K .......... .......... .......... .......... .......... 79% 94.0M 1s
+14:22:10    950K .......... .......... .......... .......... .......... 83%  165K 0s
+14:22:10   1000K .......... .......... .......... .......... .......... 87%  102M 0s
+14:22:10   1050K .......... .......... .......... .......... .......... 91%  148M 0s
+14:22:10   1100K .......... .......... .......... .......... .......... 96%  153M 0s
+14:22:10   1150K .......... .......... .......... .......... .......   100% 46.3M=2.4s
+14:22:10 
+14:22:10 2021-08-04 14:22:10 (502 KB/s) - ‘revasm.zip’ saved [1226224/1226224]
+14:22:10 
+14:22:10 Archive:  rev370ld.zip
+14:22:10   inflating: rev370ld.xmi            
+14:22:10 Archive:  revasm.zip
+14:22:10   inflating: revasm.xmi              
+14:22:10 Archive:  revclist.zip
+14:22:10   inflating: revclist.xmi            
+14:22:10 Archive:  revhelp.zip
+14:22:10   inflating: revhelp.xmi             
+14:22:10 HHC01603I exec ../automate.rexx ../SOFTWARE/REVIEW/install.txt hercules.log -d &&
+14:22:10 HHC02264I Script 3: file ../SOFTWARE/REVIEW/INSTALL.RC processing ended
+14:22:10 HHC01603I sh touch failure
+14:22:10 HHC17540I Commands file: /home/jake/sysgen/SOFTWARE/REVIEW/install.txt
+14:22:10 HHC17540I Log file: /home/jake/sysgen/sysgen/hercules.log
+14:22:10 HHC17540I [AUTOMATE DEBUG] Debug enabled
+14:22:11 HHC17540I # RFE Install
+14:22:11 HHC17540I [AUTOMATE DEBUG] Command on its own: /$CA
+14:22:12 /$CA
+14:22:12 HHC17540I [AUTOMATE DEBUG] Waiting for: $HASP0...
+14:22:12 HHC17540I [AUTOMATE DEBUG] Response: devinit 01c ../SOFTWARE/REVIEW/revclist.xmi
+14:22:12 / $HASP000 OK
+14:22:14 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 01c ../SOFTWARE/REVIEW/revclist.xmi
+14:22:15 HHC01603I devinit 01c ../SOFTWARE/REVIEW/revclist.xmi
+14:22:15 HHC02245I 0:001C device initialized
+14:22:15 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC02245I 0:001C device initia...
+14:22:15 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/REVIEW/01_review_receive_clist.jcl
+14:22:16 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/REVIEW/01_review_receive_clist.jcl
+14:22:17 HHC01603I sh ./submit.sh ../SOFTWARE/REVIEW/01_review_receive_clist.jcl
+14:22:17 This script submits JCL from a text file to an MVS socket reader.
+14:22:17 Sending ../SOFTWARE/REVIEW/01_review_receive_clist.jcl
+14:22:17 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:22:17 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RFEXMIT1 ...
+14:22:17 HHC17540I [AUTOMATE DEBUG] Response: devinit 01c ../SOFTWARE/REVIEW/revhelp.xmi
+14:22:17 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:22:17 / $HASP100 RFEXMIT1 ON READER1     Recieve XMI
+14:22:17 / $HASP373 RFEXMIT1 STARTED - INIT  1 - CLASS A - SYS HMVS
+14:22:17 / IEF403I RFEXMIT1 - STARTED - TIME=08.22.17
+14:22:17 / IEF236I ALLOC. FOR RFEXMIT1 RECV370
+14:22:17 / IEF237I 01C  ALLOCATED TO XMITIN
+14:22:18 / IEFACTRT RECV370 /RECV370 /00:00:00.11/00:00:00.68/00000/RFEXMIT1
+14:22:18 / IEF404I RFEXMIT1 - ENDED - TIME=08.22.18
+14:22:18 / $HASP395 RFEXMIT1 ENDED
+14:22:18 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:22:18 / $HASP150 RFEXMIT1 ON PRINTER1       107 LINES
+14:22:18 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:22:18 / $HASP250 RFEXMIT1 IS PURGED
+14:22:18 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:22:26 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 01c ../SOFTWARE/REVIEW/revhelp.xmi
+14:22:27 HHC01603I devinit 01c ../SOFTWARE/REVIEW/revhelp.xmi
+14:22:27 HHC02245I 0:001C device initialized
+14:22:27 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC02245I 0:001C device initia...
+14:22:27 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/REVIEW/02_review_recieve_help.jcl
+14:22:30 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/REVIEW/02_review_recieve_help.jcl
+14:22:31 HHC01603I sh ./submit.sh ../SOFTWARE/REVIEW/02_review_recieve_help.jcl
+14:22:31 This script submits JCL from a text file to an MVS socket reader.
+14:22:31 Sending ../SOFTWARE/REVIEW/02_review_recieve_help.jcl
+14:22:31 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:22:31 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RFEXMIT2 ...
+14:22:31 HHC17540I [AUTOMATE DEBUG] Response: devinit 01c ../SOFTWARE/REVIEW/rev370ld.xmi
+14:22:31 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:22:31 / $HASP100 RFEXMIT2 ON READER1     Recieve XMI
+14:22:31 / $HASP373 RFEXMIT2 STARTED - INIT  1 - CLASS A - SYS HMVS
+14:22:31 / IEF403I RFEXMIT2 - STARTED - TIME=08.22.31
+14:22:31 / IEF236I ALLOC. FOR RFEXMIT2 RECV370
+14:22:31 / IEF237I 01C  ALLOCATED TO XMITIN
+14:22:33 / IEFACTRT RECV370 /RECV370 /00:00:01.05/00:00:01.95/00000/RFEXMIT2
+14:22:33 / IEF404I RFEXMIT2 - ENDED - TIME=08.22.33
+14:22:33 / $HASP395 RFEXMIT2 ENDED
+14:22:33 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:22:33 / $HASP150 RFEXMIT2 ON PRINTER1       113 LINES
+14:22:33 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:22:33 / $HASP250 RFEXMIT2 IS PURGED
+14:22:33 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:22:40 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 01c ../SOFTWARE/REVIEW/rev370ld.xmi
+14:22:41 HHC01603I devinit 01c ../SOFTWARE/REVIEW/rev370ld.xmi
+14:22:41 HHC02245I 0:001C device initialized
+14:22:41 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC02245I 0:001C device initia...
+14:22:41 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/REVIEW/03_review_receive_load.jcl
+14:22:44 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/REVIEW/03_review_receive_load.jcl
+14:22:45 HHC01603I sh ./submit.sh ../SOFTWARE/REVIEW/03_review_receive_load.jcl
+14:22:45 This script submits JCL from a text file to an MVS socket reader.
+14:22:45 Sending ../SOFTWARE/REVIEW/03_review_receive_load.jcl
+14:22:45 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:22:45 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RFEXMIT3 ...
+14:22:45 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/REVIEW/05_review_install.jcl
+14:22:45 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:22:45 / $HASP100 RFEXMIT3 ON READER1     Recieve XMI
+14:22:45 / $HASP373 RFEXMIT3 STARTED - INIT  1 - CLASS A - SYS HMVS
+14:22:45 / IEF403I RFEXMIT3 - STARTED - TIME=08.22.45
+14:22:45 / IEF236I ALLOC. FOR RFEXMIT3 RECV370
+14:22:45 / IEF237I 01C  ALLOCATED TO XMITIN
+14:22:46 / IEFACTRT RECV370 /RECV370 /00:00:00.47/00:00:01.19/00000/RFEXMIT3
+14:22:46 / IEF404I RFEXMIT3 - ENDED - TIME=08.22.46
+14:22:46 / $HASP395 RFEXMIT3 ENDED
+14:22:46 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:22:46 / $HASP150 RFEXMIT3 ON PRINTER1       112 LINES
+14:22:46 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:22:46 / $HASP250 RFEXMIT3 IS PURGED
+14:22:46 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:22:54 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/REVIEW/05_review_install.jcl
+14:22:55 HHC01603I sh ./submit.sh ../SOFTWARE/REVIEW/05_review_install.jcl
+14:22:55 This script submits JCL from a text file to an MVS socket reader.
+14:22:55 Sending ../SOFTWARE/REVIEW/05_review_install.jcl
+14:22:55 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:22:55 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:22:55 HHC17540I # / $HASP395 RFEINST5 ENDED;sh ./submit.sh ../SOFTWARE/REVIEW/06_SOC1_fix.jcl
+14:22:55 HHC17540I # / $HASP395 RFESC1F4 ENDED;/$VS,'S ZTIMER'
+14:22:55 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RFEINST5 ...
+14:22:55 HHC17540I [AUTOMATE DEBUG] Response: /$VS,'S ZTIMER'
+14:22:55 / $HASP100 RFEINST5 ON READER1     Install Review
+14:22:55 / $HASP373 RFEINST5 STARTED - INIT  1 - CLASS A - SYS HMVS
+14:22:55 / IEF403I RFEINST5 - STARTED - TIME=08.22.55
+14:22:55 / IEFACTRT STEP1CLS/IEBCOPY /00:00:00.12/00:00:00.63/00000/RFEINST5
+14:22:56 / IEFACTRT STEP2HLP/IEBCOPY /00:00:00.20/00:00:00.84/00000/RFEINST5
+14:22:57 / IEFACTRT STEP3LD /IEBCOPY /00:00:00.20/00:00:01.05/00000/RFEINST5
+14:22:57 / IEF404I RFEINST5 - ENDED - TIME=08.22.57
+14:22:57 / $HASP395 RFEINST5 ENDED
+14:22:57 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:22:57 / $HASP150 RFEINST5 ON PRINTER1       247 LINES
+14:22:57 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:22:57 / $HASP250 RFEINST5 IS PURGED
+14:22:57 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:23:06 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /$VS,'S ZTIMER'
+14:23:07 /$VS,'S ZTIMER'
+14:23:07 HHC17540I # Install complete
+14:23:07 HHC01603I sh rm -f failure
+14:23:07 / $HASP100 ZTIMER   ON STCINRDR
+14:23:07 / $HASP373 ZTIMER   STARTED
+14:23:07 / IEF403I ZTIMER - STARTED - TIME=08.23.07
+14:23:07 / $HASP000 ID 99   T=10.23 I=   0 $VS,'S ZTIMER'
+14:23:07 / IEF404I ZTIMER - ENDED - TIME=08.23.07
+14:23:07 / $HASP395 ZTIMER   ENDED
+14:23:07 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:23:50 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: script ../SOFTWARE/BREXX/INSTALL.RC
+14:23:51 HHC01603I script ../SOFTWARE/BREXX/INSTALL.RC
+14:23:51 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 ZTIMER   ...
+14:23:51 HHC17540I [AUTOMATE DEBUG] Response: script ../SOFTWARE/INDFILE/INSTALL.RC
+14:23:51 HHC02260I Script 4: begin processing file ../SOFTWARE/BREXX/INSTALL.RC
+14:23:51 HHC01603I * Installing BREXX
+14:23:51 HHC01603I * Launching Automation REXX script
+14:23:51 HHC01603I sh bash ../SOFTWARE/BREXX/install.sh
+14:23:51 [+] Downloading Brexx
+14:23:52 [+] Current BREXX version: 'V2R4M0'
+14:23:52 [+] Generating JCL
+14:23:52 [+] Collecting XMI
+14:23:52 Archive:  BREXX370_V2R4M0.zip
+14:23:52   inflating: BREXX370_V2R4M0/BREXX External Function feature.pdf  
+14:23:52   inflating: BREXX370_V2R4M0/BREXX.V2R4M0.XMIT  
+14:23:52   inflating: BREXX370_V2R4M0/BREXX370_Formatted_Screens_Guide_V2R4M0.pdf  
+14:23:52   inflating: BREXX370_V2R4M0/BREXX370_Installation_Guide_V2R4M0.pdf  
+14:23:52   inflating: BREXX370_V2R4M0/BREXX370_Migration_Notice_V2R1M0.pdf  
+14:23:52   inflating: BREXX370_V2R4M0/BREXX370_Migration_Notice_V2R2M0.pdf  
+14:23:52   inflating: BREXX370_V2R4M0/BREXX370_Migration_Notice_V2R3M0.pdf  
+14:23:52   inflating: BREXX370_V2R4M0/BREXX370_Migration_Notice_V2R4M0.pdf  
+14:23:52   inflating: BREXX370_V2R4M0/BREXX370_Users_Guide_V2R4M0.pdf  
+14:23:52   inflating: BREXX370_V2R4M0/BREXX370_VSAM_Guide_V2R4M0.pdf  
+14:23:52   inflating: BREXX370_V2R4M0/Readme.pdf  
+14:23:52 [+] Done
+14:23:52 HHC01603I exec ../automate.rexx ../SOFTWARE/BREXX/install.txt hercules.log -d &&
+14:23:52 HHC02264I Script 4: file ../SOFTWARE/BREXX/INSTALL.RC processing ended
+14:23:52 HHC01603I sh touch failure
+14:23:52 HHC17540I Commands file: /home/jake/sysgen/SOFTWARE/BREXX/install.txt
+14:23:52 HHC17540I Log file: /home/jake/sysgen/sysgen/hercules.log
+14:23:52 HHC17540I [AUTOMATE DEBUG] Debug enabled
+14:23:52 HHC17540I # Installing BREXX
+14:23:52 HHC17540I [AUTOMATE DEBUG] Command on its own: /$CA
+14:23:53 /$CA
+14:23:53 HHC17540I [AUTOMATE DEBUG] Waiting for: $HASP0...
+14:23:53 HHC17540I [AUTOMATE DEBUG] Response: devinit 01c ../SOFTWARE/BREXX/BREXX.INSTALL.XMI
+14:23:53 / $HASP000 OK
+14:23:56 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 01c ../SOFTWARE/BREXX/BREXX.INSTALL.XMI
+14:23:57 HHC01603I devinit 01c ../SOFTWARE/BREXX/BREXX.INSTALL.XMI
+14:23:57 HHC02245I 0:001C device initialized
+14:23:57 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC02245I 0:001C device initia...
+14:23:57 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/BREXX/01_receive_install.jcl
+14:23:58 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/BREXX/01_receive_install.jcl
+14:23:59 HHC01603I sh ./submit.sh ../SOFTWARE/BREXX/01_receive_install.jcl
+14:23:59 This script submits JCL from a text file to an MVS socket reader.
+14:23:59 Sending ../SOFTWARE/BREXX/01_receive_install.jcl
+14:23:59 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:23:59 HHC17540I [AUTOMATE DEBUG] Waiting for: IEC301A S JOB BREXXRCV DSNAME SYS1.VSAM.MASTER.CA...
+14:23:59 HHC17540I [AUTOMATE DEBUG] Response: /r 02,sysprog
+14:23:59 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:23:59 / $HASP100 BREXXRCV ON READER1     Recieve XMI
+14:23:59 / $HASP373 BREXXRCV STARTED - INIT  1 - CLASS A - SYS HMVS
+14:23:59 / IEF403I BREXXRCV - STARTED - TIME=08.23.59
+14:23:59 /*02 IEC301A S JOB BREXXRCV DSNAME SYS1.VSAM.MASTER.CATALOG
+14:24:05 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 02,sysprog
+14:24:06 /r 02,sysprog
+14:24:06 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 BREXXRCV ...
+14:24:06 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/BREXX/02_brexx_unpack.jcl
+14:24:06 / IEE600I REPLY TO 02 IS;SUPPRESSED
+14:24:06 / IEFACTRT CLEANUP /IDCAMS  /00:00:00.08/00:00:07.51/00000/BREXXRCV
+14:24:07 / IEF236I ALLOC. FOR BREXXRCV RECV370
+14:24:07 / IEF237I 01C  ALLOCATED TO XMITIN
+14:24:11 / IEFACTRT RECV370 /RECV370 /00:00:02.51/00:00:04.43/00000/BREXXRCV
+14:24:11 / IEF404I BREXXRCV - ENDED - TIME=08.24.11
+14:24:11 / $HASP395 BREXXRCV ENDED
+14:24:11 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:24:11 / $HASP150 BREXXRCV ON PRINTER1       156 LINES
+14:24:11 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:24:11 / $HASP250 BREXXRCV IS PURGED
+14:24:11 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:24:12 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/BREXX/02_brexx_unpack.jcl
+14:24:13 HHC01603I sh ./submit.sh ../SOFTWARE/BREXX/02_brexx_unpack.jcl
+14:24:13 This script submits JCL from a text file to an MVS socket reader.
+14:24:13 Sending ../SOFTWARE/BREXX/02_brexx_unpack.jcl
+14:24:13 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:24:13 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 BREXXUNP ...
+14:24:13 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/BREXX/03_brexx_install.jcl
+14:24:13 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:24:13 / $HASP100 BREXXUNP ON READER1     Recieve XMI
+14:24:13 / $HASP373 BREXXUNP STARTED - INIT  1 - CLASS A - SYS HMVS
+14:24:13 / IEF403I BREXXUNP - STARTED - TIME=08.24.14
+14:24:14 / IEFACTRT STEP10  /IKJEFT01/00:00:00.13/00:00:00.37/00004/BREXXUNP
+14:24:15 / IEFACTRT STEP20  /RECV370 /00:00:00.17/00:00:01.09/00000/BREXXUNP
+14:24:15 / IEFACTRT STEP10  /IKJEFT01/00:00:00.12/00:00:00.28/00004/BREXXUNP
+14:24:16 / IEFACTRT STEP20  /RECV370 /00:00:00.09/00:00:00.81/00000/BREXXUNP
+14:24:16 / IEFACTRT STEP10  /IKJEFT01/00:00:00.12/00:00:00.28/00004/BREXXUNP
+14:24:17 / IEFACTRT STEP20  /RECV370 /00:00:00.11/00:00:00.92/00000/BREXXUNP
+14:24:18 / IEFACTRT STEP10  /IKJEFT01/00:00:00.13/00:00:00.28/00004/BREXXUNP
+14:24:19 / IEFACTRT STEP20  /RECV370 /00:00:00.16/00:00:01.12/00000/BREXXUNP
+14:24:19 / IEFACTRT STEP10  /IKJEFT01/00:00:00.12/00:00:00.29/00004/BREXXUNP
+14:24:20 / IEFACTRT STEP20  /RECV370 /00:00:00.14/00:00:01.05/00000/BREXXUNP
+14:24:20 / IEFACTRT STEP10  /IKJEFT01/00:00:00.12/00:00:00.30/00004/BREXXUNP
+14:24:21 / IEFACTRT STEP20  /RECV370 /00:00:00.09/00:00:00.86/00000/BREXXUNP
+14:24:21 / IEFACTRT STEP10  /IKJEFT01/00:00:00.13/00:00:00.29/00004/BREXXUNP
+14:24:23 / IEFACTRT STEP20  /RECV370 /00:00:00.18/00:00:01.10/00000/BREXXUNP
+14:24:23 / IEF404I BREXXUNP - ENDED - TIME=08.24.23
+14:24:23 / $HASP395 BREXXUNP ENDED
+14:24:23 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:24:23 / $HASP150 BREXXUNP ON PRINTER1       916 LINES
+14:24:23 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:24:23 / $HASP250 BREXXUNP IS PURGED
+14:24:23 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:24:29 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/BREXX/03_brexx_install.jcl
+14:24:30 HHC01603I sh ./submit.sh ../SOFTWARE/BREXX/03_brexx_install.jcl
+14:24:30 This script submits JCL from a text file to an MVS socket reader.
+14:24:30 Sending ../SOFTWARE/BREXX/03_brexx_install.jcl
+14:24:30 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:24:30 HHC17540I [AUTOMATE DEBUG] Waiting for: IEC301A S JOB INIT     DSNAME SYS1.VSAM.MASTER.CA...
+14:24:30 HHC17540I [AUTOMATE DEBUG] Response: /r 2,sysprog
+14:24:30 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:24:30 / $HASP100 BREXXINS ON READER1     Recieve XMI
+14:24:30 / $HASP373 BREXXINS STARTED - INIT  1 - CLASS A - SYS HMVS
+14:24:30 / IEF403I BREXXINS - STARTED - TIME=08.24.30
+14:24:32 / IEFACTRT STEP10  /IEBCOPY /00:00:00.26/00:00:01.69/00000/BREXXINS
+14:24:32 / IEFACTRT STEP20  /IEBCOPY /00:00:00.06/00:00:00.35/00000/BREXXINS
+14:24:32 /*03 IEC301A S JOB INIT     DSNAME SYS1.VSAM.MASTER.CATALOG
+14:24:39 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 03,sysprog
+14:24:40 /r 03,sysprog
+14:24:40 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 BREXXINS ...
+14:24:40 HHC17540I [AUTOMATE DEBUG] Response: /$VS,'S ZTIMER'
+14:24:40 / IEE600I REPLY TO 03 IS;SUPPRESSED
+14:24:40 / IEFACTRT SYS2EXEC/IEFBR14 /00:00:00.01/00:00:07.89/00000/BREXXINS
+14:24:41 / IEFACTRT EDITSTEP/IKJEFT01/00:00:00.26/00:00:01.30/00000/BREXXINS
+14:24:41 / IEF404I BREXXINS - ENDED - TIME=08.24.41
+14:24:41 / $HASP395 BREXXINS ENDED
+14:24:41 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:24:41 / $HASP150 BREXXINS ON PRINTER1       261 LINES
+14:24:41 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:24:41 / $HASP250 BREXXINS IS PURGED
+14:24:41 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:24:44 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /$VS,'S ZTIMER'
+14:24:45 /$VS,'S ZTIMER'
+14:24:45 HHC17540I # BREXX install complete
+14:24:45 HHC01603I sh rm -f failure
+14:24:45 / $HASP100 ZTIMER   ON STCINRDR
+14:24:45 / $HASP373 ZTIMER   STARTED
+14:24:45 / IEF403I ZTIMER - STARTED - TIME=08.24.45
+14:24:45 / $HASP000 ID 99   T=10.24 I=   0 $VS,'S ZTIMER'
+14:24:45 / IEF404I ZTIMER - ENDED - TIME=08.24.45
+14:24:45 / $HASP395 ZTIMER   ENDED
+14:24:45 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:25:01 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: script ../SOFTWARE/INDFILE/INSTALL.RC
+14:25:02 HHC01603I script ../SOFTWARE/INDFILE/INSTALL.RC
+14:25:02 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 ZTIMER   ...
+14:25:02 HHC17540I [AUTOMATE DEBUG] Response: script ../SOFTWARE/FTPD/INSTALL.RC
+14:25:02 HHC02260I Script 5: begin processing file ../SOFTWARE/INDFILE/INSTALL.RC
+14:25:02 HHC01603I exec ../automate.rexx ../SOFTWARE/INDFILE/install.txt hercules.log -d &&
+14:25:02 HHC02264I Script 5: file ../SOFTWARE/INDFILE/INSTALL.RC processing ended
+14:25:02 HHC01603I sh touch failure
+14:25:02 HHC17540I Commands file: /home/jake/sysgen/SOFTWARE/INDFILE/install.txt
+14:25:02 HHC17540I Log file: /home/jake/sysgen/sysgen/hercules.log
+14:25:02 HHC17540I [AUTOMATE DEBUG] Debug enabled
+14:25:02 HHC17540I # RFE Install
+14:25:02 HHC17540I [AUTOMATE DEBUG] Command on its own: /$CA
+14:25:03 /$CA
+14:25:03 HHC17540I [AUTOMATE DEBUG] Waiting for: $HASP0...
+14:25:03 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/INDFILE/01_recv_indfile.jcl
+14:25:03 / $HASP000 OK
+14:25:06 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/INDFILE/01_recv_indfile.jcl
+14:25:07 HHC01603I sh ./submit.sh ../SOFTWARE/INDFILE/01_recv_indfile.jcl
+14:25:07 This script submits JCL from a text file to an MVS socket reader.
+14:25:07 Sending ../SOFTWARE/INDFILE/01_recv_indfile.jcl
+14:25:07 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:25:07 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:25:07 HHC17540I [AUTOMATE DEBUG] Waiting for: M 100,INDFIL,,IND$FILE,IND...
+14:25:07 HHC17540I [AUTOMATE DEBUG] Response: devinit 100 ../SOFTWARE/INDFILE/IND$FILE.HET
+14:25:07 / $HASP100 IND$FILE ON READER1     UNLOAD
+14:25:07 / IEF677I WARNING MESSAGE(S) FOR JOB IND$FILE ISSUED
+14:25:07 / $HASP373 IND$FILE STARTED - INIT  1 - CLASS A - SYS HMVS
+14:25:07 / IEF403I IND$FILE - STARTED - TIME=08.25.07
+14:25:07 /*IEF233A M 100,INDFIL,,IND$FILE,IND$FILE
+14:25:13 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 100 ../SOFTWARE/INDFILE/IND$FILE.HET
+14:25:14 HHC01603I devinit 100 ../SOFTWARE/INDFILE/IND$FILE.HET
+14:25:14 HHC00221I 0:0100 Tape file ../SOFTWARE/INDFILE/IND$FILE.HET, type HET: format type Hercules Emulated Tape file
+14:25:14 HHC02245I 0:0100 device initialized
+14:25:14 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 IND$FILE ...
+14:25:14 HHC17540I [AUTOMATE DEBUG] Response: /$VS,'S ZTIMER'
+14:25:14 / IEFACTRT IND$FILE/IEBCOPY /00:00:00.07/00:00:07.11/00000/IND$FILE
+14:25:14 HHC00201I 0:0100 Tape file ../SOFTWARE/INDFILE/IND$FILE.HET, type het: tape closed
+14:25:14 / IEF234E K 100,INDFIL,PVT,IND$FILE
+14:25:14 / IEF404I IND$FILE - ENDED - TIME=08.25.14
+14:25:14 / $HASP395 IND$FILE ENDED
+14:25:14 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:25:14 / $HASP150 IND$FILE ON PRINTER1        80 LINES
+14:25:14 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:25:14 / $HASP250 IND$FILE IS PURGED
+14:25:14 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:25:19 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /$VS,'S ZTIMER'
+14:25:20 /$VS,'S ZTIMER'
+14:25:20 HHC01603I sh rm -f failure
+14:25:20 / $HASP100 ZTIMER   ON STCINRDR
+14:25:20 / $HASP373 ZTIMER   STARTED
+14:25:20 / IEF403I ZTIMER - STARTED - TIME=08.25.20
+14:25:20 / $HASP000 ID 99   T=10.25 I=   0 $VS,'S ZTIMER'
+14:25:20 / IEF404I ZTIMER - ENDED - TIME=08.25.20
+14:25:20 / $HASP395 ZTIMER   ENDED
+14:25:20 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:25:30 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: script ../SOFTWARE/FTPD/INSTALL.RC
+14:25:31 HHC01603I script ../SOFTWARE/FTPD/INSTALL.RC
+14:25:31 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 ZTIMER   ...
+14:25:31 HHC17540I [AUTOMATE DEBUG] Response: /stop FTPD
+14:25:31 HHC02260I Script 6: begin processing file ../SOFTWARE/FTPD/INSTALL.RC
+14:25:31 HHC01603I * Installing FTPD
+14:25:31 HHC01603I * Launching Automation REXX script
+14:25:31 HHC01603I sh bash ../SOFTWARE/FTPD/install.sh
+14:25:31 Generating Random FTPD password
+14:25:31 Using: CFPYPO@X
+14:25:31 Done
+14:25:31 HHC01603I exec ../automate.rexx ../SOFTWARE/FTPD/install.txt hercules.log -d &&
+14:25:31 HHC02264I Script 6: file ../SOFTWARE/FTPD/INSTALL.RC processing ended
+14:25:31 HHC01603I sh touch failure
+14:25:31 HHC17540I Commands file: /home/jake/sysgen/SOFTWARE/FTPD/install.txt
+14:25:31 HHC17540I Log file: /home/jake/sysgen/sysgen/hercules.log
+14:25:31 HHC17540I [AUTOMATE DEBUG] Debug enabled
+14:25:31 HHC17540I # Installing FTPD
+14:25:31 HHC17540I [AUTOMATE DEBUG] Command on its own: /$CA
+14:25:32 /$CA
+14:25:32 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP0...
+14:25:32 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/FTPD/01_update_rakf.jcl
+14:25:32 / $HASP000 OK
+14:25:34 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/FTPD/01_update_rakf.jcl
+14:25:35 HHC01603I sh ./submit.sh ../SOFTWARE/FTPD/01_update_rakf.jcl
+14:25:35 This script submits JCL from a text file to an MVS socket reader.
+14:25:35 Sending ../SOFTWARE/FTPD/01_update_rakf.jcl
+14:25:35 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:25:35 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 UPDTRAKF ...
+14:25:35 HHC17540I [AUTOMATE DEBUG] Response: devinit 01c ../SOFTWARE/FTPD/ftpd.xmi
+14:25:35 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:25:35 / $HASP100 UPDTRAKF ON READER1     FTPD XMI
+14:25:35 / $HASP373 UPDTRAKF STARTED - INIT  1 - CLASS A - SYS HMVS
+14:25:35 / IEF403I UPDTRAKF - STARTED - TIME=08.25.35
+14:25:36 / IEFACTRT SORTU   /SORT    /00:00:00.17/00:00:01.23/00000/UPDTRAKF
+14:25:38 / IEFACTRT SORTP   /SORT    /00:00:00.20/00:00:01.49/00000/UPDTRAKF
+14:25:38 / RAKFUIDS4  USER TABLE UPDATED
+14:25:38 / IEFACTRT RAKFUSER/RAKFUSER/00:00:00.03/00:00:00.11/00000/UPDTRAKF
+14:25:38 / RAKFPROF7  RAKF PROFILES UPDATED
+14:25:38 / IEFACTRT RAKFPROF/RAKFPROF/00:00:00.02/00:00:00.11/00000/UPDTRAKF
+14:25:38 / IEF404I UPDTRAKF - ENDED - TIME=08.25.38
+14:25:38 / $HASP395 UPDTRAKF ENDED
+14:25:38 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:25:38 / $HASP150 UPDTRAKF ON PRINTER1       226 LINES
+14:25:38 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:25:38 / $HASP250 UPDTRAKF IS PURGED
+14:25:38 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:25:44 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 01c ../SOFTWARE/FTPD/ftpd.xmi
+14:25:45 HHC01603I devinit 01c ../SOFTWARE/FTPD/ftpd.xmi
+14:25:45 HHC02245I 0:001C device initialized
+14:25:45 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC02245I 0:001C device initia...
+14:25:45 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/FTPD/02_install_ftpd.jcl
+14:25:49 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/FTPD/02_install_ftpd.jcl
+14:25:50 HHC01603I sh ./submit.sh ../SOFTWARE/FTPD/02_install_ftpd.jcl
+14:25:50 This script submits JCL from a text file to an MVS socket reader.
+14:25:50 Sending ../SOFTWARE/FTPD/02_install_ftpd.jcl
+14:25:50 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:25:50 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RECVFTPD ...
+14:25:50 HHC17540I [AUTOMATE DEBUG] Response: /s ftpd,srvport=2121
+14:25:50 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:25:50 / $HASP100 RECVFTPD ON READER1     FTPD XMI
+14:25:50 / $HASP373 RECVFTPD STARTED - INIT  1 - CLASS A - SYS HMVS
+14:25:50 / IEF403I RECVFTPD - STARTED - TIME=08.25.50
+14:25:50 / IEFACTRT FTDELETE/IDCAMS  /00:00:00.16/00:00:00.45/00000/RECVFTPD
+14:25:50 / IEF236I ALLOC. FOR RECVFTPD RECV370
+14:25:50 / IEF237I 01C  ALLOCATED TO XMITIN
+14:25:51 / IEFACTRT RECV370 /RECV370 /00:00:00.50/00:00:01.12/00000/RECVFTPD
+14:25:52 / IEFACTRT STEP2CPY/IEBCOPY /00:00:00.11/00:00:00.72/00000/RECVFTPD
+14:25:52 / IEFACTRT FTPDDEVC/IEBGENER/00:00:00.03/00:00:00.09/00000/RECVFTPD
+14:25:52 / IEFACTRT FTPDDEVC/IEBGENER/00:00:00.03/00:00:00.25/00000/RECVFTPD
+14:25:52 / IEF404I RECVFTPD - ENDED - TIME=08.25.53
+14:25:52 / $HASP395 RECVFTPD ENDED
+14:25:52 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:25:52 / $HASP150 RECVFTPD ON PRINTER1       296 LINES
+14:25:53 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:25:53 / $HASP250 RECVFTPD IS PURGED
+14:25:53 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:26:00 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /s ftpd,srvport=2121
+14:26:01 /s ftpd,srvport=2121
+14:26:01 HHC17540I [AUTOMATE DEBUG] Command on its own: /$VS,'S ZTIMER'
+14:26:01 / $HASP100 FTPD     ON STCINRDR
+14:26:01 / $HASP373 FTPD     STARTED
+14:26:01 / IEF403I FTPD - STARTED - TIME=08.26.01
+14:26:02 /$VS,'S ZTIMER'
+14:26:02 HHC01603I sh rm -f failure
+14:26:02 / $HASP100 ZTIMER   ON STCINRDR
+14:26:02 / $HASP373 ZTIMER   STARTED
+14:26:02 / IEF403I ZTIMER - STARTED - TIME=08.26.02
+14:26:02 / $HASP000 ID 99   T=10.26 I=   0 $VS,'S ZTIMER'
+14:26:02 / IEF404I ZTIMER - ENDED - TIME=08.26.02
+14:26:02 / $HASP395 ZTIMER   ENDED
+14:26:16 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /stop FTPD
+14:26:17 /stop FTPD
+14:26:17 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 FTPD     ...
+14:26:17 HHC17540I [AUTOMATE DEBUG] Response: /$pjes2
+14:26:40 / IEF404I FTPD - ENDED - TIME=08.26.40
+14:26:40 / $HASP395 FTPD     ENDED
+14:26:40 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:26:41 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /$pjes2
+14:26:42 /$pjes2
+14:26:42 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP085 JES2 TERMINATION COM...
+14:26:42 HHC17540I [AUTOMATE DEBUG] Response: /z eod
+14:26:42 / IEF404I INIT - ENDED - TIME=08.26.42
+14:26:42 / $HASP395 INIT     ENDED
+14:26:42 / IEF404I INIT - ENDED - TIME=08.26.42
+14:26:42 / $HASP395 INIT     ENDED
+14:26:42 / IEF404I INIT - ENDED - TIME=08.26.42
+14:26:42 / $HASP395 INIT     ENDED
+14:26:42 / IEE043I A SYSTEM LOG DATA SET HAS BEEN QUEUED TO SYSOUT CLASS A
+14:26:42 / IEE037I LOG NOT ACTIVE
+14:26:47 / $HASP085 JES2 TERMINATION COMPLETE
+14:26:47 / IEF404I JES2 - ENDED - TIME=08.26.47
+14:26:48 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /z eod
+14:26:49 /z eod
+14:26:49 HHC17540I [AUTOMATE DEBUG] Waiting for: / IEE334I HALT     EOD SUCCE...
+14:26:49 HHC17540I [AUTOMATE DEBUG] Response: /quiesce
+14:26:49 /*IEE362A SMF ENTER DUMP FOR SYS1.MANX ON MVSRES
+14:26:49 / IEE360I SMF NOW RECORDING ON SYS1.MANY ON MVSRES TIME=08.26.49
+14:26:49 / IEE334I HALT     EOD SUCCESSFUL
+14:26:53 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /quiesce
+14:26:54 /quiesce
+14:26:54 HHC17540I [AUTOMATE DEBUG] Waiting for: Processor CP00: disabled wait ...
+14:26:54 HHC17540I [AUTOMATE DEBUG] Response: quit
+14:26:54 HHC00814I Processor CP00: SIGP Stop and store status            (09) CP01, PARM 00000000: CC 0
+14:26:54 HHC00808I Processor CP01: store status completed
+14:26:54 HHC00809I Processor CP01: disabled wait state 000A0000 00000CCC
+14:26:54 HHC00809I Processor CP01: disabled wait state 000A0000 00000CCC
+14:26:54 HHC00809I Processor CP00: disabled wait state 000A0000 00000CCC
+14:26:58 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: quit
+14:26:59 HHC01603I sh rm -f failure
+14:26:59 HHC01603I quit
+14:26:59 HHC01420I Begin Hercules shutdown
+14:26:59 HHC01423I Calling termination routines
+14:26:59 HHC01423I Calling termination routines
+14:26:59 HHC00101I Thread id 00007f2786a11700, prio 0, name 'socket_thread' ended
+14:26:59 HHC00101I Thread id 00007f278690f700, prio 0, name 'Processor CP00' ended
+14:26:59 HHC00101I Thread id 00007f2786b12700, prio 0, name 'Processor CP01' ended
+14:26:59 HHC00333I 0:0150   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00334I 0:0150                                                      readaheads   misses
+14:26:59 HHC00335I 0:0150 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0150 [*] 32 00012333036 006% 0013    0000484 0004937 0000101 0002141  0002366
+14:26:59 HHC00337I 0:0150                                                         0000278  0000081
+14:26:59 HHC00338I 0:0150 dasd/mvsres.3350
+14:26:59 HHC00339I 0:0150 [0] 32 00012333036 006% 0013 rw 0000484 0004937 0000101
+14:26:59 HHC00333I 0:0151   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00334I 0:0151                                                      readaheads   misses
+14:26:59 HHC00335I 0:0151 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0151 [*] 32 00002032103 014% 0008    0000126 0001701 0000027 0000867  0000939
+14:26:59 HHC00337I 0:0151                                                         0000231  0000040
+14:26:59 HHC00338I 0:0151 dasd/mvs000.3350
+14:26:59 HHC00339I 0:0151 [0] 32 00002032103 014% 0008 rw 0000126 0001701 0000027
+14:26:59 HHC00333I 0:0152   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00334I 0:0152                                                      readaheads   misses
+14:26:59 HHC00335I 0:0152 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0152 [*] 32 00006719864 012% 0071    0000511 0027775 0000061 0000507  0000803
+14:26:59 HHC00337I 0:0152                                                         0000215  0000080
+14:26:59 HHC00338I 0:0152 dasd/page00.3350
+14:26:59 HHC00339I 0:0152 [0] 32 00006719864 012% 0071 rw 0000511 0027775 0000061
+14:26:59 HHC00333I 0:0153   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00334I 0:0153                                                      readaheads   misses
+14:26:59 HHC00335I 0:0153 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0153 [*] 32 00003289842 029% 0016    0000122 0071107 0000139 0001070  0001130
+14:26:59 HHC00337I 0:0153                                                         0000062  0000029
+14:26:59 HHC00338I 0:0153 dasd/spool1.3350
+14:26:59 HHC00339I 0:0153 [0] 32 00003289842 029% 0016 rw 0000122 0071107 0000139
+14:26:59 HHC00333I 0:0180   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00334I 0:0180                                                      readaheads   misses
+14:26:59 HHC00335I 0:0180 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0180 [*] 32 00000195437 000% 0000    0000033 0000000 0000001 0000029  0000032
+14:26:59 HHC00337I 0:0180                                                         0000030  0000004
+14:26:59 HHC00338I 0:0180 dasd/pub000.3380
+14:26:59 HHC00339I 0:0180 [0] 32 00000195437 000% 0000 rw 0000033 0000000 0000001
+14:26:59 HHC00333I 0:0190   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00334I 0:0190                                                      readaheads   misses
+14:26:59 HHC00335I 0:0190 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0190 [*] 32 00005376563 015% 0003    0000129 0002284 0000004 0001440  0001512
+14:26:59 HHC00337I 0:0190                                                         0000293  0000061
+14:26:59 HHC00338I 0:0190 dasd/pub001.3390
+14:26:59 HHC00339I 0:0190 [0] 32 00005376563 015% 0003 rw 0000129 0002284 0000004
+14:26:59 HHC00333I 0:0220   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00335I 0:0220 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0220 [*] 32 00000018540 000% 0000    0000002 0000002 0000001 0000000  0000002
+14:26:59 HHC00338I 0:0220 dasd/sortw1.2314
+14:26:59 HHC00339I 0:0220 [0] 32 00000018540 000% 0000 rw 0000002 0000002 0000001
+14:26:59 HHC00333I 0:0221   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00334I 0:0221                                                      readaheads   misses
+14:26:59 HHC00335I 0:0221 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0221 [*] 32 00000004063 000% 0000    0000002 0000002 0000001 0000000  0000002
+14:26:59 HHC00337I 0:0221                                                         0000000  0000001
+14:26:59 HHC00338I 0:0221 dasd/sortw2.2314
+14:26:59 HHC00339I 0:0221 [0] 32 00000004063 000% 0000 rw 0000002 0000002 0000001
+14:26:59 HHC00333I 0:0222   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00335I 0:0222 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0222 [*] 32 00000004063 000% 0000    0000002 0000002 0000001 0000000  0000002
+14:26:59 HHC00338I 0:0222 dasd/sortw3.2314
+14:26:59 HHC00339I 0:0222 [0] 32 00000004063 000% 0000 rw 0000002 0000002 0000001
+14:26:59 HHC00333I 0:0223   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00335I 0:0223 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0223 [*] 32 00000022094 000% 0000    0000001 0000000 0000001 0000000  0000001
+14:26:59 HHC00338I 0:0223 dasd/sortw4.2314
+14:26:59 HHC00339I 0:0223 [0] 32 00000022094 000% 0000 rw 0000001 0000000 0000001
+14:26:59 HHC00333I 0:0224   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00335I 0:0224 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0224 [*] 32 00000004569 000% 0000    0000002 0000009 0000001 0000002  0000006
+14:26:59 HHC00338I 0:0224 dasd/sortw5.2314
+14:26:59 HHC00339I 0:0224 [0] 32 00000004569 000% 0000 rw 0000002 0000009 0000001
+14:26:59 HHC00333I 0:0225   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00335I 0:0225 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0225 [*] 32 00000004550 000% 0000    0000004 0000014 0000001 0000010  0000014
+14:26:59 HHC00338I 0:0225 dasd/sortw6.2314
+14:26:59 HHC00339I 0:0225 [0] 32 00000004550 000% 0000 rw 0000004 0000014 0000001
+14:26:59 HHC00333I 0:0250   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00335I 0:0250 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0250 [*] 32 00044890517 026% 0347    0000001 0000000 0000001 0000000  0000001
+14:26:59 HHC00338I 0:0250 dasd/smp000.3350
+14:26:59 HHC00339I 0:0250 [0] 32 00044890517 026% 0347 rw 0000001 0000000 0000001
+14:26:59 HHC00333I 0:0251   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00334I 0:0251                                                      readaheads   misses
+14:26:59 HHC00335I 0:0251 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0251 [*] 32 00002970447 038% 0002    0000016 0001447 0000003 0000131  0000137
+14:26:59 HHC00337I 0:0251                                                         0000011  0000003
+14:26:59 HHC00338I 0:0251 dasd/work00.3350
+14:26:59 HHC00339I 0:0251 [0] 32 00002970447 038% 0002 rw 0000016 0001447 0000003
+14:26:59 HHC00333I 0:0252   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00334I 0:0252                                                      readaheads   misses
+14:26:59 HHC00335I 0:0252 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0252 [*] 32 00016363993 007% 0020    0000017 0003662 0000033 0000050  0000061
+14:26:59 HHC00337I 0:0252                                                         0000008  0000001
+14:26:59 HHC00338I 0:0252 dasd/work01.3350
+14:26:59 HHC00339I 0:0252 [0] 32 00016363993 007% 0020 rw 0000017 0003662 0000033
+14:26:59 HHC00333I 0:0253   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:26:59 HHC00334I 0:0253                                                      readaheads   misses
+14:26:59 HHC00335I 0:0253 ------------------------------------------------------------------------
+14:26:59 HHC00336I 0:0253 [*] 32 00026916354 003% 0001    0000166 0000000 0000004 0000441  0000541
+14:26:59 HHC00337I 0:0253                                                         0000067  0000022
+14:26:59 HHC00338I 0:0253 dasd/syscpk.3350
+14:26:59 HHC00339I 0:0253 [0] 32 00026916354 003% 0001 rw 0000166 0000000 0000004
+14:26:59 HHC00101I Thread id 00007f27852cb700, prio 0, name 'cckd_ra thread 2' ended
+14:26:59 HHC00101I Thread id 00007f27853cc700, prio 0, name 'cckd_ra thread 1' ended
+14:26:59 HHC00101I Thread id 00007f27850c9700, prio 0, name 'cckd_gcol' ended
+14:26:59 HHC00101I Thread id 00007f2784ec7700, prio 0, name 'cckd_writer thread 2' ended
+14:26:59 HHC00101I Thread id 00007f27851ca700, prio 0, name 'cckd_writer thread 1' ended
+14:26:59 HHC00101I Thread id 00007f27856cf700, prio 0, name 'console_connect' ended
+14:26:59 HHC01427I Main storage released
+14:26:59 HHC01427I Expanded storage released
+14:26:59 HHC01422I Configuration released
+14:26:59 HHC00101I Thread id 00007f278680e700, prio 0, name 'timer_thread' ended
+14:26:59 HHC00101I Thread id 00007f2787176540, prio 0, name 'panel_display' ended

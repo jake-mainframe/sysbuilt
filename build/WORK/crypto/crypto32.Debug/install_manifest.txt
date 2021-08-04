@@ -1,0 +1,9 @@
+/home/jake/sysgen/build/hercpkgs/lib/libcrypto32d.a
+/home/jake/sysgen/build/hercpkgs/include/crypto_version.h
+/home/jake/sysgen/build/hercpkgs/include/crypto.h
+/home/jake/sysgen/build/hercpkgs/include/rijndael.h
+/home/jake/sysgen/build/hercpkgs/include/sha1.h
+/home/jake/sysgen/build/hercpkgs/include/sha2.h
+/home/jake/sysgen/build/hercpkgs/include/sshdes.h
+/home/jake/sysgen/build/hercpkgs/./crypto.LICENSE.txt
+/home/jake/sysgen/build/hercpkgs/./crypto.README.txt

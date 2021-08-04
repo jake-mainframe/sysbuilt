@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcrypto32.a  CMakeFiles/crypto32.dir/crypto_version.c.o CMakeFiles/crypto32.dir/source/rijndael.c.o CMakeFiles/crypto32.dir/source/sha1.c.o CMakeFiles/crypto32.dir/source/sha2.c.o CMakeFiles/crypto32.dir/source/sshdes.c.o
+/usr/bin/ranlib libcrypto32.a

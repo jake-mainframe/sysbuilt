@@ -1,0 +1,449 @@
+08:02:23 HHC00109E set_thread_priority( 5 ) failed: Operation not permitted
+08:02:23 HHC00007I Previous message from function 'impl' at impl.c(989)
+08:02:23 HHC00110W Defaulting all threads to priority 0
+08:02:23 HHC00007I Previous message from function 'impl' at impl.c(992)
+08:02:23 HHC00100I Thread id 00007f6f99039540, prio 0, name 'impl_thread' started
+08:02:23 HHC90020W 'hthread_setschedparam()' failed at loc=impl.c:1011: rc=22: Invalid argument
+08:02:23 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+08:02:23 HHC00100I Thread id 00007f6f98f36700, prio 0, name 'logger_thread' started
+08:02:23 HHC01413I Hercules version 4.4.9999.0-SDL-g7bcdc7e6 (4.4.9999.0)
+08:02:23 HHC01414I (C) Copyright 1999-2021 by Roger Bowler, Jan Jaeger, and others
+08:02:23 HHC01417I ** The SoftDevLabs version of Hercules **
+08:02:23 HHC01415I Build date: Aug  4 2021 at 07:58:16
+08:02:23 HHC01417I Built with: GCC 9.3.0
+08:02:23 HHC01417I Build type: GNU/Linux x86_64 host architecture build
+08:02:23 HHC01417I Modes: S/370 ESA/390 z/Arch
+08:02:23 HHC01417I Max CPU Engines: 128
+08:02:23 HHC01417I Using   shared libraries
+08:02:23 HHC01417I Using   setresuid() for setting privileges
+08:02:23 HHC01417I Using   POSIX threads Threading Model
+08:02:23 HHC01417I Using   Error-Checking Mutex Locking Model
+08:02:23 HHC01417I With    Shared Devices support
+08:02:23 HHC01417I With    Dynamic loading support
+08:02:23 HHC01417I With    External GUI support
+08:02:23 HHC01417I With    IPV6 support
+08:02:23 HHC01417I With    HTTP Server support
+08:02:23 HHC01417I With    sqrtl support
+08:02:23 HHC01417I With    Signal handling
+08:02:23 HHC01417I With    Watchdog monitoring
+08:02:23 HHC01417I With    CCKD BZIP2 support
+08:02:23 HHC01417I With    HET BZIP2 support
+08:02:23 HHC01417I With    ZLIB support
+08:02:23 HHC01417I With    Regular Expressions support
+08:02:23 HHC01417I Without Object REXX support
+08:02:23 HHC01417I With    Regina REXX support
+08:02:23 HHC01417I With    Automatic Operator support
+08:02:23 HHC01417I Without National Language Support
+08:02:23 HHC01417I With    CCKD64 Support
+08:02:23 HHC01417I With    Transactional-Execution Facility support
+08:02:23 HHC01417I With    "Optimized" instructions
+08:02:23 HHC01417I With    OPTION_USE_SKAIP_AS_LOCK
+08:02:23 HHC01417I With    OPTION_SIE2BK_FLD_COPY
+08:02:23 HHC01417I Machine dependent assists: cmpxchg1 cmpxchg4 cmpxchg8 cmpxchg16 hatomics=C11
+08:02:23 HHC01417I Running on: jake-ThinkPad-T14-Gen-1 (Linux-5.8.0-63-generic x86_64) MP=16
+08:02:23 HHC01417I Built with crypto external package version 1.0.0.49-g837705e
+08:02:23 HHC01417I Built with decNumber external package version 3.68.0.99-gda66509
+08:02:23 HHC01417I Built with SoftFloat external package version 3.5.0.102-g42f2f99
+08:02:23 HHC01417I Built with telnet external package version 1.0.0.59-g2aca101
+08:02:23 HHC00018W Hercules is NOT running in elevated mode
+08:02:23 HHC00007I Previous message from function 'impl' at impl.c(1046)
+08:02:23 HHC00150I Crypto module loaded (C) Copyright 2003-2016 by Bernard van der Helm
+08:02:23 HHC00151I Activated facility: Message Security Assist
+08:02:23 HHC00151I Activated facility: Message Security Assist Extension 1, 2, 3 and 4
+08:02:23 HHC17528I REXX(Regina) VERSION: REXX-Regina_3.6(MT) 5.00 31 Dec 2011
+08:02:23 HHC17529I REXX(Regina) SOURCE:  UNIX
+08:02:23 HHC17525I REXX(Regina) Rexx has been started/enabled
+08:02:23 HHC17500I REXX(Regina) Mode            : Command
+08:02:23 HHC17500I REXX(Regina) MsgLevel        : Off
+08:02:23 HHC17500I REXX(Regina) MsgPrefix       : Off
+08:02:23 HHC17500I REXX(Regina) ErrPrefix       : Off
+08:02:23 HHC17500I REXX(Regina) Resolver        : On
+08:02:23 HHC17500I REXX(Regina) SysPath    ( 9) : On
+08:02:23 HHC17500I REXX(Regina) RexxPath   ( 0) :
+08:02:23 HHC17500I REXX(Regina) Extensions ( 8) : .REXX:.rexx:.REX:.rex:.CMD:.cmd:.RX:.rx
+08:02:23 HHC90020W 'hthread_setschedparam()' failed at loc=impl.c:432: rc=22: Invalid argument
+08:02:23 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+08:02:23 HHC00111I Thread CPU Time IS available (_POSIX_THREAD_CPUTIME=0)
+08:02:23 HHC90020W 'hthread_setschedparam()' failed at loc=cpu.c:2335: rc=22: Invalid argument
+08:02:23 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+08:02:23 HHC90020W 'hthread_setschedparam()' failed at loc=timer.c:193: rc=22: Invalid argument
+08:02:23 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+08:02:23 HHC00100I Thread id 00007f6f987d2700, prio 0, name 'Processor CP00' started
+08:02:23 HHC00100I Thread id 00007f6f986d1700, prio 0, name 'timer_thread' started
+08:02:23 HHC00811I Processor CP00: architecture mode z/Arch
+08:02:23 HHC00811I Processor CP00: architecture mode S/370
+08:02:23 HHC02204I ARCHLVL        set to S/370
+08:02:23 HHC02204I LPARNUM        set to BASIC
+08:02:23 HHC02204I CPUSERIAL      set to 000611
+08:02:23 HHC02204I CPUMODEL       set to 0148
+08:02:23 HHC17003I MAIN     storage is 8M (mainsize); storage is not locked
+08:02:23 HHC17003I EXPANDED storage is 0 (xpndsize); storage is not locked
+08:02:23 HHC02204I NUMCPU         set to 1
+08:02:23 HHC02204I LOADPARM       set to ........
+08:02:23 HHC02256W Command 'PANRATE' is deprecated; use PANOPT RATE=xxx instead
+08:02:23 HHC00007I Previous message from function 'panrate_cmd' at hsccmd.c(4254)
+08:02:23 HHC02204I PANRATE        set to 250
+08:02:23 HHC01251W 0:000E Printer: option 'noclear' has been deprecated
+08:02:23 HHC00007I Previous message from function 'printer_init_handler' at printer.c(1468)
+08:02:23 HHC00414I 0:0148 CKD file dasd/smp000.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+08:02:23 HHC00414I 0:0149 CKD file dasd/work00.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+08:02:23 HHC00414I 0:014A CKD file dasd/work01.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+08:02:23 HHC00414I 0:0150 CKD file dasd/start1.3330: model 3330 cyls 411 heads 19 tracks 7809 trklen 13312
+08:02:23 HHC00414I 0:0151 CKD file dasd/spool0.3330: model 3330 cyls 411 heads 19 tracks 7809 trklen 13312
+08:02:23 HHC02260I Script 1: begin processing file ../03_sysgen_build_dist_2.rc
+08:02:23 HHC01603I * IPLing the Starter System
+08:02:23 HHC01603I rexx msgp on
+08:02:23 HHC01603I shcmdopt enable
+08:02:23 HHC02204I SHCMDOPT       set to ENABLE  NODIAG8
+08:02:23 HHC01603I ostailor quiet
+08:02:23 HHC01603I panopt msgcolor=dark
+08:02:23 HHC02204I PANOPT         set to FULLPATH RATE=250 MSGCOLOR=DARK TITLE=(default)
+08:02:23 HHC01603I * Launching Automation REXX script
+08:02:23 HHC01603I exec ../automate.rexx ../02_install_dist_libs.txt hercules.log -d &&
+08:02:23 HHC01603I ipl 150
+08:02:23 HHC01603I sh touch failure
+08:02:23 HHC17540I Commands file: /home/jake/sysgen/02_install_dist_libs.txt
+08:02:23 HHC17540I Log file: /home/jake/sysgen/sysgen/hercules.log
+08:02:23 HHC17540I [AUTOMATE DEBUG] Debug enabled
+08:02:23 HHC17540I # Building the MVS 3.8j Distribution Libraries
+08:02:23 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC00010A Enter input for console 0...
+08:02:23 HHC17540I [AUTOMATE DEBUG] Response: /
+08:02:23 HHC02264I Script 1: file ../03_sysgen_build_dist_2.rc processing ended
+08:02:23 HHC00107I Starting thread cckd_ra(), active=0, started=0, max=2
+08:02:23 HHC00100I Thread id 00007f6f984cf700, prio 0, name 'cckd_ra thread 1' started
+08:02:23 HHC00107I Starting thread cckd_ra() from cckd_ra(), active=1, started=1, max=2
+08:02:23 HHC00100I Thread id 00007f6f983ce700, prio 0, name 'cckd_ra thread 2' started
+08:02:24 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP01, PARM 00000000: CC 3
+08:02:24 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP02, PARM 00000000: CC 3
+08:02:24 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP03, PARM 00000000: CC 3
+08:02:24 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP04, PARM 00000000: CC 3
+08:02:24 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP05, PARM 00000000: CC 3
+08:02:24 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP06, PARM 00000000: CC 3
+08:02:24 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP07, PARM 00000000: CC 3
+08:02:24 /IEA101A SPECIFY SYSTEM PARAMETERS FOR RELEASE 03.70.VS2
+08:02:24 HHC00010A Enter input for console 0:001F
+08:02:29 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /
+08:02:30 /
+08:02:30 HHC17540I [AUTOMATE DEBUG] Waiting for: $HASP426 SPECIFY OPTIONS - HASP-II, VERSION JES...
+08:02:30 HHC17540I [AUTOMATE DEBUG] Response: /r 0,noreq
+08:02:30 HHC00107I Starting thread cckd_writer(), active=0, started=0, max=2
+08:02:30 HHC90020W 'hthread_setschedparam()' failed at loc=cckddasd.c:1775: rc=22: Invalid argument
+08:02:30 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+08:02:30 HHC00100I Thread id 00007f6f982cd700, prio 0, name 'cckd_writer thread 1' started
+08:02:30 HHC00107I Starting thread cckd_gcol(), active=0, started=0, max=1
+08:02:30 HHC00100I Thread id 00007f6f981cc700, prio 0, name 'cckd_gcol' started
+08:02:31 / IEF165I // START JES2
+08:02:31 / IEE351I SMF SYS1.MAN RECORDING NOT BEING USED
+08:02:31 /*00 $HASP426 SPECIFY OPTIONS - HASP-II, VERSION JES2 4.0
+08:02:34 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 00,noreq
+08:02:35 /r 00,noreq
+08:02:35 HHC17540I [AUTOMATE DEBUG] Waiting for: IEF166D REPLY Y/N TO EXECUTE/SUPPRESS CO...
+08:02:35 HHC17540I [AUTOMATE DEBUG] Response: /r 1,y
+08:02:35 / IEE600I REPLY TO 00 IS;SUPPRESSED
+08:02:35 / $HASP160 PUNCH1   INACTIVE - CLASS=BK
+08:02:35 / $HASP100 SMPMOUNT ON READER1     ISSUE MOUNT COMMANDS
+08:02:35 / $HASP150 SYSLOG   ON PRINTER1
+08:02:35 / $HASP100 INIT     ON STCINRDR
+08:02:35 / IEF165I // M 148,VOL=(SL,SMP000),USE=PRIVATE
+08:02:35 /*01 IEF166D REPLY Y/N TO EXECUTE/SUPPRESS COMMAND
+08:02:35 / IEE041I THE SYSTEM LOG IS NOW ACTIVE
+08:02:35 / $HASP100 INIT     ON STCINRDR
+08:02:35 / $HASP150 INIT     ON PRINTER1
+08:02:35 / $HASP100 INIT     ON STCINRDR
+08:02:35 / $HASP250 SYSLOG   IS PURGED
+08:02:35 / $HASP160 PRINTER1 INACTIVE - CLASS=AJ
+08:02:35 / $HASP250 INIT     IS PURGED
+08:02:39 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 01,y
+08:02:40 /r 01,y
+08:02:40 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP099 ALL AVAILABLE FUNCTIONS COM...
+08:02:40 HHC17540I [AUTOMATE DEBUG] Response: devinit 12 jcl/smpjob00.jcl
+08:02:40 / IEE600I REPLY TO 01 IS;Y
+08:02:40 / $HASP100 MOUNT    ON STCINRDR
+08:02:40 HHC00107I Starting thread cckd_writer() from cckd_writer(), active=1, started=1, max=2
+08:02:40 HHC90020W 'hthread_setschedparam()' failed at loc=cckddasd.c:1775: rc=22: Invalid argument
+08:02:40 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+08:02:40 HHC00100I Thread id 00007f6f8adf8700, prio 0, name 'cckd_writer thread 2' started
+08:02:40 / $HASP373 INIT     STARTED
+08:02:40 / $HASP373 SMPMOUNT STARTED - INIT  1 - CLASS A - SYS H158
+08:02:40 / $HASP373 INIT     STARTED
+08:02:40 / $HASP309    INIT  2 INACTIVE ******** C=BA
+08:02:40 / $HASP309    INIT  3 INACTIVE ******** C=CBA
+08:02:40 / $HASP373 INIT     STARTED
+08:02:40 / $HASP395 SMPMOUNT ENDED
+08:02:41 / $HASP373 MOUNT    STARTED
+08:02:41 / $HASP395 MOUNT    ENDED
+08:02:41 / $HASP309    INIT  1 INACTIVE ******** C=A
+08:02:41 / $HASP150 SMPMOUNT ON PRINTER1
+08:02:41 / $HASP150 MOUNT    ON PRINTER1
+08:02:41 / $HASP250 SMPMOUNT IS PURGED
+08:02:41 / $HASP160 PRINTER1 INACTIVE - CLASS=AJ
+08:02:41 / $HASP250 MOUNT    IS PURGED
+08:02:41 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+08:02:54 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 12 jcl/smpjob00.jcl
+08:02:55 HHC01603I devinit 12 jcl/smpjob00.jcl
+08:02:55 HHC02245I 0:0012 device initialized
+08:02:55 HHC17540I # [1/8] SMPJOB00 - will first delete any of datasets that exist and then allocate and initialize all the required datasets
+08:02:55 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP099 ALL AVAILABLE FUNCTIONS COM...
+08:02:55 HHC17540I [AUTOMATE DEBUG] Response: devinit 12 jcl/smpjob01.jcl
+08:02:55 / $HASP100 SMPJOB00 ON READER1     PREP FOR RECEIVE
+08:02:55 / $HASP373 SMPJOB00 STARTED - INIT  1 - CLASS A - SYS H158
+08:03:15 / $HASP395 SMPJOB00 ENDED
+08:03:15 / $HASP309    INIT  1 INACTIVE ******** C=A
+08:03:15 / $HASP150 SMPJOB00 ON PRINTER1
+08:03:15 / $HASP160 PRINTER1 INACTIVE - CLASS=AJ
+08:03:15 / $HASP250 SMPJOB00 IS PURGED
+08:03:15 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+08:03:18 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 12 jcl/smpjob01.jcl
+08:03:19 HHC01603I devinit 12 jcl/smpjob01.jcl
+08:03:19 HHC02245I 0:0012 device initialized
+08:03:19 HHC17540I # [2/8] SMPJOB01 - will load all of the MVS 3.8j product elements into the SMP datasets from the tape datasets.
+08:03:19 HHC17540I [AUTOMATE DEBUG] Waiting for: / IEF247I SMPJOB01 - 471,570,571,670,671 NOT ACCES...
+08:03:19 HHC17540I [AUTOMATE DEBUG] Response: devinit 170 tape/zdlib1.het
+08:03:19 / $HASP100 SMPJOB01 ON READER1     RECEIVE PRODUCT TAPE
+08:03:19 / $HASP373 SMPJOB01 STARTED - INIT  1 - CLASS A - SYS H158
+08:03:19 / IEF244I SMPJOB01 SMP DLBUCL - UNABLE TO ALLOCATE 1 UNIT(S)
+08:03:19 /         AT LEAST 1 OFFLINE UNIT(S) NEEDED.
+08:03:19 / IEF489I SMPJOB01 - 1 UNIT(S) NEEDED FOR SMPPTFIN
+08:03:19 / IEF247I SMPJOB01 - 182,183,184,170,171 OFFLINE
+08:03:19 / IEF247I SMPJOB01 - 282,283,284,382,383,384,482,483,484,582 NOT ACCESSIBLE
+08:03:19 / IEF247I SMPJOB01 - 583,584,682,683,684,270,271,370,371,470 NOT ACCESSIBLE
+08:03:19 / IEF247I SMPJOB01 - 471,570,571,670,671 NOT ACCESSIBLE
+08:03:19 /*02 IEF238D SMPJOB01 - REPLY DEVICE NAME OR 'CANCEL'.
+08:03:26 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 170 tape/zdlib1.het
+08:03:27 HHC01603I devinit 170 tape/zdlib1.het
+08:03:27 HHC00221I 0:0170 Tape file tape/zdlib1.het, type HET: format type Hercules Emulated Tape file
+08:03:27 HHC02245I 0:0170 device initialized
+08:03:27 HHC17540I [AUTOMATE DEBUG] Waiting for: IEF238D SMPJOB01 - REPLY DEVICE NAME OR 'CAN...
+08:03:27 HHC17540I [AUTOMATE DEBUG] Response: /r 02,170
+08:03:27 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 02,170
+08:03:28 /r 02,170
+08:03:28 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP099 ALL AVAILABLE FUNCTIONS COM...
+08:03:28 HHC17540I [AUTOMATE DEBUG] Response: devinit 12 jcl/smpjob02.jcl
+08:03:28 / IEE600I REPLY TO 02 IS;170
+08:03:28 /*IEF233A M 170,MVS38J,,SMPJOB01,SMP
+08:05:36 HHC00201I 0:0170 Tape file tape/zdlib1.het, type het: tape closed
+08:05:36 / IEF234E K 170,MVS38J,PVT,SMPJOB01
+08:05:36 / $HASP395 SMPJOB01 ENDED
+08:05:36 / $HASP309    INIT  1 INACTIVE ******** C=A
+08:05:36 / $HASP150 SMPJOB01 ON PRINTER1
+08:05:40 / $HASP160 PRINTER1 INACTIVE - CLASS=AJ
+08:05:40 / $HASP250 SMPJOB01 IS PURGED
+08:05:40 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+08:05:41 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 12 jcl/smpjob02.jcl
+08:05:42 HHC01603I devinit 12 jcl/smpjob02.jcl
+08:05:42 HHC02245I 0:0012 device initialized
+08:05:42 HHC17540I # [3/8] SMPJOB02 - loads all 1,482 PTFs into the SMP datasets.
+08:05:42 HHC17540I [AUTOMATE DEBUG] Waiting for: / IEC501A SMPJOB0...
+08:05:42 HHC17540I [AUTOMATE DEBUG] Response: devinit 170 tape/ptfs.het
+08:05:42 / $HASP100 SMPJOB02 ON READER1     RECEIVE ALL PTFS
+08:05:42 / $HASP373 SMPJOB02 STARTED - INIT  1 - CLASS A - SYS H158
+08:05:43 /*IEC501A M 170,PTFS20,SL,6250 BPI,
+08:05:43 / IEC501A SMPJOB02,SMP
+08:05:46 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 170 tape/ptfs.het
+08:05:47 HHC01603I devinit 170 tape/ptfs.het
+08:05:47 HHC00221I 0:0170 Tape file tape/ptfs.het, type HET: format type Hercules Emulated Tape file
+08:05:47 HHC02245I 0:0170 device initialized
+08:05:47 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP099 ALL AVAILABLE FUNCTIONS COM...
+08:05:47 HHC17540I [AUTOMATE DEBUG] Response: devinit 12 jcl/smpjob03.jcl
+08:11:23 HHC00201I 0:0170 Tape file tape/ptfs.het, type het: tape closed
+08:11:23 / IEF234E K 170,PTFS20,PVT,SMPJOB02,SMP
+08:11:23 / $HASP395 SMPJOB02 ENDED
+08:11:23 / $HASP309    INIT  1 INACTIVE ******** C=A
+08:11:23 / $HASP150 SMPJOB02 ON PRINTER1
+08:11:35 / $HASP160 PRINTER1 INACTIVE - CLASS=AJ
+08:11:35 / $HASP250 SMPJOB02 IS PURGED
+08:11:35 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+08:11:36 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 12 jcl/smpjob03.jcl
+08:11:37 HHC01603I devinit 12 jcl/smpjob03.jcl
+08:11:37 HHC02245I 0:0012 device initialized
+08:11:37 HHC17540I # [4/8] SMPJOB03 - accept all the product elements and those PTFs
+08:11:37 HHC17540I # **NOTE** This step can take upwards of twenty minutes or more!
+08:11:37 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP099 ALL AVAILABLE FUNCTIONS COM...
+08:11:37 HHC17540I [AUTOMATE DEBUG] Response: devinit 12 jcl/smpjob04.jcl
+08:11:37 / $HASP100 SMPJOB03 ON READER1     ACCEPT FMIDS/PTFS
+08:11:37 / $HASP373 SMPJOB03 STARTED - INIT  1 - CLASS A - SYS H158
+08:34:19 / $HASP395 SMPJOB03 ENDED
+08:34:19 / $HASP309    INIT  1 INACTIVE ******** C=A
+08:34:19 / $HASP150 SMPJOB03 ON PRINTER1
+08:34:25 / $HASP160 PRINTER1 INACTIVE - CLASS=AJ
+08:34:25 / $HASP250 SMPJOB03 IS PURGED
+08:34:25 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+08:34:26 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 12 jcl/smpjob04.jcl
+08:34:27 HHC01603I devinit 12 jcl/smpjob04.jcl
+08:34:27 HHC02245I 0:0012 device initialized
+08:34:27 HHC17540I # [5/8] SMPJOB04 - Load Jim Morrison Usermods for 3375, 3380, and 3390 DASD devices
+08:34:27 HHC17540I [AUTOMATE DEBUG] Waiting for: M 170,J90009,,SMPJOB0...
+08:34:27 HHC17540I [AUTOMATE DEBUG] Response: devinit 170 tape/j90009.het
+08:34:27 / $HASP100 SMPJOB04 ON READER1     RECEIVE USERMODS
+08:34:27 / $HASP373 SMPJOB04 STARTED - INIT  1 - CLASS A - SYS H158
+08:34:28 /*IEF233A M 170,J90009,,SMPJOB04,SMP
+08:34:31 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 170 tape/j90009.het
+08:34:32 HHC01603I devinit 170 tape/j90009.het
+08:34:32 HHC00221I 0:0170 Tape file tape/j90009.het, type HET: format type Hercules Emulated Tape file
+08:34:32 HHC02245I 0:0170 device initialized
+08:34:32 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP099 ALL AVAILABLE FUNCTIONS COM...
+08:34:32 HHC17540I [AUTOMATE DEBUG] Response: devinit 12 jcl/smpjob05.jcl
+08:35:09 HHC00201I 0:0170 Tape file tape/j90009.het, type het: tape closed
+08:35:09 / IEF234E K 170,J90009,PVT,SMPJOB04
+08:35:09 / $HASP395 SMPJOB04 ENDED
+08:35:09 / $HASP309    INIT  1 INACTIVE ******** C=A
+08:35:09 / $HASP150 SMPJOB04 ON PRINTER1
+08:35:09 / $HASP160 PRINTER1 INACTIVE - CLASS=AJ
+08:35:09 / $HASP250 SMPJOB04 IS PURGED
+08:35:09 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+08:35:13 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 12 jcl/smpjob05.jcl
+08:35:14 HHC01603I devinit 12 jcl/smpjob05.jcl
+08:35:14 HHC02245I 0:0012 device initialized
+08:35:14 HHC17540I # [6/8] SMPJOB05 - Accept the Usermods
+08:35:14 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP099 ALL AVAILABLE FUNCTIONS COM...
+08:35:14 HHC17540I [AUTOMATE DEBUG] Response: devinit 12 jcl/smpjob06.jcl
+08:35:14 / $HASP100 SMPJOB05 ON READER1     ACCEPT USERMODS
+08:35:14 / $HASP373 SMPJOB05 STARTED - INIT  1 - CLASS A - SYS H158
+08:37:55 / $HASP395 SMPJOB05 ENDED
+08:37:55 / $HASP309    INIT  1 INACTIVE ******** C=A
+08:37:55 / $HASP150 SMPJOB05 ON PRINTER1
+08:37:56 / $HASP160 PRINTER1 INACTIVE - CLASS=AJ
+08:37:56 / $HASP250 SMPJOB05 IS PURGED
+08:37:56 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+08:37:57 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 12 jcl/smpjob06.jcl
+08:37:58 HHC01603I devinit 12 jcl/smpjob06.jcl
+08:37:58 HHC02245I 0:0012 device initialized
+08:37:58 HHC17540I # [7/8] SMPJOB06 - Remove unwanted elements
+08:37:58 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP099 ALL AVAILABLE FUNCTIONS COM...
+08:37:58 HHC17540I [AUTOMATE DEBUG] Response: devinit 12 jcl/smpjob07.jcl
+08:37:58 / $HASP100 SMPJOB06 ON READER1
+08:37:58 / $HASP373 SMPJOB06 STARTED - INIT  1 - CLASS A - SYS H158
+08:39:17 / $HASP395 SMPJOB06 ENDED
+08:39:17 / $HASP309    INIT  1 INACTIVE ******** C=A
+08:39:17 / $HASP150 SMPJOB06 ON PRINTER1
+08:39:17 / $HASP160 PRINTER1 INACTIVE - CLASS=AJ
+08:39:17 / $HASP250 SMPJOB06 IS PURGED
+08:39:17 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+08:39:20 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 12 jcl/smpjob07.jcl
+08:39:21 HHC01603I devinit 12 jcl/smpjob07.jcl
+08:39:21 HHC02245I 0:0012 device initialized
+08:39:21 HHC17540I # [8/8] SMPJOB07 - Build ICKDSF Utility and Re-Link IFOX00
+08:39:21 HHC17540I [AUTOMATE DEBUG] Waiting for: IEC507D REPLY 'U'-USE OR 'M'-U...
+08:39:21 HHC17540I [AUTOMATE DEBUG] Response: /r 3,U
+08:39:21 / $HASP100 SMPJOB07 ON READER1     GENERATE ICKDSF
+08:39:21 / $HASP104 SMPJOB07 ************************************************************
+08:39:21 / $HASP104 SMPJOB07 * AN IPL IS REQUIRED AFTER THIS JOB HAS COMPLETED!!!       *
+08:39:21 / $HASP104 SMPJOB07 ************************************************************
+08:39:21 / $HASP373 SMPJOB07 STARTED - INIT  1 - CLASS A - SYS H158
+08:39:22 / $HASP100 SMPJOB07 ON INTRDR      LINK IFOX00/ICKDSF
+08:39:22 / $HASP301 SMPJOB07 - DUPLICATE JOB NAME - JOB DELAYED
+08:39:22 /*IEC507D E 150,START1,SMPJOB07,
+08:39:22 / IEC507D IEBCOPY,SYS1.SVCLIB
+08:39:22 /*03 IEC507D REPLY 'U'-USE OR 'M'-UNLOAD
+08:39:29 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 03,U
+08:39:30 /r 03,U
+08:39:30 HHC17540I [AUTOMATE DEBUG] Waiting for: IEC507D REPLY 'U'-USE OR 'M'-U...
+08:39:30 HHC17540I [AUTOMATE DEBUG] Response: /r 4,u
+08:39:30 / IEE600I REPLY TO 03 IS;U
+08:39:30 / $HASP395 SMPJOB07 ENDED
+08:39:30 / $HASP150 SMPJOB07 ON PRINTER1
+08:39:30 / $HASP373 SMPJOB07 STARTED - INIT  1 - CLASS A - SYS H158
+08:39:30 / $HASP160 PRINTER1 INACTIVE - CLASS=AJ
+08:39:30 / $HASP250 SMPJOB07 IS PURGED
+08:39:30 /*IEC507D E 150,START1,SMPJOB07,LK,
+08:39:30 / IEC507D SYS1.LINKLIB
+08:39:30 /*04 IEC507D REPLY 'U'-USE OR 'M'-UNLOAD
+08:39:36 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 04,u
+08:39:37 /r 04,u
+08:39:37 HHC17540I [AUTOMATE DEBUG] Waiting for: IEC507D REPLY 'U'-USE OR 'M'-U...
+08:39:37 HHC17540I [AUTOMATE DEBUG] Response: /r 5,u
+08:39:37 / IEE600I REPLY TO 04 IS;U
+08:39:40 /*IEC507D E 150,START1,SMPJOB07,LK,
+08:39:40 / IEC507D SYS1.LINKLIB
+08:39:40 /*05 IEC507D REPLY 'U'-USE OR 'M'-UNLOAD
+08:39:42 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 05,u
+08:39:43 /r 05,u
+08:39:43 HHC17540I # Shutting down
+08:39:43 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP099 ALL AVAILABLE FUNCTIONS COM...
+08:39:43 HHC17540I [AUTOMATE DEBUG] Response: /$p jes2
+08:39:43 / IEE600I REPLY TO 05 IS;U
+08:39:45 / $HASP395 SMPJOB07 ENDED
+08:39:45 / $HASP309    INIT  1 INACTIVE ******** C=A
+08:39:45 / $HASP150 SMPJOB07 ON PRINTER1
+08:39:45 / $HASP160 PRINTER1 INACTIVE - CLASS=AJ
+08:39:45 / $HASP250 SMPJOB07 IS PURGED
+08:39:45 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+08:39:48 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /$p jes2
+08:39:49 /$p jes2
+08:39:49 HHC17540I [AUTOMATE DEBUG] Waiting for: IEF196I IEF285I   VOL SER NOS= SP...
+08:39:49 HHC17540I [AUTOMATE DEBUG] Response: /z eod
+08:39:49 / $HASP395 INIT     ENDED
+08:39:49 / $HASP395 INIT     ENDED
+08:39:49 / $HASP395 INIT     ENDED
+08:39:49 / IEE043I A SYSTEM LOG DATA SET HAS BEEN QUEUED TO SYSOUT CLASS A
+08:39:49 / IEE037I LOG NOT ACTIVE
+08:39:49 /2000 07.39.49 CONSOLE   IEE142I  01F NOW RECEIVING HARDCOPY
+08:39:49 /4000 07.39.49           IEE043I A SYSTEM LOG DATA SET HAS BEEN QUEUED TO SYSOUT CLASS A
+08:39:49 /4000 07.39.49           IEE037I LOG NOT ACTIVE
+08:39:49 /0000 07.39.49           IEF196I IEF142I JES2 JES2 - STEP WAS EXECUTED - COND CODE 0000
+08:39:49 /0000 07.39.49           IEF196I IEF285I   SYS1.PROCLIB                                 KEPT
+08:39:49 /0000 07.39.49           IEF196I IEF285I   VOL SER NOS= START1.
+08:39:49 /0000 07.39.49           IEF196I IEF285I   SYS1.HASPCKPT                                KEPT
+08:39:49 /0000 07.39.49           IEF196I IEF285I   VOL SER NOS= SPOOL0.
+08:39:49 /0000 07.39.49           IEF196I IEF285I   SYS1.HASPACE                                 KEPT
+08:39:49 /0000 07.39.49           IEF196I IEF285I   VOL SER NOS= SPOOL0.
+08:39:57 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /z eod
+08:39:58 /z eod
+08:39:58 HHC17540I [AUTOMATE DEBUG] Waiting for: IEE334I HALT     EOD SUCCE...
+08:39:58 HHC17540I [AUTOMATE DEBUG] Response: /quiesce
+08:39:58 /4000 07.39.58           IEE334I HALT     EOD SUCCESSFUL
+08:40:01 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /quiesce
+08:40:02 /quiesce
+08:40:02 HHC17540I [AUTOMATE DEBUG] Waiting for: CP00: disabled wait ...
+08:40:02 HHC17540I [AUTOMATE DEBUG] Response: quit
+08:40:02 HHC00809I Processor CP00: disabled wait state 000A0000 00000CCC
+08:40:04 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: quit
+08:40:05 HHC01603I sh rm -f failure
+08:40:05 HHC01603I quit
+08:40:05 HHC01420I Begin Hercules shutdown
+08:40:05 HHC01423I Calling termination routines
+08:40:05 HHC01423I Calling termination routines
+08:40:05 HHC00101I Thread id 00007f6f987d2700, prio 0, name 'Processor CP00' ended
+08:40:05 HHC00333I 0:0148   32/64       size free  nbr st   reads  writes l2reads    hits switches
+08:40:05 HHC00334I 0:0148                                                      readaheads   misses
+08:40:05 HHC00335I 0:0148 ------------------------------------------------------------------------
+08:40:05 HHC00336I 0:0148 [*] 32 00030322133 002% 0225    0015394 0039830 0000021 0095618  0102149
+08:40:05 HHC00337I 0:0148                                                         0016166  0001098
+08:40:05 HHC00338I 0:0148 dasd/smp000.3350
+08:40:05 HHC00339I 0:0148 [0] 32 00030322133 002% 0225 rw 0015394 0039830 0000021
+08:40:05 HHC00333I 0:0149   32/64       size free  nbr st   reads  writes l2reads    hits switches
+08:40:05 HHC00335I 0:0149 ------------------------------------------------------------------------
+08:40:05 HHC00336I 0:0149 [*] 32 00000006177 000% 0000    0000001 0000000 0000001 0000000  0000001
+08:40:05 HHC00338I 0:0149 dasd/work00.3350
+08:40:05 HHC00339I 0:0149 [0] 32 00000006177 000% 0000 rw 0000001 0000000 0000001
+08:40:05 HHC00333I 0:014A   32/64       size free  nbr st   reads  writes l2reads    hits switches
+08:40:05 HHC00334I 0:014A                                                      readaheads   misses
+08:40:05 HHC00335I 0:014A ------------------------------------------------------------------------
+08:40:05 HHC00336I 0:014A [*] 32 00015804741 003% 0001    0004941 0011953 0000001 0011063  0011460
+08:40:05 HHC00337I 0:014A                                                         0009154  0000655
+08:40:05 HHC00338I 0:014A dasd/work01.3350
+08:40:05 HHC00339I 0:014A [0] 32 00015804741 003% 0001 rw 0004941 0011953 0000001
+08:40:05 HHC00333I 0:0150   32/64       size free  nbr st   reads  writes l2reads    hits switches
+08:40:05 HHC00334I 0:0150                                                      readaheads   misses
+08:40:05 HHC00335I 0:0150 ------------------------------------------------------------------------
+08:40:05 HHC00336I 0:0150 [*] 32 00006508260 002% 0010    0001944 0035612 0000011 0005886  0006619
+08:40:05 HHC00337I 0:0150                                                         0001278  0000182
+08:40:05 HHC00338I 0:0150 dasd/start1.3330
+08:40:05 HHC00339I 0:0150 [0] 32 00006508260 002% 0010 rw 0001944 0035612 0000011
+08:40:05 HHC00333I 0:0151   32/64       size free  nbr st   reads  writes l2reads    hits switches
+08:40:05 HHC00334I 0:0151                                                      readaheads   misses
+08:40:05 HHC00335I 0:0151 ------------------------------------------------------------------------
+08:40:05 HHC00336I 0:0151 [*] 32 00002389852 019% 0068    0003358 0103442 0000044 0011065  0012062
+08:40:05 HHC00337I 0:0151                                                         0002385  0000267
+08:40:05 HHC00338I 0:0151 dasd/spool0.3330
+08:40:05 HHC00339I 0:0151 [0] 32 00002389852 019% 0068 rw 0003358 0103442 0000044
+08:40:05 HHC00101I Thread id 00007f6f984cf700, prio 0, name 'cckd_ra thread 1' ended
+08:40:05 HHC00101I Thread id 00007f6f983ce700, prio 0, name 'cckd_ra thread 2' ended
+08:40:05 HHC00101I Thread id 00007f6f981cc700, prio 0, name 'cckd_gcol' ended
+08:40:05 HHC00101I Thread id 00007f6f8adf8700, prio 0, name 'cckd_writer thread 2' ended
+08:40:05 HHC00101I Thread id 00007f6f982cd700, prio 0, name 'cckd_writer thread 1' ended
+08:40:05 HHC01427I Main storage released
+08:40:05 HHC01427I Expanded storage released
+08:40:05 HHC01422I Configuration released
+08:40:05 HHC00101I Thread id 00007f6f986d1700, prio 0, name 'timer_thread' ended
+08:40:06 HHC00101I Thread id 00007f6f99039540, prio 0, name 'panel_display' ended

@@ -1,0 +1,8 @@
+/home/jake/sysgen/build/WORK/telnet/telnet32.Debug/CMakeFiles/install/strip.dir
+/home/jake/sysgen/build/WORK/telnet/telnet32.Debug/CMakeFiles/install/local.dir
+/home/jake/sysgen/build/WORK/telnet/telnet32.Debug/CMakeFiles/install.dir
+/home/jake/sysgen/build/WORK/telnet/telnet32.Debug/CMakeFiles/list_install_components.dir
+/home/jake/sysgen/build/WORK/telnet/telnet32.Debug/CMakeFiles/rebuild_cache.dir
+/home/jake/sysgen/build/WORK/telnet/telnet32.Debug/CMakeFiles/edit_cache.dir
+/home/jake/sysgen/build/WORK/telnet/telnet32.Debug/CMakeFiles/uninstall.dir
+/home/jake/sysgen/build/WORK/telnet/telnet32.Debug/CMakeFiles/telnet32d.dir

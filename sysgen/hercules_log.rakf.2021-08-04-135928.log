@@ -1,0 +1,977 @@
+13:59:28 HHC00109E set_thread_priority( 5 ) failed: Operation not permitted
+13:59:28 HHC00007I Previous message from function 'impl' at impl.c(989)
+13:59:28 HHC00110W Defaulting all threads to priority 0
+13:59:28 HHC00007I Previous message from function 'impl' at impl.c(992)
+13:59:28 HHC00100I Thread id 00007f85d96d0540, prio 0, name 'impl_thread' started
+13:59:28 HHC90020W 'hthread_setschedparam()' failed at loc=impl.c:1011: rc=22: Invalid argument
+13:59:28 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+13:59:28 HHC00100I Thread id 00007f85d95cd700, prio 0, name 'logger_thread' started
+13:59:28 HHC01413I Hercules version 4.4.9999.0-SDL-g7bcdc7e6 (4.4.9999.0)
+13:59:28 HHC01414I (C) Copyright 1999-2021 by Roger Bowler, Jan Jaeger, and others
+13:59:28 HHC01417I ** The SoftDevLabs version of Hercules **
+13:59:28 HHC01415I Build date: Aug  4 2021 at 07:58:16
+13:59:28 HHC01417I Built with: GCC 9.3.0
+13:59:28 HHC01417I Build type: GNU/Linux x86_64 host architecture build
+13:59:28 HHC01417I Modes: S/370 ESA/390 z/Arch
+13:59:28 HHC01417I Max CPU Engines: 128
+13:59:28 HHC01417I Using   shared libraries
+13:59:28 HHC01417I Using   setresuid() for setting privileges
+13:59:28 HHC01417I Using   POSIX threads Threading Model
+13:59:28 HHC01417I Using   Error-Checking Mutex Locking Model
+13:59:28 HHC01417I With    Shared Devices support
+13:59:28 HHC01417I With    Dynamic loading support
+13:59:28 HHC01417I With    External GUI support
+13:59:28 HHC01417I With    IPV6 support
+13:59:28 HHC01417I With    HTTP Server support
+13:59:28 HHC01417I With    sqrtl support
+13:59:28 HHC01417I With    Signal handling
+13:59:28 HHC01417I With    Watchdog monitoring
+13:59:28 HHC01417I With    CCKD BZIP2 support
+13:59:28 HHC01417I With    HET BZIP2 support
+13:59:28 HHC01417I With    ZLIB support
+13:59:28 HHC01417I With    Regular Expressions support
+13:59:28 HHC01417I Without Object REXX support
+13:59:28 HHC01417I With    Regina REXX support
+13:59:28 HHC01417I With    Automatic Operator support
+13:59:28 HHC01417I Without National Language Support
+13:59:28 HHC01417I With    CCKD64 Support
+13:59:28 HHC01417I With    Transactional-Execution Facility support
+13:59:28 HHC01417I With    "Optimized" instructions
+13:59:28 HHC01417I With    OPTION_USE_SKAIP_AS_LOCK
+13:59:28 HHC01417I With    OPTION_SIE2BK_FLD_COPY
+13:59:28 HHC01417I Machine dependent assists: cmpxchg1 cmpxchg4 cmpxchg8 cmpxchg16 hatomics=C11
+13:59:28 HHC01417I Running on: jake-ThinkPad-T14-Gen-1 (Linux-5.8.0-63-generic x86_64) MP=16
+13:59:28 HHC01417I Built with crypto external package version 1.0.0.49-g837705e
+13:59:28 HHC01417I Built with decNumber external package version 3.68.0.99-gda66509
+13:59:28 HHC01417I Built with SoftFloat external package version 3.5.0.102-g42f2f99
+13:59:28 HHC01417I Built with telnet external package version 1.0.0.59-g2aca101
+13:59:28 HHC00018W Hercules is NOT running in elevated mode
+13:59:28 HHC00007I Previous message from function 'impl' at impl.c(1046)
+13:59:28 HHC00150I Crypto module loaded (C) Copyright 2003-2016 by Bernard van der Helm
+13:59:28 HHC00151I Activated facility: Message Security Assist
+13:59:28 HHC00151I Activated facility: Message Security Assist Extension 1, 2, 3 and 4
+13:59:28 HHC17528I REXX(Regina) VERSION: REXX-Regina_3.6(MT) 5.00 31 Dec 2011
+13:59:28 HHC17529I REXX(Regina) SOURCE:  UNIX
+13:59:28 HHC17525I REXX(Regina) Rexx has been started/enabled
+13:59:28 HHC17500I REXX(Regina) Mode            : Command
+13:59:28 HHC17500I REXX(Regina) MsgLevel        : Off
+13:59:28 HHC17500I REXX(Regina) MsgPrefix       : Off
+13:59:28 HHC17500I REXX(Regina) ErrPrefix       : Off
+13:59:28 HHC17500I REXX(Regina) Resolver        : On
+13:59:28 HHC17500I REXX(Regina) SysPath    ( 9) : On
+13:59:28 HHC17500I REXX(Regina) RexxPath   ( 0) :
+13:59:28 HHC17500I REXX(Regina) Extensions ( 8) : .REXX:.rexx:.REX:.rex:.CMD:.cmd:.RX:.rx
+13:59:28 HHC90020W 'hthread_setschedparam()' failed at loc=impl.c:432: rc=22: Invalid argument
+13:59:28 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+13:59:28 HHC00111I Thread CPU Time IS available (_POSIX_THREAD_CPUTIME=0)
+13:59:28 HHC90020W 'hthread_setschedparam()' failed at loc=cpu.c:2335: rc=22: Invalid argument
+13:59:28 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+13:59:28 HHC90020W 'hthread_setschedparam()' failed at loc=timer.c:193: rc=22: Invalid argument
+13:59:28 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+13:59:28 HHC00100I Thread id 00007f85d8e69700, prio 0, name 'Processor CP00' started
+13:59:28 HHC00100I Thread id 00007f85d8d68700, prio 0, name 'timer_thread' started
+13:59:28 HHC00811I Processor CP00: architecture mode z/Arch
+13:59:29 HHC00811I Processor CP00: architecture mode S/370
+13:59:29 HHC02204I ARCHLVL        set to S/370
+13:59:29 HHC02204I LPARNUM        set to BASIC
+13:59:29 HHC02204I CPUSERIAL      set to 134001
+13:59:29 HHC02204I CPUMODEL       set to 0148
+13:59:29 HHC17003I MAIN     storage is 8M (mainsize); storage is not locked
+13:59:29 HHC17003I EXPANDED storage is 0 (xpndsize); storage is not locked
+13:59:29 HHC90020W 'hthread_setschedparam()' failed at loc=cpu.c:2335: rc=22: Invalid argument
+13:59:29 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+13:59:29 HHC00100I Thread id 00007f85d906c700, prio 0, name 'Processor CP01' started
+13:59:29 HHC00811I Processor CP01: architecture mode S/370
+13:59:29 HHC02204I NUMCPU         set to 2
+13:59:29 HHC02204I LOADPARM       set to ........
+13:59:29 HHC02256W Command 'PANRATE' is deprecated; use PANOPT RATE=xxx instead
+13:59:29 HHC00007I Previous message from function 'panrate_cmd' at hsccmd.c(4254)
+13:59:29 HHC02204I PANRATE        set to 250
+13:59:29 HHC02204I SHCMDOPT       set to ENABLE  NODIAG8
+13:59:29 HHC02204I DIAG8CMD       set to ENABLE  NOECHO
+13:59:29 HHC02204I PANOPT         set to FULLPATH RATE=250 MSGCOLOR=DARK TITLE=(default)
+13:59:29 HHC01042I 0:000C COMM: device bound to socket localhost:3505
+13:59:29 HHC01042I 0:001A COMM: device bound to socket localhost:3506
+13:59:29 HHC90020W 'hthread_setschedparam()' failed at loc=sockdev.c:407: rc=22: Invalid argument
+13:59:29 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+13:59:29 HHC00100I Thread id 00007f85d8f6b700, prio 0, name 'socket_thread' started
+13:59:29 HHC00414I 0:0150 CKD file dasd/mvsres.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+13:59:29 HHC00414I 0:0151 CKD file dasd/mvs000.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+13:59:29 HHC00414I 0:0152 CKD file dasd/page00.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+13:59:29 HHC00414I 0:0153 CKD file dasd/spool1.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+13:59:29 HHC00414I 0:0180 CKD file dasd/pub000.3380: model 3380 cyls 886 heads 15 tracks 13290 trklen 47616
+13:59:29 HHC00414I 0:0190 CKD file dasd/pub001.3390: model 3390 cyls 1114 heads 15 tracks 16710 trklen 56832
+13:59:29 HHC00414I 0:0220 CKD file dasd/sortw1.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+13:59:29 HHC00414I 0:0221 CKD file dasd/sortw2.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+13:59:29 HHC00414I 0:0222 CKD file dasd/sortw3.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+13:59:29 HHC00414I 0:0223 CKD file dasd/sortw4.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+13:59:29 HHC00414I 0:0224 CKD file dasd/sortw5.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+13:59:29 HHC00414I 0:0225 CKD file dasd/sortw6.2314: model 2314 cyls 203 heads 20 tracks 4060 trklen 7680
+13:59:29 HHC00414I 0:0250 CKD file dasd/smp000.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+13:59:29 HHC00414I 0:0251 CKD file dasd/work00.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+13:59:29 HHC00414I 0:0252 CKD file dasd/work01.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+13:59:29 HHC00414I 0:0253 CKD file dasd/syscpk.3350: model 3350 cyls 560 heads 30 tracks 16800 trklen 19456
+13:59:29 HHC90020W 'hthread_setschedparam()' failed at loc=console.c:3395: rc=22: Invalid argument
+13:59:29 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+13:59:29 HHC00100I Thread id 00007f85d842c700, prio 0, name 'console_connect' started
+13:59:29 HHC01024I Waiting for console connections on port 3270
+13:59:29 HHC02260I Script 1: begin processing file ../SOFTWARE/RAKF/install.rc
+13:59:29 HHC01603I * Installing RAKF
+13:59:29 HHC01603I * Launching Automation REXX script
+13:59:29 HHC01603I exec ../automate.rexx ../SOFTWARE/RAKF/install.txt hercules.log -d &&
+13:59:29 HHC01603I ipl 150
+13:59:29 HHC01603I sh touch failure
+13:59:29 HHC17540I Commands file: /home/jake/sysgen/SOFTWARE/RAKF/install.txt
+13:59:29 HHC17540I Log file: /home/jake/sysgen/sysgen/hercules.log
+13:59:29 HHC17540I [AUTOMATE DEBUG] Debug enabled
+13:59:29 HHC17540I # RAKF Install
+13:59:29 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC00010A Enter input for console 0...
+13:59:29 HHC17540I [AUTOMATE DEBUG] Response: /
+13:59:29 HHC02264I Script 1: file ../SOFTWARE/RAKF/install.rc processing ended
+13:59:29 HHC00107I Starting thread cckd_ra(), active=0, started=0, max=2
+13:59:29 HHC00100I Thread id 00007f85d8129700, prio 0, name 'cckd_ra thread 1' started
+13:59:29 HHC00107I Starting thread cckd_ra() from cckd_ra(), active=1, started=1, max=2
+13:59:29 HHC00100I Thread id 00007f85cb7fc700, prio 0, name 'cckd_ra thread 2' started
+13:59:30 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP01, PARM 00000000: CC 0
+13:59:30 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP02, PARM 00000000: CC 3
+13:59:30 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP03, PARM 00000000: CC 3
+13:59:30 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP04, PARM 00000000: CC 3
+13:59:30 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP05, PARM 00000000: CC 3
+13:59:30 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP06, PARM 00000000: CC 3
+13:59:30 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP07, PARM 00000000: CC 3
+13:59:30 /IEA101A SPECIFY SYSTEM PARAMETERS FOR RELEASE 03.8 .VS2
+13:59:30 HHC00010A Enter input for console 0:0009
+13:59:35 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /
+13:59:36 /
+13:59:36 HHC17540I [AUTOMATE DEBUG] Waiting for: IFB010D ENTER 'IPL REASON,SUBSYSTEM ID' O...
+13:59:36 HHC17540I [AUTOMATE DEBUG] Response: /r 0,u
+13:59:36 HHC00107I Starting thread cckd_writer(), active=0, started=0, max=2
+13:59:36 HHC90020W 'hthread_setschedparam()' failed at loc=cckddasd.c:1775: rc=22: Invalid argument
+13:59:36 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+13:59:36 HHC00100I Thread id 00007f85cb6fb700, prio 0, name 'cckd_writer thread 1' started
+13:59:36 /IEA940I THE FOLLOWING PAGE DATA SETS ARE IN USE
+13:59:36 HHC00107I Starting thread cckd_gcol(), active=0, started=0, max=1
+13:59:36 HHC00100I Thread id 00007f85cb5fa700, prio 0, name 'cckd_gcol' started
+13:59:36 / PLPA ... SYS1.PAGELPA
+13:59:36 / COMMON . SYS1.PAGECSA
+13:59:36 / LOCAL .. SYS1.PAGEL00
+13:59:42 /*00 IFB010D ENTER 'IPL REASON,SUBSYSTEM ID' OR 'U'
+13:59:42 / IEE360I SMF NOW RECORDING ON SYS1.MANX ON MVSRES TIME=07.59.42
+13:59:42 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 00,u
+13:59:42 / AUTO COMMANDS IN COMMND00 BEING PROCESSED CN=00
+13:59:43 / IEF677I WARNING MESSAGE(S) FOR JOB JES2     ISSUED
+13:59:43 /*01 $HASP426 SPECIFY OPTIONS - HASP-II, VERSION JES2 4.1
+13:59:43 /r 00,u
+13:59:43 HHC17540I [AUTOMATE DEBUG] Waiting for: $HASP426 SPECIFY OPTIONS - HASP-II, VERSION JES...
+13:59:43 HHC17540I [AUTOMATE DEBUG] Response: /r 01,noreq
+13:59:43 / IEE600I REPLY TO 00 IS;U
+13:59:43 / IGF992I  MIH INIT COMPLETE, PRI=000300, SEC=000015
+13:59:45 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 01,noreq
+13:59:46 /r 01,noreq
+13:59:46 HHC17540I # Installing RAKF Usermods and datasets to SYSGEN.RAKF.V#R#M#.*
+13:59:46 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP099 ALL AVAILABLE FUNCTIONS COM...
+13:59:46 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/RAKF/01_rakf_a_prep.jcl
+13:59:46 / IEE600I REPLY TO 01 IS;SUPPRESSED
+13:59:46 HHC00107I Starting thread cckd_writer() from cckd_writer(), active=1, started=1, max=2
+13:59:46 HHC90020W 'hthread_setschedparam()' failed at loc=cckddasd.c:1775: rc=22: Invalid argument
+13:59:46 HHC00007I Previous message from function 'hthread_set_thread_prio' at hthreads.c(1170)
+13:59:46 HHC00100I Thread id 00007f85cb2f7700, prio 0, name 'cckd_writer thread 2' started
+13:59:47 / $HASP493 JES2  QUICK-START IS IN PROGRESS
+13:59:48 / $HASP412 MAXIMUM OF 2   READER(S)  EXCEEDED
+13:59:48 / $HASP412 MAXIMUM OF 1   PUNCH(ES)  EXCEEDED
+13:59:48 / $HASP000 OK
+13:59:48 / $HASP000 OK
+13:59:48 / $HASP000 PRINTER1  00E INACTIVE F=STD1,OPER P=N R=LOCAL    C=6   ,STD
+13:59:48 / $HASP000                        T=0   ,STD S=Y LIM=0-* Q=A
+13:59:48 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+13:59:48 / $HASP160 PUNCH1   INACTIVE - CLASS=B
+13:59:48 / $HASP250 SYSLOG   IS PURGED
+13:59:48 / $HASP000 PRINTER2  00F ACTIVE   F=STD1,OPER P=N R=LOCAL    C=6   ,STD
+13:59:48 / $HASP000                        T=0   ,STD S=Y LIM=0-* Q=M
+13:59:48 / $HASP000 OK
+13:59:48 / $HASP000 OK
+13:59:48 / $HASP100 SETPFKEY ON STCINRDR
+13:59:48 / $HASP160 PRINTER2 INACTIVE - CLASS=M
+13:59:48 / IEE041I THE SYSTEM LOG IS NOW ACTIVE
+13:59:48 / $HASP100 ZTIMER   ON STCINRDR
+13:59:48 / $HASP100 INIT     ON STCINRDR
+13:59:48 / IEE450I 07.59.48 UNIT STATUS 121 
+13:59:48 / UNIT TYPE STATUS  VOLSER VOLSTATE   UNIT TYPE STATUS  VOLSER VOLSTATE
+13:59:48 / 100  2400 O                  /REMOV 101  2400 O                  /REMOV
+13:59:48 / UNIT TYPE STATUS  VOLSER VOLSTATE   UNIT TYPE STATUS  VOLSER VOLSTATE
+13:59:48 / 100  2400 O                  /REMOV 101  2400 O                  /REMOV
+13:59:48 / 102  2400 O                  /REMOV 103  2400 O                  /REMOV
+13:59:48 / $HASP100 INIT     ON STCINRDR
+13:59:48 / $HASP100 INIT     ON STCINRDR
+13:59:48 / $HASP373 SETPFKEY STARTED
+13:59:48 / IEF403I SETPFKEY - STARTED - TIME=07.59.48
+13:59:48 / $HASP373 ZTIMER   STARTED
+13:59:48 / SETPFKEY EXECUTING
+13:59:48 / IEF403I ZTIMER - STARTED - TIME=07.59.48
+13:59:48 / $HASP373 INIT     STARTED
+13:59:48 / IEF403I INIT - STARTED - TIME=07.59.48
+13:59:48 / $HASP309    INIT  1 INACTIVE ******** C=A
+13:59:48 / $HASP000 ID 99   T=09.59 I=   0 $VS,'S ZTIMER'
+13:59:48 / $HASP373 INIT     STARTED
+13:59:48 / IEF403I INIT - STARTED - TIME=07.59.48
+13:59:48 / IEF404I ZTIMER - ENDED - TIME=07.59.48
+13:59:48 / $HASP309    INIT  2 INACTIVE ******** C=BA
+13:59:48 / $HASP395 ZTIMER   ENDED
+13:59:48 / IEF404I SETPFKEY - ENDED - TIME=07.59.48
+13:59:48 / $HASP395 SETPFKEY ENDED
+13:59:48 / $HASP373 INIT     STARTED
+13:59:48 / IEF403I INIT - STARTED - TIME=07.59.48
+13:59:48 / $HASP309    INIT  3 INACTIVE ******** C=S
+13:59:48 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:00:13 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/RAKF/01_rakf_a_prep.jcl
+14:00:14 HHC01603I sh ./submit.sh ../SOFTWARE/RAKF/01_rakf_a_prep.jcl
+14:00:14 This script submits JCL from a text file to an MVS socket reader.
+14:00:14 Sending ../SOFTWARE/RAKF/01_rakf_a_prep.jcl
+14:00:14 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:00:14 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RAKFPREP ...
+14:00:14 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/RAKF/02_rakf_b_recv.jcl
+14:00:14 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:00:14 / $HASP100 RAKFPREP ON READER1     RAKF Installation
+14:00:15 / $HASP373 RAKFPREP STARTED - INIT  1 - CLASS A - SYS HMVS
+14:00:15 / IEF403I RAKFPREP - STARTED - TIME=08.00.15
+14:01:16 / IEFACTRT HMASMP  /HMASMP  /00:00:09.53/00:01:01.38/00000/RAKFPREP
+14:06:51 / IEFACTRT LIBS    /IEFBR14 /00:00:00.01/00:05:35.23/00000/RAKFPREP
+14:06:53 / IEFACTRT DELETE  /IEHPROGM/00:00:00.22/00:00:01.36/00008/RAKFPREP
+14:06:53 / IEF404I RAKFPREP - ENDED - TIME=08.06.53
+14:06:53 / $HASP395 RAKFPREP ENDED
+14:06:53 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:06:53 / $HASP150 RAKFPREP ON PRINTER1       699 LINES
+14:06:53 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:06:53 / $HASP250 RAKFPREP IS PURGED
+14:06:53 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:06:54 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/RAKF/02_rakf_b_recv.jcl
+14:06:55 HHC01603I sh ./submit.sh ../SOFTWARE/RAKF/02_rakf_b_recv.jcl
+14:06:55 This script submits JCL from a text file to an MVS socket reader.
+14:06:55 Sending ../SOFTWARE/RAKF/02_rakf_b_recv.jcl
+14:06:55 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:06:55 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:06:55 HHC17540I [AUTOMATE DEBUG] Waiting for: M 100,RAKF12,SL,1600 BPI,RAKFRECV,H...
+14:06:55 HHC17540I [AUTOMATE DEBUG] Response: devinit 0100 ../SOFTWARE/RAKF/RAKF12.AWS
+14:06:55 / $HASP100 RAKFRECV ON READER1     RAKF Installation
+14:06:55 / $HASP373 RAKFRECV STARTED - INIT  1 - CLASS A - SYS HMVS
+14:06:55 / IEF403I RAKFRECV - STARTED - TIME=08.06.55
+14:06:56 /*IEC501A M 100,RAKF12,SL,1600 BPI,RAKFRECV,HMASMP
+14:07:03 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 0100 ../SOFTWARE/RAKF/RAKF12.AWS
+14:07:04 HHC01603I devinit 0100 ../SOFTWARE/RAKF/RAKF12.AWS
+14:07:04 HHC00221I 0:0100 Tape file ../SOFTWARE/RAKF/RAKF12.AWS, type AWS: format type AWS Format tape file
+14:07:04 HHC02245I 0:0100 device initialized
+14:07:04 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RAKFRECV ...
+14:07:04 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/RAKF/03_rakf_c_apply.jcl
+14:07:10 / IEFACTRT HMASMP  /HMASMP  /00:00:01.13/00:00:14.97/00000/RAKFRECV
+14:07:10 HHC00201I 0:0100 Tape file ../SOFTWARE/RAKF/RAKF12.AWS, type aws: tape closed
+14:07:10 / IEF234E K 100,RAKF12,PVT,RAKFRECV
+14:07:10 / IEF404I RAKFRECV - ENDED - TIME=08.07.10
+14:07:10 / $HASP395 RAKFRECV ENDED
+14:07:10 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:07:10 / $HASP150 RAKFRECV ON PRINTER1       418 LINES
+14:07:10 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:07:10 / $HASP250 RAKFRECV IS PURGED
+14:07:10 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:07:12 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/RAKF/03_rakf_c_apply.jcl
+14:07:13 HHC01603I sh ./submit.sh ../SOFTWARE/RAKF/03_rakf_c_apply.jcl
+14:07:14 This script submits JCL from a text file to an MVS socket reader.
+14:07:14 Sending ../SOFTWARE/RAKF/03_rakf_c_apply.jcl
+14:07:14 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:07:14 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:07:14 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RAKFAPLY ...
+14:07:14 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/RAKF/04_rakf_d_accept.jcl
+14:07:14 / $HASP100 RAKFAPLY ON READER1     RAKF Installation
+14:07:14 / $HASP373 RAKFAPLY STARTED - INIT  1 - CLASS A - SYS HMVS
+14:07:14 / IEF403I RAKFAPLY - STARTED - TIME=08.07.14
+14:08:31 / IEFACTRT HMASMP  /HMASMP  /00:00:16.57/00:01:17.82/00004/RAKFAPLY
+14:08:32 / IEF404I RAKFAPLY - ENDED - TIME=08.08.32
+14:08:32 / $HASP395 RAKFAPLY ENDED
+14:08:32 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:08:32 / $HASP150 RAKFAPLY ON PRINTER1     4,014 LINES
+14:08:32 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:08:32 / $HASP250 RAKFAPLY IS PURGED
+14:08:32 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:08:33 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/RAKF/04_rakf_d_accept.jcl
+14:08:34 HHC01603I sh ./submit.sh ../SOFTWARE/RAKF/04_rakf_d_accept.jcl
+14:08:34 This script submits JCL from a text file to an MVS socket reader.
+14:08:34 Sending ../SOFTWARE/RAKF/04_rakf_d_accept.jcl
+14:08:34 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:08:34 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:08:34 HHC17540I # Rebooting MVS 3.8j
+14:08:34 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RAKFACPT ...
+14:08:34 HHC17540I [AUTOMATE DEBUG] Response: /$pjes2
+14:08:34 / $HASP100 RAKFACPT ON READER1     RAKF Installation
+14:08:34 / $HASP373 RAKFACPT STARTED - INIT  1 - CLASS A - SYS HMVS
+14:08:34 / IEF403I RAKFACPT - STARTED - TIME=08.08.34
+14:09:15 / IEFACTRT HMASMP  /HMASMP  /00:00:06.76/00:00:41.34/00000/RAKFACPT
+14:09:15 / IEF404I RAKFACPT - ENDED - TIME=08.09.15
+14:09:15 / $HASP395 RAKFACPT ENDED
+14:09:15 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:09:15 / $HASP150 RAKFACPT ON PRINTER1       778 LINES
+14:09:15 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:09:15 / $HASP250 RAKFACPT IS PURGED
+14:09:15 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:09:16 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /$pjes2
+14:09:17 /$pjes2
+14:09:17 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP085 JES2 TERMINATION COM...
+14:09:17 HHC17540I [AUTOMATE DEBUG] Response: /z eod
+14:09:17 / IEF404I INIT - ENDED - TIME=08.09.17
+14:09:17 / $HASP395 INIT     ENDED
+14:09:17 / IEF404I INIT - ENDED - TIME=08.09.17
+14:09:17 / $HASP395 INIT     ENDED
+14:09:17 / IEF404I INIT - ENDED - TIME=08.09.17
+14:09:17 / $HASP395 INIT     ENDED
+14:09:17 / IEE043I A SYSTEM LOG DATA SET HAS BEEN QUEUED TO SYSOUT CLASS A
+14:09:17 / IEE037I LOG NOT ACTIVE
+14:09:22 / $HASP085 JES2 TERMINATION COMPLETE
+14:09:22 / IEF404I JES2 - ENDED - TIME=08.09.22
+14:09:26 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /z eod
+14:09:27 /z eod
+14:09:27 HHC17540I [AUTOMATE DEBUG] Waiting for: / IEE334I HALT     EOD SUCCE...
+14:09:27 HHC17540I [AUTOMATE DEBUG] Response: /quiesce
+14:09:27 /*IEE362A SMF ENTER DUMP FOR SYS1.MANX ON MVSRES
+14:09:27 / IEE360I SMF NOW RECORDING ON SYS1.MANY ON MVSRES TIME=08.09.27
+14:09:27 / IEE334I HALT     EOD SUCCESSFUL
+14:09:30 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /quiesce
+14:09:31 /quiesce
+14:09:31 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC00809I Processor CP00: disabled wait ...
+14:09:31 HHC17540I [AUTOMATE DEBUG] Response: ipl 150
+14:09:31 HHC00814I Processor CP00: SIGP Stop and store status            (09) CP01, PARM 00000000: CC 0
+14:09:31 HHC00808I Processor CP01: store status completed
+14:09:31 HHC00809I Processor CP01: disabled wait state 000A0000 00000CCC
+14:09:31 HHC00809I Processor CP00: disabled wait state 000A0000 00000CCC
+14:09:35 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: ipl 150
+14:09:36 HHC01603I ipl 150
+14:09:36 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC00010A Enter input for console 0...
+14:09:36 HHC17540I [AUTOMATE DEBUG] Response: /r 0,clpa
+14:09:37 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP01, PARM 00000000: CC 0
+14:09:37 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP02, PARM 00000000: CC 3
+14:09:37 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP03, PARM 00000000: CC 3
+14:09:37 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP04, PARM 00000000: CC 3
+14:09:37 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP05, PARM 00000000: CC 3
+14:09:37 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP06, PARM 00000000: CC 3
+14:09:37 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP07, PARM 00000000: CC 3
+14:09:37 /IEA101A SPECIFY SYSTEM PARAMETERS FOR RELEASE 03.8 .VS2
+14:09:37 HHC00010A Enter input for console 0:0009
+14:09:42 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 0,clpa
+14:09:43 /r 0,clpa
+14:09:43 HHC17540I [AUTOMATE DEBUG] Waiting for: IFB010D ENTER 'IPL REASON,SUBSYSTEM ID' O...
+14:09:43 HHC17540I [AUTOMATE DEBUG] Response: /r 0,U
+14:09:43 /IEA940I THE FOLLOWING PAGE DATA SETS ARE IN USE
+14:09:43 / PLPA ... SYS1.PAGELPA
+14:09:43 / COMMON . SYS1.PAGECSA
+14:09:43 / LOCAL .. SYS1.PAGEL00
+14:09:44 /IEA357I ERRORS IN IEAPAK00 LIST
+14:09:44 /IEA357I IGC0J05B INVALID - MODULE IGNORED 
+14:09:45 /IEA357I IGG08101 INVALID - MODULE IGNORED 
+14:09:45 /IEA357I IGG08102 INVALID - MODULE IGNORED 
+14:09:45 /IEA357I IGG08103 INVALID - MODULE IGNORED 
+14:09:45 /IEA357I IGG08104 INVALID - MODULE IGNORED 
+14:09:45 /IEA357I IGC11110 INVALID - MODULE IGNORED 
+14:09:45 /IEA357I IGC12110 INVALID - MODULE IGNORED 
+14:09:59 /*00 IFB010D ENTER 'IPL REASON,SUBSYSTEM ID' OR 'U'
+14:10:00 / IEE360I SMF NOW RECORDING ON SYS1.MANX ON MVSRES TIME=08.10.00
+14:10:00 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 00,U
+14:10:00 / RAKF is based on the ESG Security System
+14:10:00 / written by Craig J. Yasuna               (Mar 1991)
+14:10:00 / adapted to MVS 3.8J: A. Philip Dickinson (Aug 2005)
+14:10:00 /                      Phil Roberts        (Apr 2011)
+14:10:00 /                      Juergen Winkelmann  (Apr 2011)
+14:10:00 / RAKF004W RAKF not initialized
+14:10:00 / AUTO COMMANDS IN COMMND00 BEING PROCESSED CN=00
+14:10:00 / IEF677I WARNING MESSAGE(S) FOR JOB JES2     ISSUED
+14:10:00 /*01 $HASP426 SPECIFY OPTIONS - HASP-II, VERSION JES2 4.1
+14:10:01 /r 00,U
+14:10:01 HHC17540I [AUTOMATE DEBUG] Waiting for: $HASP426 SPECIFY OPTIONS - HASP-II, VERSION JES...
+14:10:01 HHC17540I [AUTOMATE DEBUG] Response: /r 1,format,noreq
+14:10:01 / IEE600I REPLY TO 00 IS;U
+14:10:01 / IGF992I  MIH INIT COMPLETE, PRI=000300, SEC=000015
+14:10:06 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 01,format,noreq
+14:10:07 /r 01,format,noreq
+14:10:07 HHC17540I # Installing RAKF PTFs
+14:10:07 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP099 ALL AVAILABLE FUNCTIONS COM...
+14:10:07 HHC17540I [AUTOMATE DEBUG] Response: devinit 01c ../SOFTWARE/RAKF/RRKF002E.xmi
+14:10:07 / IEE600I REPLY TO 01 IS;SUPPRESSED
+14:10:08 / $HASP493 JES2 COLD-START IS IN PROGRESS
+14:10:08 / $HASP423 SPOOL1 IS BEING FORMATTED
+14:10:46 / $HASP412 MAXIMUM OF 2   READER(S)  EXCEEDED
+14:10:46 / $HASP412 MAXIMUM OF 1   PUNCH(ES)  EXCEEDED
+14:10:46 / $HASP000 OK
+14:10:46 / $HASP000 OK
+14:10:46 / $HASP000 PRINTER1  00E INACTIVE F=STD1,OPER P=N R=LOCAL    C=6   ,STD
+14:10:46 / $HASP000                        T=0   ,STD S=Y LIM=0-* Q=A
+14:10:46 / $HASP000 PRINTER2  00F ACTIVE   F=STD1,OPER P=N R=LOCAL    C=6   ,STD
+14:10:46 / $HASP000                        T=0   ,STD S=Y LIM=0-* Q=M
+14:10:46 / $HASP000 OK
+14:10:46 / $HASP000 OK
+14:10:46 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:10:46 / $HASP160 PUNCH1   INACTIVE - CLASS=B
+14:10:46 / $HASP160 PRINTER2 INACTIVE - CLASS=M
+14:10:46 / $HASP100 SETPFKEY ON STCINRDR
+14:10:46 / IEE450I 08.10.47 UNIT STATUS 133 
+14:10:46 / UNIT TYPE STATUS  VOLSER VOLSTATE   UNIT TYPE STATUS  VOLSER VOLSTATE
+14:10:46 / 100  2400 O                  /REMOV 101  2400 O                  /REMOV
+14:10:46 / 102  2400 O                  /REMOV 103  2400 O                  /REMOV
+14:10:46 / $HASP100 ZTIMER   ON STCINRDR
+14:10:46 / IEE041I THE SYSTEM LOG IS NOW ACTIVE
+14:10:46 / $HASP100 INIT     ON STCINRDR
+14:10:46 / $HASP100 INIT     ON STCINRDR
+14:10:46 / $HASP100 INIT     ON STCINRDR
+14:10:46 / $HASP373 SETPFKEY STARTED
+14:10:46 / IEF403I SETPFKEY - STARTED - TIME=08.10.47
+14:10:47 / $HASP373 ZTIMER   STARTED
+14:10:47 / IEF403I ZTIMER - STARTED - TIME=08.10.47
+14:10:47 / SETPFKEY EXECUTING
+14:10:47 / $HASP373 INIT     STARTED
+14:10:47 / IEF403I INIT - STARTED - TIME=08.10.47
+14:10:47 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:10:47 / $HASP000 ID 99   T=10.10 I=   0 $VS,'S ZTIMER'
+14:10:47 / $HASP373 INIT     STARTED
+14:10:47 / IEF404I ZTIMER - ENDED - TIME=08.10.47
+14:10:47 / $HASP395 ZTIMER   ENDED
+14:10:47 / IEF403I INIT - STARTED - TIME=08.10.47
+14:10:47 / $HASP309    INIT  2 INACTIVE ******** C=BA
+14:10:47 / IEF404I SETPFKEY - ENDED - TIME=08.10.47
+14:10:47 / $HASP395 SETPFKEY ENDED
+14:10:47 / $HASP373 INIT     STARTED
+14:10:47 / IEF403I INIT - STARTED - TIME=08.10.47
+14:10:47 / $HASP309    INIT  3 INACTIVE ******** C=S
+14:10:47 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:11:07 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 01c ../SOFTWARE/RAKF/RRKF002E.xmi
+14:11:08 HHC01603I devinit 01c ../SOFTWARE/RAKF/RRKF002E.xmi
+14:11:08 HHC02245I 0:001C device initialized
+14:11:08 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC02245I 0:001C device initia...
+14:11:08 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/RAKF/05_rakf_recv_RRKF002.jcl
+14:11:09 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/RAKF/05_rakf_recv_RRKF002.jcl
+14:11:10 HHC01603I sh ./submit.sh ../SOFTWARE/RAKF/05_rakf_recv_RRKF002.jcl
+14:11:10 This script submits JCL from a text file to an MVS socket reader.
+14:11:10 Sending ../SOFTWARE/RAKF/05_rakf_recv_RRKF002.jcl
+14:11:10 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:11:10 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RAKFXMI1 ...
+14:11:10 HHC17540I [AUTOMATE DEBUG] Response: devinit 01c ../SOFTWARE/RAKF/RRKF004E.xmi
+14:11:10 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:11:10 / $HASP100 RAKFXMI1 ON READER1     Recieve XMI
+14:11:10 / $HASP373 RAKFXMI1 STARTED - INIT  1 - CLASS A - SYS HMVS
+14:11:10 / IEF403I RAKFXMI1 - STARTED - TIME=08.11.10
+14:11:10 / IEF236I ALLOC. FOR RAKFXMI1 RECV370
+14:11:10 / IEF237I 01C  ALLOCATED TO XMITIN
+14:11:11 / IEFACTRT RECV370 /RECV370 /00:00:00.14/00:00:00.74/00000/RAKFXMI1
+14:11:11 / IEF404I RAKFXMI1 - ENDED - TIME=08.11.11
+14:11:11 / $HASP395 RAKFXMI1 ENDED
+14:11:11 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:11:11 / $HASP150 RAKFXMI1 ON PRINTER1       101 LINES
+14:11:11 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:11:11 / $HASP250 RAKFXMI1 IS PURGED
+14:11:11 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:11:18 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 01c ../SOFTWARE/RAKF/RRKF004E.xmi
+14:11:19 HHC01603I devinit 01c ../SOFTWARE/RAKF/RRKF004E.xmi
+14:11:19 HHC02245I 0:001C device initialized
+14:11:19 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC02245I 0:001C device initia...
+14:11:19 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/RAKF/06_rakf_recv_RRKF004.jcl
+14:11:23 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/RAKF/06_rakf_recv_RRKF004.jcl
+14:11:24 HHC01603I sh ./submit.sh ../SOFTWARE/RAKF/06_rakf_recv_RRKF004.jcl
+14:11:24 This script submits JCL from a text file to an MVS socket reader.
+14:11:24 Sending ../SOFTWARE/RAKF/06_rakf_recv_RRKF004.jcl
+14:11:24 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:11:24 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RAKFXMI2 ...
+14:11:24 HHC17540I [AUTOMATE DEBUG] Response: devinit 01c ../SOFTWARE/RAKF/RRKF005E.xmi
+14:11:24 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:11:24 / $HASP100 RAKFXMI2 ON READER1     Recieve XMI
+14:11:24 / $HASP373 RAKFXMI2 STARTED - INIT  1 - CLASS A - SYS HMVS
+14:11:24 / IEF403I RAKFXMI2 - STARTED - TIME=08.11.24
+14:11:24 / IEF236I ALLOC. FOR RAKFXMI2 RECV370
+14:11:24 / IEF237I 01C  ALLOCATED TO XMITIN
+14:11:26 / IEFACTRT RECV370 /RECV370 /00:00:00.79/00:00:01.57/00000/RAKFXMI2
+14:11:26 / IEF404I RAKFXMI2 - ENDED - TIME=08.11.26
+14:11:26 / $HASP395 RAKFXMI2 ENDED
+14:11:26 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:11:26 / $HASP150 RAKFXMI2 ON PRINTER1        98 LINES
+14:11:26 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:11:26 / $HASP250 RAKFXMI2 IS PURGED
+14:11:26 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:11:32 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 01c ../SOFTWARE/RAKF/RRKF005E.xmi
+14:11:33 HHC01603I devinit 01c ../SOFTWARE/RAKF/RRKF005E.xmi
+14:11:33 HHC02245I 0:001C device initialized
+14:11:33 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC02245I 0:001C device initia...
+14:11:33 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/RAKF/07_rakf_recv_RRKF005.jcl
+14:11:37 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/RAKF/07_rakf_recv_RRKF005.jcl
+14:11:38 HHC01603I sh ./submit.sh ../SOFTWARE/RAKF/07_rakf_recv_RRKF005.jcl
+14:11:38 This script submits JCL from a text file to an MVS socket reader.
+14:11:38 Sending ../SOFTWARE/RAKF/07_rakf_recv_RRKF005.jcl
+14:11:38 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:11:38 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RAKFXMI3 ...
+14:11:38 HHC17540I [AUTOMATE DEBUG] Response: devinit 01c ../SOFTWARE/RAKF/RRKF006E.xmi
+14:11:38 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:11:38 / $HASP100 RAKFXMI3 ON READER1     Recieve XMI
+14:11:38 / $HASP373 RAKFXMI3 STARTED - INIT  1 - CLASS A - SYS HMVS
+14:11:38 / IEF403I RAKFXMI3 - STARTED - TIME=08.11.38
+14:11:38 / IEF236I ALLOC. FOR RAKFXMI3 RECV370
+14:11:38 / IEF237I 01C  ALLOCATED TO XMITIN
+14:11:39 / IEFACTRT RECV370 /RECV370 /00:00:00.16/00:00:00.68/00000/RAKFXMI3
+14:11:39 / IEF404I RAKFXMI3 - ENDED - TIME=08.11.39
+14:11:39 / $HASP395 RAKFXMI3 ENDED
+14:11:39 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:11:39 / $HASP150 RAKFXMI3 ON PRINTER1       100 LINES
+14:11:39 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:11:39 / $HASP250 RAKFXMI3 IS PURGED
+14:11:39 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:11:46 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: devinit 01c ../SOFTWARE/RAKF/RRKF006E.xmi
+14:11:47 HHC01603I devinit 01c ../SOFTWARE/RAKF/RRKF006E.xmi
+14:11:47 HHC02245I 0:001C device initialized
+14:11:47 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC02245I 0:001C device initia...
+14:11:47 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/RAKF/08_rakf_recv_RRKF006.jcl
+14:11:51 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/RAKF/08_rakf_recv_RRKF006.jcl
+14:11:52 HHC01603I sh ./submit.sh ../SOFTWARE/RAKF/08_rakf_recv_RRKF006.jcl
+14:11:52 This script submits JCL from a text file to an MVS socket reader.
+14:11:52 Sending ../SOFTWARE/RAKF/08_rakf_recv_RRKF006.jcl
+14:11:52 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:11:52 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RAKFXMI4 ...
+14:11:52 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/RAKF/09_rakf_pdsload_ptfs.jcl
+14:11:52 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:11:52 / $HASP100 RAKFXMI4 ON READER1     Recieve XMI
+14:11:52 / $HASP373 RAKFXMI4 STARTED - INIT  1 - CLASS A - SYS HMVS
+14:11:52 / IEF403I RAKFXMI4 - STARTED - TIME=08.11.52
+14:11:52 / IEF236I ALLOC. FOR RAKFXMI4 RECV370
+14:11:52 / IEF237I 01C  ALLOCATED TO XMITIN
+14:11:55 / IEFACTRT RECV370 /RECV370 /00:00:01.94/00:00:03.08/00000/RAKFXMI4
+14:11:55 / IEF404I RAKFXMI4 - ENDED - TIME=08.11.55
+14:11:55 / $HASP395 RAKFXMI4 ENDED
+14:11:55 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:11:55 / $HASP150 RAKFXMI4 ON PRINTER1       109 LINES
+14:11:55 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:11:55 / $HASP250 RAKFXMI4 IS PURGED
+14:11:55 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:12:00 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/RAKF/09_rakf_pdsload_ptfs.jcl
+14:12:01 HHC01603I sh ./submit.sh ../SOFTWARE/RAKF/09_rakf_pdsload_ptfs.jcl
+14:12:01 This script submits JCL from a text file to an MVS socket reader.
+14:12:01 Sending ../SOFTWARE/RAKF/09_rakf_pdsload_ptfs.jcl
+14:12:01 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:12:01 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RAKFPTF1 ...
+14:12:01 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/RAKF/10_rakf_recv_ptfs.jcl
+14:12:01 / $HASP100 RAKFPTF1 ON READER1     PDSLOAD RAKF PTFs
+14:12:02 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:12:02 / $HASP373 RAKFPTF1 STARTED - INIT  1 - CLASS A - SYS HMVS
+14:12:02 / IEF403I RAKFPTF1 - STARTED - TIME=08.12.02
+14:12:02 / IEFACTRT STEP1   /PDSLOAD /00:00:00.05/00:00:00.48/00000/RAKFPTF1
+14:12:02 / IEF404I RAKFPTF1 - ENDED - TIME=08.12.02
+14:12:02 / $HASP395 RAKFPTF1 ENDED
+14:12:02 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:12:02 / $HASP150 RAKFPTF1 ON PRINTER1        76 LINES
+14:12:02 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:12:02 / $HASP250 RAKFPTF1 IS PURGED
+14:12:02 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:12:10 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/RAKF/10_rakf_recv_ptfs.jcl
+14:12:11 HHC01603I sh ./submit.sh ../SOFTWARE/RAKF/10_rakf_recv_ptfs.jcl
+14:12:11 This script submits JCL from a text file to an MVS socket reader.
+14:12:11 Sending ../SOFTWARE/RAKF/10_rakf_recv_ptfs.jcl
+14:12:12 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:12:12 HHC17540I # Installing RAKF customization and auxilary tools (MAWK, VTOC and IGC0024D)
+14:12:12 HHC17540I # Installing RAKF User IDs and Profiles
+14:12:12 HHC17540I # Adding User IBMUSER
+14:12:12 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RAKFPTF2 ...
+14:12:12 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/RAKF/11_rakf_customization_auxutils.jcl
+14:12:12 / $HASP100 RAKFPTF2 ON READER1     RAKF PTF
+14:12:12 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:12:12 / $HASP373 RAKFPTF2 STARTED - INIT  1 - CLASS A - SYS HMVS
+14:12:12 / IEF403I RAKFPTF2 - STARTED - TIME=08.12.12
+14:12:17 / IEFACTRT HMASMP  /HMASMP  /00:00:00.49/00:00:04.69/00012/RAKFPTF2
+14:12:21 / IEFACTRT HMASMP  /HMASMP  /00:00:00.51/00:00:04.84/00012/RAKFPTF2
+14:12:26 / IEFACTRT HMASMP  /HMASMP  /00:00:00.51/00:00:04.70/00012/RAKFPTF2
+14:12:31 / IEFACTRT HMASMP  /HMASMP  /00:00:00.51/00:00:04.79/00012/RAKFPTF2
+14:12:36 / IEFACTRT HMASMP  /HMASMP  /00:00:00.50/00:00:04.64/00012/RAKFPTF2
+14:12:40 / IEFACTRT HMASMP  /HMASMP  /00:00:00.50/00:00:04.73/00012/RAKFPTF2
+14:16:34 / IEFACTRT HMASMP  /HMASMP  /00:00:37.18/00:03:54.05/00004/RAKFPTF2
+14:16:34 / IEF404I RAKFPTF2 - ENDED - TIME=08.16.35
+14:16:34 / $HASP395 RAKFPTF2 ENDED
+14:16:34 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:16:34 / $HASP150 RAKFPTF2 ON PRINTER1     8,133 LINES
+14:16:36 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/RAKF/11_rakf_customization_auxutils.jcl
+14:16:36 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:16:36 / $HASP250 RAKFPTF2 IS PURGED
+14:16:36 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:16:37 HHC01603I sh ./submit.sh ../SOFTWARE/RAKF/11_rakf_customization_auxutils.jcl
+14:16:37 This script submits JCL from a text file to an MVS socket reader.
+14:16:37 Sending ../SOFTWARE/RAKF/11_rakf_customization_auxutils.jcl
+14:16:37 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:16:37 HHC17540I [AUTOMATE DEBUG] Waiting for: IEC301A S JOB INIT     DSNAME SYS1.VSAM.MASTER.CA...
+14:16:37 HHC17540I [AUTOMATE DEBUG] Response: /r 02,sysprog
+14:16:37 / $HASP100 RAKFCUST ON READER1     Customizations
+14:16:37 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:16:37 / $HASP373 RAKFCUST STARTED - INIT  3 - CLASS S - SYS HMVS
+14:16:37 / IEF403I RAKFCUST - STARTED - TIME=08.16.37
+14:16:39 / IEFACTRT HMASMP  /HMASMP  /00:00:00.27/00:00:02.63/00012/RAKFCUST
+14:17:15 / IEFACTRT HMASMP  /HMASMP  /00:00:06.19/00:00:35.43/00004/RAKFCUST
+14:17:15 / IEFACTRT LISTCAT /IDCAMS  /00:00:00.07/00:00:00.19/00000/RAKFCUST
+14:17:15 / IEFACTRT SCRATCH /IEHPROGM/00:00:00.03/00:00:00.13/00008/RAKFCUST
+14:17:16 / IEFACTRT EVAL01  /PSU001  /00:00:00.01/00:00:00.19/00000/RAKFCUST
+14:17:16 / IEFACTRT PW02    /PSU002  /00:00:00.01/00:00:00.25/00000/RAKFCUST
+14:17:41 / IEFACTRT TSO03   /IKJEFT01/00:00:02.31/00:00:24.78/00000/RAKFCUST
+14:17:41 / IEFACTRT PW04    /PSU002  /00:00:00.01/00:00:00.26/00000/RAKFCUST
+14:17:41 / IEFACTRT IDC05   /IDCAMS  /00:00:00.07/00:00:00.22/00000/RAKFCUST
+14:17:41 /*02 IEC301A S JOB INIT     DSNAME SYS1.VSAM.MASTER.CATALOG
+14:17:42 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 02,sysprog
+14:17:43 /r 02,sysprog
+14:17:43 HHC17540I [AUTOMATE DEBUG] Waiting for: IEC301A S JOB RAKFCUST DSNAME SYS1.VSAM.MASTER.CA...
+14:17:43 HHC17540I [AUTOMATE DEBUG] Response: /r 03,sysprog
+14:17:43 / IEE600I REPLY TO 02 IS;SUPPRESSED
+14:17:43 / IEFACTRT ALLOC   /IEFBR14 /00:00:00.01/00:00:02.02/00000/RAKFCUST
+14:17:44 / IEFACTRT RECEIVE /RECV370 /00:00:00.16/00:00:00.93/00000/RAKFCUST
+14:17:44 / IEFACTRT RKFINIT1/IEBGENER/00:00:00.03/00:00:00.14/00000/RAKFCUST
+14:17:45 / IEFACTRT INSTALL /IEBCOPY /00:00:00.21/00:00:00.97/00000/RAKFCUST
+14:17:45 / IEFACTRT DEL01   /IEFBR14 /00:00:00.01/00:00:00.10/00000/RAKFCUST
+14:17:46 / IEFACTRT AL02    /IEFBR14 /00:00:00.01/00:00:00.27/00000/RAKFCUST
+14:17:46 / IEFACTRT PW03    /PSU002  /00:00:00.01/00:00:00.24/00000/RAKFCUST
+14:17:46 / IEFACTRT PW04    /PSU002  /00:00:00.01/00:00:00.21/00000/RAKFCUST
+14:17:46 / IEFACTRT PW05    /PSU002  /00:00:00.01/00:00:00.20/00000/RAKFCUST
+14:17:47 / IEFACTRT PW06    /PSU002  /00:00:00.01/00:00:00.21/00000/RAKFCUST
+14:18:11 / IEFACTRT TSO07   /IKJEFT01/00:00:02.34/00:00:24.34/00000/RAKFCUST
+14:18:11 / IEFACTRT PW08    /PSU002  /00:00:00.01/00:00:00.25/00000/RAKFCUST
+14:18:11 / IEFACTRT PW09    /PSU002  /00:00:00.01/00:00:00.22/00000/RAKFCUST
+14:18:12 / IEFACTRT PW10    /PSU002  /00:00:00.01/00:00:00.21/00000/RAKFCUST
+14:18:12 / IEFACTRT PW11    /PSU002  /00:00:00.01/00:00:00.20/00000/RAKFCUST
+14:18:12 / IEFACTRT PW12    /PSU002  /00:00:00.01/00:00:00.21/00000/RAKFCUST
+14:18:12 / IEFACTRT PW13    /PSU002  /00:00:00.01/00:00:00.21/00000/RAKFCUST
+14:18:13 / IEFACTRT PW14    /PSU002  /00:00:00.01/00:00:00.21/00000/RAKFCUST
+14:18:13 /*03 IEC301A S JOB RAKFCUST DSNAME SYS1.VSAM.MASTER.CATALOG
+14:18:15 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 03,sysprog
+14:18:16 /r 03,sysprog
+14:18:16 HHC17540I [AUTOMATE DEBUG] Waiting for: IEC301A S JOB INIT     DSNAME SYS1.VSAM.MASTER.CA...
+14:18:16 HHC17540I [AUTOMATE DEBUG] Response: /r 04,sysprog
+14:18:16 / IEE600I REPLY TO 03 IS;SUPPRESSED
+14:18:17 / IEFACTRT IDC15   /IDCAMS  /00:00:00.24/00:00:04.17/00000/RAKFCUST
+14:18:17 /*04 IEC301A S JOB INIT     DSNAME SYS1.VSAM.MASTER.CATALOG
+14:18:19 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 04,sysprog
+14:18:20 /r 04,sysprog
+14:18:20 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RAKFCUST ...
+14:18:20 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/RAKF/12_rakf_users_profiles.jcl
+14:18:20 / IEE600I REPLY TO 04 IS;SUPPRESSED
+14:18:20 / IEFACTRT RAKFCNTL/PDSLOAD /00:00:00.03/00:00:03.48/00000/RAKFCUST
+14:18:20 / IEF404I RAKFCUST - ENDED - TIME=08.18.20
+14:18:20 / $HASP395 RAKFCUST ENDED
+14:18:20 / $HASP309    INIT  3 INACTIVE ******** C=S
+14:18:20 / $HASP150 RAKFCUST ON PRINTER1     2,137 LINES
+14:18:21 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:18:21 / $HASP250 RAKFCUST IS PURGED
+14:18:21 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:18:24 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/RAKF/12_rakf_users_profiles.jcl
+14:18:25 HHC01603I sh ./submit.sh ../SOFTWARE/RAKF/12_rakf_users_profiles.jcl
+14:18:25 This script submits JCL from a text file to an MVS socket reader.
+14:18:25 Sending ../SOFTWARE/RAKF/12_rakf_users_profiles.jcl
+14:18:25 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:18:25 HHC17540I # Default SVC244 is insecure, replacing with secure version from TK4-
+14:18:25 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 RAKFUPST ...
+14:18:25 HHC17540I [AUTOMATE DEBUG] Response: sh ./submit.sh ../SOFTWARE/RAKF/13_install_rakf_svc244.jcl
+14:18:25 / $HASP100 RAKFUPST ON READER1     UP
+14:18:25 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:18:25 / $HASP373 RAKFUPST STARTED - INIT  3 - CLASS S - SYS HMVS
+14:18:25 / IEF403I RAKFUPST - STARTED - TIME=08.18.25
+14:18:26 / IEFACTRT SORT    /SORT    /00:00:00.16/00:00:01.12/00000/RAKFUPST
+14:18:27 / IEFACTRT SORT    /SORT    /00:00:00.18/00:00:01.24/00000/RAKFUPST
+14:18:27 / IEF404I RAKFUPST - ENDED - TIME=08.18.27
+14:18:27 / $HASP395 RAKFUPST ENDED
+14:18:27 / $HASP309    INIT  3 INACTIVE ******** C=S
+14:18:27 / $HASP150 RAKFUPST ON PRINTER1       169 LINES
+14:18:27 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:18:27 / $HASP250 RAKFUPST IS PURGED
+14:18:27 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:18:35 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: sh ./submit.sh ../SOFTWARE/RAKF/13_install_rakf_svc244.jcl
+14:18:36 HHC01603I sh ./submit.sh ../SOFTWARE/RAKF/13_install_rakf_svc244.jcl
+14:18:36 This script submits JCL from a text file to an MVS socket reader.
+14:18:36 Sending ../SOFTWARE/RAKF/13_install_rakf_svc244.jcl
+14:18:36 HHC01040I 0:000C COMM: client localhost, IP 127.0.0.1 connected to device localhost:3505
+14:18:36 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP395 SVC244   ...
+14:18:36 HHC17540I [AUTOMATE DEBUG] Response: /$pjes2
+14:18:36 HHC01206I 0:000C Card: client localhost, IP 127.0.0.1 disconnected from device localhost:3505
+14:18:36 / $HASP100 SVC244   ON READER1     Build SVC 244
+14:18:36 / $HASP373 SVC244   STARTED - INIT  3 - CLASS S - SYS HMVS
+14:18:36 / IEF403I SVC244 - STARTED - TIME=08.18.36
+14:18:36 / IEFACTRT ASMSVC  /IFOX00  /00:00:00.22/00:00:00.35/00000/SVC244
+14:18:36 / IEFACTRT LINK    /IEWL    /00:00:00.05/00:00:00.17/00000/SVC244
+14:18:36 / IEF404I SVC244 - ENDED - TIME=08.18.36
+14:18:36 / $HASP395 SVC244   ENDED
+14:18:36 / $HASP309    INIT  3 INACTIVE ******** C=S
+14:18:36 / $HASP150 SVC244   ON PRINTER1       330 LINES
+14:18:36 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:18:36 / $HASP250 SVC244   IS PURGED
+14:18:36 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:18:45 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /$pjes2
+14:18:46 /$pjes2
+14:18:46 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP085 JES2 TERMINATION COM...
+14:18:46 HHC17540I [AUTOMATE DEBUG] Response: /z eod
+14:18:46 / IEF404I INIT - ENDED - TIME=08.18.46
+14:18:46 / IEF404I INIT - ENDED - TIME=08.18.46
+14:18:46 / $HASP395 INIT     ENDED
+14:18:46 / $HASP395 INIT     ENDED
+14:18:46 / IEF404I INIT - ENDED - TIME=08.18.46
+14:18:46 / $HASP395 INIT     ENDED
+14:18:46 / IEE043I A SYSTEM LOG DATA SET HAS BEEN QUEUED TO SYSOUT CLASS A
+14:18:46 / IEE037I LOG NOT ACTIVE
+14:18:51 / $HASP085 JES2 TERMINATION COMPLETE
+14:18:51 / IEF404I JES2 - ENDED - TIME=08.18.52
+14:18:55 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /z eod
+14:18:56 /z eod
+14:18:56 HHC17540I [AUTOMATE DEBUG] Waiting for: / IEE334I HALT     EOD SUCCE...
+14:18:56 HHC17540I [AUTOMATE DEBUG] Response: /quiesce
+14:18:56 /*IEE362A SMF ENTER DUMP FOR SYS1.MANX ON MVSRES
+14:18:56 / IEE360I SMF NOW RECORDING ON SYS1.MANY ON MVSRES TIME=08.18.56
+14:18:56 / IEE334I HALT     EOD SUCCESSFUL
+14:18:59 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /quiesce
+14:19:00 /quiesce
+14:19:00 HHC17540I # Rebooting to Create Link Pack Area and format spools
+14:19:00 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC00809I Processor CP01: disabled wait ...
+14:19:00 HHC17540I [AUTOMATE DEBUG] Response: ipl 150
+14:19:00 HHC00814I Processor CP00: SIGP Stop and store status            (09) CP01, PARM 00000000: CC 0
+14:19:00 HHC00808I Processor CP01: store status completed
+14:19:00 HHC00809I Processor CP01: disabled wait state 000A0000 00000CCC
+14:19:00 HHC00809I Processor CP00: disabled wait state 000A0000 00000CCC
+14:19:04 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: ipl 150
+14:19:05 HHC01603I ipl 150
+14:19:05 HHC17540I [AUTOMATE DEBUG] Waiting for: HHC00010A Enter input for console 0...
+14:19:05 HHC17540I [AUTOMATE DEBUG] Response: /r 0,clpa
+14:19:06 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP01, PARM 00000000: CC 0
+14:19:06 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP02, PARM 00000000: CC 3
+14:19:06 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP03, PARM 00000000: CC 3
+14:19:06 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP04, PARM 00000000: CC 3
+14:19:06 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP05, PARM 00000000: CC 3
+14:19:06 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP06, PARM 00000000: CC 3
+14:19:06 HHC00814I Processor CP00: SIGP Initial program reset            (07) CP07, PARM 00000000: CC 3
+14:19:06 /IEA101A SPECIFY SYSTEM PARAMETERS FOR RELEASE 03.8 .VS2
+14:19:06 HHC00010A Enter input for console 0:0009
+14:19:11 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 0,clpa
+14:19:12 /r 0,clpa
+14:19:12 HHC17540I [AUTOMATE DEBUG] Waiting for: IFB010D ENTER 'IPL REASON,SUBSYSTEM ID' O...
+14:19:12 HHC17540I [AUTOMATE DEBUG] Response: /r 0,U
+14:19:13 /IEA940I THE FOLLOWING PAGE DATA SETS ARE IN USE
+14:19:13 / PLPA ... SYS1.PAGELPA
+14:19:13 / COMMON . SYS1.PAGECSA
+14:19:13 / LOCAL .. SYS1.PAGEL00
+14:19:14 /IEA357I ERRORS IN IEAPAK00 LIST
+14:19:14 /IEA357I IGC0J05B INVALID - MODULE IGNORED 
+14:19:14 /IEA357I IGG08101 INVALID - MODULE IGNORED 
+14:19:14 /IEA357I IGG08102 INVALID - MODULE IGNORED 
+14:19:14 /IEA357I IGG08103 INVALID - MODULE IGNORED 
+14:19:14 /IEA357I IGG08104 INVALID - MODULE IGNORED 
+14:19:14 /IEA357I IGC11110 INVALID - MODULE IGNORED 
+14:19:14 /IEA357I IGC12110 INVALID - MODULE IGNORED 
+14:19:29 /*00 IFB010D ENTER 'IPL REASON,SUBSYSTEM ID' OR 'U'
+14:19:29 / IEE360I SMF NOW RECORDING ON SYS1.MANX ON MVSRES TIME=08.19.29
+14:19:29 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 00,U
+14:19:29 / RAKF is based on the ESG Security System
+14:19:29 / written by Craig J. Yasuna               (Mar 1991)
+14:19:29 / adapted to MVS 3.8J: A. Philip Dickinson (Aug 2005)
+14:19:29 /                      Phil Roberts        (Apr 2011)
+14:19:29 /                      Juergen Winkelmann  (Apr 2011)
+14:19:29 / RAKF001I RAKF is now being activated
+14:19:29 / RCVT WAS PROCESSED SUCCESSFULLY
+14:19:29 / RAKF003I RAKF is now active
+14:19:30 / RAKFPROF7  RAKF PROFILES UPDATED
+14:19:30 / RAKFUIDS4  USER TABLE UPDATED
+14:19:30 / AUTO COMMANDS IN COMMND00 BEING PROCESSED CN=00
+14:19:30 / IEF677I WARNING MESSAGE(S) FOR JOB JES2     ISSUED
+14:19:30 /*01 $HASP426 SPECIFY OPTIONS - HASP-II, VERSION JES2 4.1
+14:19:30 /r 00,U
+14:19:30 HHC17540I [AUTOMATE DEBUG] Waiting for: $HASP426 SPECIFY OPTIONS - HASP-II, VERSION JES...
+14:19:30 HHC17540I [AUTOMATE DEBUG] Response: /r 1,format,noreq
+14:19:30 / IEE600I REPLY TO 00 IS;U
+14:19:30 / IGF992I  MIH INIT COMPLETE, PRI=000300, SEC=000015
+14:19:37 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /r 01,format,noreq
+14:19:38 /r 01,format,noreq
+14:19:38 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP099 ALL AVAILABLE FUNCTIONS COM...
+14:19:38 HHC17540I [AUTOMATE DEBUG] Response: /$pjes2
+14:19:38 / IEE600I REPLY TO 01 IS;SUPPRESSED
+14:19:39 / $HASP493 JES2 COLD-START IS IN PROGRESS
+14:19:39 / $HASP423 SPOOL1 IS BEING FORMATTED
+14:20:17 / $HASP412 MAXIMUM OF 2   READER(S)  EXCEEDED
+14:20:17 / $HASP412 MAXIMUM OF 1   PUNCH(ES)  EXCEEDED
+14:20:17 / $HASP000 OK
+14:20:17 / $HASP000 OK
+14:20:17 / $HASP000 PRINTER1  00E INACTIVE F=STD1,OPER P=N R=LOCAL    C=6   ,STD
+14:20:17 / $HASP000                        T=0   ,STD S=Y LIM=0-* Q=A
+14:20:17 / $HASP000 PRINTER2  00F ACTIVE   F=STD1,OPER P=N R=LOCAL    C=6   ,STD
+14:20:17 / $HASP000                        T=0   ,STD S=Y LIM=0-* Q=M
+14:20:17 / $HASP000 OK
+14:20:17 / $HASP000 OK
+14:20:17 / $HASP160 PRINTER1 INACTIVE - CLASS=A
+14:20:17 / $HASP160 PUNCH1   INACTIVE - CLASS=B
+14:20:17 / $HASP160 PRINTER2 INACTIVE - CLASS=M
+14:20:17 / $HASP100 SETPFKEY ON STCINRDR
+14:20:17 / $HASP100 ZTIMER   ON STCINRDR
+14:20:17 / IEE450I 08.20.18 UNIT STATUS 138 
+14:20:17 / UNIT TYPE STATUS  VOLSER VOLSTATE   UNIT TYPE STATUS  VOLSER VOLSTATE
+14:20:17 / 100  2400 O                  /REMOV 101  2400 O                  /REMOV
+14:20:17 / 102  2400 O                  /REMOV 103  2400 O                  /REMOV
+14:20:17 / IEE041I THE SYSTEM LOG IS NOW ACTIVE
+14:20:17 / $HASP100 INIT     ON STCINRDR
+14:20:17 / $HASP100 INIT     ON STCINRDR
+14:20:17 / $HASP100 INIT     ON STCINRDR
+14:20:17 / $HASP373 SETPFKEY STARTED
+14:20:17 / IEF403I SETPFKEY - STARTED - TIME=08.20.18
+14:20:18 / $HASP373 ZTIMER   STARTED
+14:20:18 / SETPFKEY EXECUTING
+14:20:18 / IEF403I ZTIMER - STARTED - TIME=08.20.18
+14:20:18 / $HASP373 INIT     STARTED
+14:20:18 / IEF403I INIT - STARTED - TIME=08.20.18
+14:20:18 / $HASP309    INIT  1 INACTIVE ******** C=A
+14:20:18 / $HASP000 ID 99   T=10.20 I=   0 $VS,'S ZTIMER'
+14:20:18 / $HASP373 INIT     STARTED
+14:20:18 / IEF404I ZTIMER - ENDED - TIME=08.20.18
+14:20:18 / $HASP395 ZTIMER   ENDED
+14:20:18 / IEF403I INIT - STARTED - TIME=08.20.18
+14:20:18 / $HASP309    INIT  2 INACTIVE ******** C=BA
+14:20:18 / IEF404I SETPFKEY - ENDED - TIME=08.20.18
+14:20:18 / $HASP395 SETPFKEY ENDED
+14:20:18 / $HASP373 INIT     STARTED
+14:20:18 / IEF403I INIT - STARTED - TIME=08.20.18
+14:20:18 / $HASP309    INIT  3 INACTIVE ******** C=S
+14:20:18 / $HASP099 ALL AVAILABLE FUNCTIONS COMPLETE
+14:20:38 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /$pjes2
+14:20:39 /$pjes2
+14:20:39 HHC17540I [AUTOMATE DEBUG] Waiting for: / $HASP085 JES2 TERMINATION COM...
+14:20:39 HHC17540I [AUTOMATE DEBUG] Response: /z eod
+14:20:39 / IEF404I INIT - ENDED - TIME=08.20.39
+14:20:39 / $HASP395 INIT     ENDED
+14:20:39 / IEF404I INIT - ENDED - TIME=08.20.39
+14:20:39 / IEF404I INIT - ENDED - TIME=08.20.39
+14:20:39 / $HASP395 INIT     ENDED
+14:20:39 / $HASP395 INIT     ENDED
+14:20:39 / IEE043I A SYSTEM LOG DATA SET HAS BEEN QUEUED TO SYSOUT CLASS A
+14:20:39 / IEE037I LOG NOT ACTIVE
+14:20:44 / $HASP085 JES2 TERMINATION COMPLETE
+14:20:44 / IEF404I JES2 - ENDED - TIME=08.20.44
+14:20:45 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /z eod
+14:20:46 /z eod
+14:20:46 HHC17540I [AUTOMATE DEBUG] Waiting for: / IEE334I HALT     EOD SUCCE...
+14:20:46 HHC17540I [AUTOMATE DEBUG] Response: /quiesce
+14:20:46 /*IEE362A SMF ENTER DUMP FOR SYS1.MANX ON MVSRES
+14:20:46 / IEE360I SMF NOW RECORDING ON SYS1.MANY ON MVSRES TIME=08.20.46
+14:20:46 / IEE334I HALT     EOD SUCCESSFUL
+14:20:49 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: /quiesce
+14:20:50 /quiesce
+14:20:50 HHC17540I [AUTOMATE DEBUG] Waiting for: Processor CP00: disabled wait ...
+14:20:50 HHC17540I [AUTOMATE DEBUG] Response: quit
+14:20:50 HHC00814I Processor CP00: SIGP Stop and store status            (09) CP01, PARM 00000000: CC 0
+14:20:50 HHC00808I Processor CP01: store status completed
+14:20:50 HHC00809I Processor CP01: disabled wait state 000A0000 00000CCC
+14:20:50 HHC00809I Processor CP00: disabled wait state 000A0000 00000CCC
+14:20:54 HHC17540I [AUTOMATE DEBUG] Found challenge, replying with: quit
+14:20:55 HHC01603I sh rm -f failure
+14:20:55 HHC01603I quit
+14:20:55 HHC01420I Begin Hercules shutdown
+14:20:55 HHC01423I Calling termination routines
+14:20:55 HHC01423I Calling termination routines
+14:20:55 HHC00101I Thread id 00007f85d8f6b700, prio 0, name 'socket_thread' ended
+14:20:55 HHC00101I Thread id 00007f85d8e69700, prio 0, name 'Processor CP00' ended
+14:20:55 HHC00101I Thread id 00007f85d906c700, prio 0, name 'Processor CP01' ended
+14:20:55 HHC00333I 0:0150   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00334I 0:0150                                                      readaheads   misses
+14:20:55 HHC00335I 0:0150 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0150 [*] 32 00012477501 007% 0021    0003405 0019130 0000147 0007696  0009391
+14:20:55 HHC00337I 0:0150                                                         0001798  0000462
+14:20:55 HHC00338I 0:0150 dasd/mvsres.3350
+14:20:55 HHC00339I 0:0150 [0] 32 00012477501 007% 0021 rw 0003405 0019130 0000147
+14:20:55 HHC00333I 0:0151   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00334I 0:0151                                                      readaheads   misses
+14:20:55 HHC00335I 0:0151 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0151 [*] 32 00001404127 029% 0004    0000163 0005018 0000043 0000718  0000840
+14:20:55 HHC00337I 0:0151                                                         0000091  0000026
+14:20:55 HHC00338I 0:0151 dasd/mvs000.3350
+14:20:55 HHC00339I 0:0151 [0] 32 00001404127 029% 0004 rw 0000163 0005018 0000043
+14:20:55 HHC00333I 0:0152   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00334I 0:0152                                                      readaheads   misses
+14:20:55 HHC00335I 0:0152 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0152 [*] 32 00006864172 005% 0086    0001892 0117414 0000286 0002323  0003257
+14:20:55 HHC00337I 0:0152                                                         0000958  0000233
+14:20:55 HHC00338I 0:0152 dasd/page00.3350
+14:20:55 HHC00339I 0:0152 [0] 32 00006864172 005% 0086 rw 0001892 0117414 0000286
+14:20:55 HHC00333I 0:0153   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00334I 0:0153                                                      readaheads   misses
+14:20:55 HHC00335I 0:0153 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0153 [*] 32 00002600341 011% 0070    0033728 0259505 0000187 0034901  0035108
+14:20:55 HHC00337I 0:0153                                                         0033525  0000111
+14:20:55 HHC00338I 0:0153 dasd/spool1.3350
+14:20:55 HHC00339I 0:0153 [0] 32 00002600341 011% 0070 rw 0033728 0259505 0000187
+14:20:55 HHC00333I 0:0180   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00334I 0:0180                                                      readaheads   misses
+14:20:55 HHC00335I 0:0180 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0180 [*] 32 00000195437 000% 0000    0000014 0003384 0000002 0000068  0000088
+14:20:55 HHC00337I 0:0180                                                         0000004  0000004
+14:20:55 HHC00338I 0:0180 dasd/pub000.3380
+14:20:55 HHC00339I 0:0180 [0] 32 00000195437 000% 0000 rw 0000014 0003384 0000002
+14:20:55 HHC00333I 0:0190   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00334I 0:0190                                                      readaheads   misses
+14:20:55 HHC00335I 0:0190 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0190 [*] 32 00001905118 000% 0000    0000140 0013360 0000002 0052431  0052767
+14:20:55 HHC00337I 0:0190                                                         0000503  0000075
+14:20:55 HHC00338I 0:0190 dasd/pub001.3390
+14:20:55 HHC00339I 0:0190 [0] 32 00001905118 000% 0000 rw 0000140 0013360 0000002
+14:20:55 HHC00333I 0:0220   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00335I 0:0220 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0220 [*] 32 00000018540 000% 0000    0000004 0000010 0000001 0000000  0000004
+14:20:55 HHC00338I 0:0220 dasd/sortw1.2314
+14:20:55 HHC00339I 0:0220 [0] 32 00000018540 000% 0000 rw 0000004 0000010 0000001
+14:20:55 HHC00333I 0:0221   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00335I 0:0221 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0221 [*] 32 00000004063 000% 0000    0000004 0000022 0000001 0000000  0000004
+14:20:55 HHC00338I 0:0221 dasd/sortw2.2314
+14:20:55 HHC00339I 0:0221 [0] 32 00000004063 000% 0000 rw 0000004 0000022 0000001
+14:20:55 HHC00333I 0:0222   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00335I 0:0222 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0222 [*] 32 00000004063 000% 0000    0000004 0000022 0000001 0000000  0000004
+14:20:55 HHC00338I 0:0222 dasd/sortw3.2314
+14:20:55 HHC00339I 0:0222 [0] 32 00000004063 000% 0000 rw 0000004 0000022 0000001
+14:20:55 HHC00333I 0:0223   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00334I 0:0223                                                      readaheads   misses
+14:20:55 HHC00335I 0:0223 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0223 [*] 32 00000022094 000% 0000    0000003 0000000 0000001 0000000  0000003
+14:20:55 HHC00337I 0:0223                                                         0000000  0000001
+14:20:55 HHC00338I 0:0223 dasd/sortw4.2314
+14:20:55 HHC00339I 0:0223 [0] 32 00000022094 000% 0000 rw 0000003 0000000 0000001
+14:20:55 HHC00333I 0:0224   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00335I 0:0224 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0224 [*] 32 00000004063 000% 0000    0000004 0000022 0000001 0000000  0000004
+14:20:55 HHC00338I 0:0224 dasd/sortw5.2314
+14:20:55 HHC00339I 0:0224 [0] 32 00000004063 000% 0000 rw 0000004 0000022 0000001
+14:20:55 HHC00333I 0:0225   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00335I 0:0225 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0225 [*] 32 00000004542 000% 0000    0000004 0000039 0000001 0000010  0000016
+14:20:55 HHC00338I 0:0225 dasd/sortw6.2314
+14:20:55 HHC00339I 0:0225 [0] 32 00000004542 000% 0000 rw 0000004 0000039 0000001
+14:20:55 HHC00333I 0:0250   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00334I 0:0250                                                      readaheads   misses
+14:20:55 HHC00335I 0:0250 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0250 [*] 32 00044890517 026% 0347    0001864 0008559 0000250 0006716  0006983
+14:20:55 HHC00337I 0:0250                                                         0001643  0000327
+14:20:55 HHC00338I 0:0250 dasd/smp000.3350
+14:20:55 HHC00339I 0:0250 [0] 32 00044890517 026% 0347 rw 0001864 0008559 0000250
+14:20:55 HHC00333I 0:0251   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00334I 0:0251                                                      readaheads   misses
+14:20:55 HHC00335I 0:0251 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0251 [*] 32 00002122626 014% 0001    0000430 0004880 0000003 0002578  0002685
+14:20:55 HHC00337I 0:0251                                                         0000445  0000103
+14:20:55 HHC00338I 0:0251 dasd/work00.3350
+14:20:55 HHC00339I 0:0251 [0] 32 00002122626 014% 0001 rw 0000430 0004880 0000003
+14:20:55 HHC00333I 0:0252   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00334I 0:0252                                                      readaheads   misses
+14:20:55 HHC00335I 0:0252 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0252 [*] 32 00016479230 007% 0026    0000552 0016554 0000049 0003465  0003609
+14:20:55 HHC00337I 0:0252                                                         0000428  0000103
+14:20:55 HHC00338I 0:0252 dasd/work01.3350
+14:20:55 HHC00339I 0:0252 [0] 32 00016479230 007% 0026 rw 0000552 0016554 0000049
+14:20:55 HHC00333I 0:0253   32/64       size free  nbr st   reads  writes l2reads    hits switches
+14:20:55 HHC00334I 0:0253                                                      readaheads   misses
+14:20:55 HHC00335I 0:0253 ------------------------------------------------------------------------
+14:20:55 HHC00336I 0:0253 [*] 32 00026916354 003% 0001    0000146 0015793 0000091 0000567  0000667
+14:20:55 HHC00337I 0:0253                                                         0000047  0000042
+14:20:55 HHC00338I 0:0253 dasd/syscpk.3350
+14:20:55 HHC00339I 0:0253 [0] 32 00026916354 003% 0001 rw 0000146 0015793 0000091
+14:20:55 HHC00101I Thread id 00007f85cb7fc700, prio 0, name 'cckd_ra thread 2' ended
+14:20:55 HHC00101I Thread id 00007f85d8129700, prio 0, name 'cckd_ra thread 1' ended
+14:20:55 HHC00101I Thread id 00007f85cb5fa700, prio 0, name 'cckd_gcol' ended
+14:20:55 HHC00101I Thread id 00007f85cb2f7700, prio 0, name 'cckd_writer thread 2' ended
+14:20:55 HHC00101I Thread id 00007f85cb6fb700, prio 0, name 'cckd_writer thread 1' ended
+14:20:55 HHC00101I Thread id 00007f85d842c700, prio 0, name 'console_connect' ended
+14:20:55 HHC01427I Main storage released
+14:20:55 HHC01427I Expanded storage released
+14:20:55 HHC01422I Configuration released
+14:20:55 HHC00101I Thread id 00007f85d8d68700, prio 0, name 'timer_thread' ended
+14:20:55 HHC00101I Thread id 00007f85d96d0540, prio 0, name 'panel_display' ended

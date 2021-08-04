@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcrypto64d.a  CMakeFiles/crypto64d.dir/crypto_version.c.o CMakeFiles/crypto64d.dir/source/rijndael.c.o CMakeFiles/crypto64d.dir/source/sha1.c.o CMakeFiles/crypto64d.dir/source/sha2.c.o CMakeFiles/crypto64d.dir/source/sshdes.c.o
+/usr/bin/ranlib libcrypto64d.a
